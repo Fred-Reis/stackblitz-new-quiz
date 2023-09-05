@@ -1,26 +1,8 @@
 [
   {
     "radiantRecommendation": "10 - Light/Medium Olive",
-    "qualifiers": [
-      {
-        "name": "Medium",
-        "type": "Concealer",
-        "_id": "a2a36b61-8c38-4eb3-87af-2d28f82bae15"
-      },
-      {
-        "name": "Light/Medium",
-        "type": "Concealer",
-        "_id": "4a60be60-86d3-4f99-831b-f48d06b8b59b"
-      },
-      {
-        "name": "Olive",
-        "type": "Concealer",
-        "_id": "ec967718-d6c8-43ad-a7a5-eaa409d2d98c"
-      }
-    ],
     "name": "130 - Light Medium Warm 1",
     "additionalRecommendation": [],
-    "default": false,
     "backgroundColor": "",
     "resultImage": [
       {
@@ -58,31 +40,33 @@
       }
     ],
     "shadeRecommended": "130 - Light Medium Warm",
-    "category": "Only",
-    "_id": "d2afafcf-37a1-465c-bf51-3a1484455956"
+    "_id": "d2afafcf-37a1-465c-bf51-3a1484455956",
+    "quizzAttributes": {
+      "qualifiers": [
+        {
+          "name": "Medium",
+          "type": "Concealer",
+          "_id": "a2a36b61-8c38-4eb3-87af-2d28f82bae15"
+        },
+        {
+          "name": "Light/Medium",
+          "type": "Concealer",
+          "_id": "4a60be60-86d3-4f99-831b-f48d06b8b59b"
+        },
+        {
+          "name": "Olive",
+          "type": "Concealer",
+          "_id": "ec967718-d6c8-43ad-a7a5-eaa409d2d98c"
+        }
+      ],
+      "category": "Only",
+      "default": false
+    }
   },
   {
     "radiantRecommendation": "09 - Light/Medium Warm",
-    "qualifiers": [
-      {
-        "name": "Medium",
-        "type": "Concealer",
-        "_id": "a2a36b61-8c38-4eb3-87af-2d28f82bae15"
-      },
-      {
-        "name": "Light/Medium",
-        "type": "Concealer",
-        "_id": "4a60be60-86d3-4f99-831b-f48d06b8b59b"
-      },
-      {
-        "name": "Warm",
-        "type": "Concealer",
-        "_id": "ef430ed9-1386-4056-a54b-494f81a75aa2"
-      }
-    ],
     "name": "130 - Light Medium Warm 2",
     "additionalRecommendation": [],
-    "default": false,
     "backgroundColor": "",
     "resultImage": [
       {
@@ -120,31 +104,33 @@
       }
     ],
     "shadeRecommended": "130 - Light Medium Warm",
-    "category": "Only",
-    "_id": "3049d8aa-7d6d-4f63-a840-a90ea9b9974a"
+    "_id": "3049d8aa-7d6d-4f63-a840-a90ea9b9974a",
+    "quizzAttributes": {
+      "qualifiers": [
+        {
+          "name": "Medium",
+          "type": "Concealer",
+          "_id": "a2a36b61-8c38-4eb3-87af-2d28f82bae15"
+        },
+        {
+          "name": "Light/Medium",
+          "type": "Concealer",
+          "_id": "4a60be60-86d3-4f99-831b-f48d06b8b59b"
+        },
+        {
+          "name": "Warm",
+          "type": "Concealer",
+          "_id": "ef430ed9-1386-4056-a54b-494f81a75aa2"
+        }
+      ],
+      "category": "Only",
+      "default": false
+    }
   },
   {
     "radiantRecommendation": "22 - Tan Cool",
-    "qualifiers": [
-      {
-        "name": "Tan",
-        "type": "Concealer",
-        "_id": "8555ee59-2b0f-49df-8628-e0a1d95f3b68"
-      },
-      {
-        "name": "Tan",
-        "type": "Concealer",
-        "_id": "8555ee59-2b0f-49df-8628-e0a1d95f3b68"
-      },
-      {
-        "name": "Cool",
-        "type": "Concealer",
-        "_id": "4f8b4fe8-33fb-43ba-9449-d31ef6d70486"
-      }
-    ],
     "name": "155 - Medium Tan Cool 3",
     "additionalRecommendation": [],
-    "default": false,
     "backgroundColor": "",
     "resultImage": [
       {
@@ -182,31 +168,33 @@
       }
     ],
     "shadeRecommended": "155 - Medium Tan Cool",
-    "category": "Only",
-    "_id": "dff2cf0a-85bb-411e-8791-6d8f5c89ce48"
+    "_id": "dff2cf0a-85bb-411e-8791-6d8f5c89ce48",
+    "quizzAttributes": {
+      "qualifiers": [
+        {
+          "name": "Tan",
+          "type": "Concealer",
+          "_id": "8555ee59-2b0f-49df-8628-e0a1d95f3b68"
+        },
+        {
+          "name": "Tan",
+          "type": "Concealer",
+          "_id": "8555ee59-2b0f-49df-8628-e0a1d95f3b68"
+        },
+        {
+          "name": "Cool",
+          "type": "Concealer",
+          "_id": "4f8b4fe8-33fb-43ba-9449-d31ef6d70486"
+        }
+      ],
+      "category": "Only",
+      "default": false
+    }
   },
   {
     "radiantRecommendation": "08 - Light/Medium Cool",
-    "qualifiers": [
-      {
-        "name": "Light",
-        "type": "Concealer",
-        "_id": "3baa9dc1-d5cf-4fac-ac70-01e3596045ec"
-      },
-      {
-        "name": "Light/Medium",
-        "type": "Concealer",
-        "_id": "4a60be60-86d3-4f99-831b-f48d06b8b59b"
-      },
-      {
-        "name": "Cool",
-        "type": "Concealer",
-        "_id": "4f8b4fe8-33fb-43ba-9449-d31ef6d70486"
-      }
-    ],
     "name": "125 - Light Medium Cool 2",
     "additionalRecommendation": [],
-    "default": false,
     "backgroundColor": "",
     "resultImage": [
       {
@@ -244,31 +232,33 @@
       }
     ],
     "shadeRecommended": "125 - Light Medium Cool",
-    "category": "Only",
-    "_id": "257b3596-31d1-4e89-ae60-4b61968b4280"
+    "_id": "257b3596-31d1-4e89-ae60-4b61968b4280",
+    "quizzAttributes": {
+      "qualifiers": [
+        {
+          "name": "Light",
+          "type": "Concealer",
+          "_id": "3baa9dc1-d5cf-4fac-ac70-01e3596045ec"
+        },
+        {
+          "name": "Light/Medium",
+          "type": "Concealer",
+          "_id": "4a60be60-86d3-4f99-831b-f48d06b8b59b"
+        },
+        {
+          "name": "Cool",
+          "type": "Concealer",
+          "_id": "4f8b4fe8-33fb-43ba-9449-d31ef6d70486"
+        }
+      ],
+      "category": "Only",
+      "default": false
+    }
   },
   {
     "radiantRecommendation": "11 - Light/Medium Neutral",
-    "qualifiers": [
-      {
-        "name": "Medium",
-        "type": "Concealer",
-        "_id": "a2a36b61-8c38-4eb3-87af-2d28f82bae15"
-      },
-      {
-        "name": "Light/Medium",
-        "type": "Concealer",
-        "_id": "4a60be60-86d3-4f99-831b-f48d06b8b59b"
-      },
-      {
-        "name": "Neutral",
-        "type": "Concealer",
-        "_id": "faafbc7a-f841-4426-b9d8-17df437c4e98"
-      }
-    ],
     "name": "135 - Medium Neutral 3",
     "additionalRecommendation": [],
-    "default": false,
     "backgroundColor": "",
     "resultImage": [
       {
@@ -306,31 +296,33 @@
       }
     ],
     "shadeRecommended": "135 - Medium Neutral",
-    "category": "Only",
-    "_id": "2de28585-be43-4711-85d6-be8d82643c29"
+    "_id": "2de28585-be43-4711-85d6-be8d82643c29",
+    "quizzAttributes": {
+      "qualifiers": [
+        {
+          "name": "Medium",
+          "type": "Concealer",
+          "_id": "a2a36b61-8c38-4eb3-87af-2d28f82bae15"
+        },
+        {
+          "name": "Light/Medium",
+          "type": "Concealer",
+          "_id": "4a60be60-86d3-4f99-831b-f48d06b8b59b"
+        },
+        {
+          "name": "Neutral",
+          "type": "Concealer",
+          "_id": "faafbc7a-f841-4426-b9d8-17df437c4e98"
+        }
+      ],
+      "category": "Only",
+      "default": false
+    }
   },
   {
     "radiantRecommendation": "24 - Tan/Deep Cool",
-    "qualifiers": [
-      {
-        "name": "Deep",
-        "type": "Concealer",
-        "_id": "2718fa5b-1c69-485f-b517-0d6ba025f352"
-      },
-      {
-        "name": "Tan/Deep",
-        "type": "Concealer",
-        "_id": "09a205f1-c77b-4673-bf1d-6ee512b6343e"
-      },
-      {
-        "name": "Cool",
-        "type": "Concealer",
-        "_id": "4f8b4fe8-33fb-43ba-9449-d31ef6d70486"
-      }
-    ],
     "name": "160 - Tan Neutral Cool",
     "additionalRecommendation": [],
-    "default": false,
     "backgroundColor": "",
     "resultImage": [
       {
@@ -357,31 +349,33 @@
       }
     ],
     "shadeRecommended": "160 - Tan Neutral Cool",
-    "category": "Only",
-    "_id": "b0297326-a9f0-4848-b963-1201dcf4c536"
+    "_id": "b0297326-a9f0-4848-b963-1201dcf4c536",
+    "quizzAttributes": {
+      "qualifiers": [
+        {
+          "name": "Deep",
+          "type": "Concealer",
+          "_id": "2718fa5b-1c69-485f-b517-0d6ba025f352"
+        },
+        {
+          "name": "Tan/Deep",
+          "type": "Concealer",
+          "_id": "09a205f1-c77b-4673-bf1d-6ee512b6343e"
+        },
+        {
+          "name": "Cool",
+          "type": "Concealer",
+          "_id": "4f8b4fe8-33fb-43ba-9449-d31ef6d70486"
+        }
+      ],
+      "category": "Only",
+      "default": false
+    }
   },
   {
     "radiantRecommendation": "04 - Light Warm",
-    "qualifiers": [
-      {
-        "name": "Light",
-        "type": "Concealer",
-        "_id": "3baa9dc1-d5cf-4fac-ac70-01e3596045ec"
-      },
-      {
-        "name": "Light",
-        "type": "Concealer",
-        "_id": "3baa9dc1-d5cf-4fac-ac70-01e3596045ec"
-      },
-      {
-        "name": "Warm",
-        "type": "Concealer",
-        "_id": "ef430ed9-1386-4056-a54b-494f81a75aa2"
-      }
-    ],
     "name": "120 - Light Neutral 2",
     "additionalRecommendation": [],
-    "default": false,
     "backgroundColor": "",
     "resultImage": [
       {
@@ -419,14 +413,32 @@
       }
     ],
     "shadeRecommended": "120 - Light Neutral",
-    "category": "Only",
-    "_id": "59f84d3b-737e-4d9e-ba12-e01f1b9b7341"
+    "_id": "59f84d3b-737e-4d9e-ba12-e01f1b9b7341",
+    "quizzAttributes": {
+      "qualifiers": [
+        {
+          "name": "Light",
+          "type": "Concealer",
+          "_id": "3baa9dc1-d5cf-4fac-ac70-01e3596045ec"
+        },
+        {
+          "name": "Light",
+          "type": "Concealer",
+          "_id": "3baa9dc1-d5cf-4fac-ac70-01e3596045ec"
+        },
+        {
+          "name": "Warm",
+          "type": "Concealer",
+          "_id": "ef430ed9-1386-4056-a54b-494f81a75aa2"
+        }
+      ],
+      "category": "Only",
+      "default": false
+    }
   },
   {
-    "qualifiers": [],
     "name": "185 - Deep Neutral Cool",
     "additionalRecommendation": [],
-    "default": false,
     "backgroundColor": "",
     "resultImage": [
       {
@@ -475,14 +487,16 @@
       }
     ],
     "shadeRecommended": "185 - Deep Neutral Cool",
-    "category": "Only",
-    "_id": "e397703b-0d07-4786-86bc-13bcf6b648d1"
+    "_id": "e397703b-0d07-4786-86bc-13bcf6b648d1",
+    "quizzAttributes": {
+      "qualifiers": [],
+      "category": "Only",
+      "default": false
+    }
   },
   {
-    "qualifiers": [],
     "name": "110 - Light Warm",
     "additionalRecommendation": [],
-    "default": false,
     "backgroundColor": "",
     "resultImage": [
       {
@@ -531,14 +545,16 @@
       }
     ],
     "shadeRecommended": "110 - Light Warm",
-    "category": "Only",
-    "_id": "2b46f833-ccc8-4e47-8e9a-59c84585830e"
+    "_id": "2b46f833-ccc8-4e47-8e9a-59c84585830e",
+    "quizzAttributes": {
+      "qualifiers": [],
+      "category": "Only",
+      "default": false
+    }
   },
   {
-    "qualifiers": [],
     "name": "165 - Tan Warm",
     "additionalRecommendation": [],
-    "default": false,
     "backgroundColor": "",
     "resultImage": [
       {
@@ -587,92 +603,77 @@
       }
     ],
     "shadeRecommended": "165 - Tan Warm",
-    "category": "Only",
-    "_id": "7368b55c-bd7a-4944-8470-135109fd1959"
+    "_id": "7368b55c-bd7a-4944-8470-135109fd1959",
+    "quizzAttributes": {
+      "qualifiers": [],
+      "category": "Only",
+      "default": false
+    }
   },
   {
     "radiantRecommendation": "24 - Tan/Deep Cool",
-    "qualifiers": [
-      {
-        "name": "Tan",
-        "type": "Concealer",
-        "_id": "8555ee59-2b0f-49df-8628-e0a1d95f3b68"
-      },
-      {
-        "name": "Tan/Deep",
-        "type": "Concealer",
-        "_id": "09a205f1-c77b-4673-bf1d-6ee512b6343e"
-      },
-      {
-        "name": "Cool",
-        "type": "Concealer",
-        "_id": "4f8b4fe8-33fb-43ba-9449-d31ef6d70486"
-      }
-    ],
     "name": "160 - Tan Neutral Cool 2",
     "additionalRecommendation": [],
-    "default": false,
     "backgroundColor": "",
     "resultImage": [],
     "shadeRecommended": "160 - Tan Neutral Cool",
-    "category": "Only",
-    "_id": "8550a7e7-3dfc-47dc-9ea9-48440bd98fad"
+    "_id": "8550a7e7-3dfc-47dc-9ea9-48440bd98fad",
+    "quizzAttributes": {
+      "qualifiers": [
+        {
+          "name": "Tan",
+          "type": "Concealer",
+          "_id": "8555ee59-2b0f-49df-8628-e0a1d95f3b68"
+        },
+        {
+          "name": "Tan/Deep",
+          "type": "Concealer",
+          "_id": "09a205f1-c77b-4673-bf1d-6ee512b6343e"
+        },
+        {
+          "name": "Cool",
+          "type": "Concealer",
+          "_id": "4f8b4fe8-33fb-43ba-9449-d31ef6d70486"
+        }
+      ],
+      "category": "Only",
+      "default": false
+    }
   },
   {
     "radiantRecommendation": "25 - Tan/Deep Neutral",
-    "qualifiers": [
-      {
-        "name": "Deep",
-        "type": "Concealer",
-        "_id": "2718fa5b-1c69-485f-b517-0d6ba025f352"
-      },
-      {
-        "name": "Tan/Deep",
-        "type": "Concealer",
-        "_id": "09a205f1-c77b-4673-bf1d-6ee512b6343e"
-      },
-      {
-        "name": "Neutral",
-        "type": "Concealer",
-        "_id": "faafbc7a-f841-4426-b9d8-17df437c4e98"
-      }
-    ],
     "name": "170 - Tan Neutral 3",
     "additionalRecommendation": [],
-    "default": false,
     "backgroundColor": "#38241D",
     "resultImage": [],
     "shadeRecommended": "170 - Tan Neutral",
-    "category": "Only",
-    "_id": "f8c38e49-6dcb-41dd-9fa4-eea7d82a7875"
+    "_id": "f8c38e49-6dcb-41dd-9fa4-eea7d82a7875",
+    "quizzAttributes": {
+      "qualifiers": [
+        {
+          "name": "Deep",
+          "type": "Concealer",
+          "_id": "2718fa5b-1c69-485f-b517-0d6ba025f352"
+        },
+        {
+          "name": "Tan/Deep",
+          "type": "Concealer",
+          "_id": "09a205f1-c77b-4673-bf1d-6ee512b6343e"
+        },
+        {
+          "name": "Neutral",
+          "type": "Concealer",
+          "_id": "faafbc7a-f841-4426-b9d8-17df437c4e98"
+        }
+      ],
+      "category": "Only",
+      "default": false
+    }
   },
   {
     "radiantRecommendation": "28 - Deep Neutral Cool",
-    "qualifiers": [
-      {
-        "name": "Deep",
-        "type": "Concealer",
-        "_id": "2718fa5b-1c69-485f-b517-0d6ba025f352"
-      },
-      {
-        "name": "Deep",
-        "type": "Concealer",
-        "_id": "2718fa5b-1c69-485f-b517-0d6ba025f352"
-      },
-      {
-        "name": "Neutral",
-        "type": "Concealer",
-        "_id": "faafbc7a-f841-4426-b9d8-17df437c4e98"
-      },
-      {
-        "name": "NeutralCool",
-        "type": "Concealer",
-        "_id": "67706d01-8f43-46f3-b72a-bc5d10357f47"
-      }
-    ],
     "name": "180 - Tan Deep Neutral",
     "additionalRecommendation": ["185 - Deep Neutral Cool"],
-    "default": false,
     "backgroundColor": "#38241D",
     "resultImage": [
       {
@@ -710,31 +711,38 @@
       }
     ],
     "shadeRecommended": "180 - Tan Deep Neutral",
-    "category": "Only",
-    "_id": "2a9fd0f7-1614-4f3f-96cb-e2e0c54db1da"
+    "_id": "2a9fd0f7-1614-4f3f-96cb-e2e0c54db1da",
+    "quizzAttributes": {
+      "qualifiers": [
+        {
+          "name": "Deep",
+          "type": "Concealer",
+          "_id": "2718fa5b-1c69-485f-b517-0d6ba025f352"
+        },
+        {
+          "name": "Deep",
+          "type": "Concealer",
+          "_id": "2718fa5b-1c69-485f-b517-0d6ba025f352"
+        },
+        {
+          "name": "Neutral",
+          "type": "Concealer",
+          "_id": "faafbc7a-f841-4426-b9d8-17df437c4e98"
+        },
+        {
+          "name": "NeutralCool",
+          "type": "Concealer",
+          "_id": "67706d01-8f43-46f3-b72a-bc5d10357f47"
+        }
+      ],
+      "category": "Only",
+      "default": false
+    }
   },
   {
     "radiantRecommendation": "29 - Deep Cool",
-    "qualifiers": [
-      {
-        "name": "Deep",
-        "type": "Concealer",
-        "_id": "2718fa5b-1c69-485f-b517-0d6ba025f352"
-      },
-      {
-        "name": "Deep",
-        "type": "Concealer",
-        "_id": "2718fa5b-1c69-485f-b517-0d6ba025f352"
-      },
-      {
-        "name": "Cool",
-        "type": "Concealer",
-        "_id": "4f8b4fe8-33fb-43ba-9449-d31ef6d70486"
-      }
-    ],
     "name": "190 - Deep Cool",
     "additionalRecommendation": [],
-    "default": false,
     "backgroundColor": "",
     "resultImage": [
       {
@@ -772,36 +780,33 @@
       }
     ],
     "shadeRecommended": "190 - Deep Cool",
-    "category": "Only",
-    "_id": "49d706fd-de28-42e3-a691-e0a20022108d"
+    "_id": "49d706fd-de28-42e3-a691-e0a20022108d",
+    "quizzAttributes": {
+      "qualifiers": [
+        {
+          "name": "Deep",
+          "type": "Concealer",
+          "_id": "2718fa5b-1c69-485f-b517-0d6ba025f352"
+        },
+        {
+          "name": "Deep",
+          "type": "Concealer",
+          "_id": "2718fa5b-1c69-485f-b517-0d6ba025f352"
+        },
+        {
+          "name": "Cool",
+          "type": "Concealer",
+          "_id": "4f8b4fe8-33fb-43ba-9449-d31ef6d70486"
+        }
+      ],
+      "category": "Only",
+      "default": false
+    }
   },
   {
     "radiantRecommendation": "30 - Deep Neutral",
-    "qualifiers": [
-      {
-        "name": "Deep",
-        "type": "Concealer",
-        "_id": "2718fa5b-1c69-485f-b517-0d6ba025f352"
-      },
-      {
-        "name": "Deep",
-        "type": "Concealer",
-        "_id": "2718fa5b-1c69-485f-b517-0d6ba025f352"
-      },
-      {
-        "name": "Neutral",
-        "type": "Concealer",
-        "_id": "faafbc7a-f841-4426-b9d8-17df437c4e98"
-      },
-      {
-        "name": "Neutral",
-        "type": "Concealer",
-        "_id": "faafbc7a-f841-4426-b9d8-17df437c4e98"
-      }
-    ],
     "name": "195 - Deep Neutral",
     "additionalRecommendation": [],
-    "default": false,
     "backgroundColor": "#38241D",
     "resultImage": [
       {
@@ -839,36 +844,38 @@
       }
     ],
     "shadeRecommended": "195 - Deep Neutral",
-    "category": "Only",
-    "_id": "df3d6ff3-0c73-4959-b2fa-bb53c80d2693"
+    "_id": "df3d6ff3-0c73-4959-b2fa-bb53c80d2693",
+    "quizzAttributes": {
+      "qualifiers": [
+        {
+          "name": "Deep",
+          "type": "Concealer",
+          "_id": "2718fa5b-1c69-485f-b517-0d6ba025f352"
+        },
+        {
+          "name": "Deep",
+          "type": "Concealer",
+          "_id": "2718fa5b-1c69-485f-b517-0d6ba025f352"
+        },
+        {
+          "name": "Neutral",
+          "type": "Concealer",
+          "_id": "faafbc7a-f841-4426-b9d8-17df437c4e98"
+        },
+        {
+          "name": "Neutral",
+          "type": "Concealer",
+          "_id": "faafbc7a-f841-4426-b9d8-17df437c4e98"
+        }
+      ],
+      "category": "Only",
+      "default": false
+    }
   },
   {
     "radiantRecommendation": "27 - Deep Neutral Warm",
-    "qualifiers": [
-      {
-        "name": "Deep",
-        "type": "Concealer",
-        "_id": "2718fa5b-1c69-485f-b517-0d6ba025f352"
-      },
-      {
-        "name": "Deep",
-        "type": "Concealer",
-        "_id": "2718fa5b-1c69-485f-b517-0d6ba025f352"
-      },
-      {
-        "name": "Neutral",
-        "type": "Concealer",
-        "_id": "faafbc7a-f841-4426-b9d8-17df437c4e98"
-      },
-      {
-        "name": "NeutralWarm",
-        "type": "Concealer",
-        "_id": "cc83682a-8abb-4101-919c-1833ea89c240"
-      }
-    ],
     "name": "170 - Tan Neutral 1",
     "additionalRecommendation": ["175 - Tan Deep Warm"],
-    "default": false,
     "backgroundColor": "",
     "resultImage": [
       {
@@ -906,31 +913,38 @@
       }
     ],
     "shadeRecommended": "170 - Tan Neutral",
-    "category": "Only",
-    "_id": "bb039a08-d329-46d4-9623-a75a04463e42"
+    "_id": "bb039a08-d329-46d4-9623-a75a04463e42",
+    "quizzAttributes": {
+      "qualifiers": [
+        {
+          "name": "Deep",
+          "type": "Concealer",
+          "_id": "2718fa5b-1c69-485f-b517-0d6ba025f352"
+        },
+        {
+          "name": "Deep",
+          "type": "Concealer",
+          "_id": "2718fa5b-1c69-485f-b517-0d6ba025f352"
+        },
+        {
+          "name": "Neutral",
+          "type": "Concealer",
+          "_id": "faafbc7a-f841-4426-b9d8-17df437c4e98"
+        },
+        {
+          "name": "NeutralWarm",
+          "type": "Concealer",
+          "_id": "cc83682a-8abb-4101-919c-1833ea89c240"
+        }
+      ],
+      "category": "Only",
+      "default": false
+    }
   },
   {
     "radiantRecommendation": "26 - Deep Warm",
-    "qualifiers": [
-      {
-        "name": "Deep",
-        "type": "Concealer",
-        "_id": "2718fa5b-1c69-485f-b517-0d6ba025f352"
-      },
-      {
-        "name": "Deep",
-        "type": "Concealer",
-        "_id": "2718fa5b-1c69-485f-b517-0d6ba025f352"
-      },
-      {
-        "name": "Warm",
-        "type": "Concealer",
-        "_id": "ef430ed9-1386-4056-a54b-494f81a75aa2"
-      }
-    ],
     "name": "175 - Tan Deep Warm",
     "additionalRecommendation": [],
-    "default": false,
     "backgroundColor": "",
     "resultImage": [
       {
@@ -968,31 +982,33 @@
       }
     ],
     "shadeRecommended": "175 - Tan Deep Warm",
-    "category": "Only",
-    "_id": "1c1c444b-5c0b-4f0d-84e0-d80c48122399"
+    "_id": "1c1c444b-5c0b-4f0d-84e0-d80c48122399",
+    "quizzAttributes": {
+      "qualifiers": [
+        {
+          "name": "Deep",
+          "type": "Concealer",
+          "_id": "2718fa5b-1c69-485f-b517-0d6ba025f352"
+        },
+        {
+          "name": "Deep",
+          "type": "Concealer",
+          "_id": "2718fa5b-1c69-485f-b517-0d6ba025f352"
+        },
+        {
+          "name": "Warm",
+          "type": "Concealer",
+          "_id": "ef430ed9-1386-4056-a54b-494f81a75aa2"
+        }
+      ],
+      "category": "Only",
+      "default": false
+    }
   },
   {
     "radiantRecommendation": "25 - Tan/Deep Neutral",
-    "qualifiers": [
-      {
-        "name": "Tan",
-        "type": "Concealer",
-        "_id": "8555ee59-2b0f-49df-8628-e0a1d95f3b68"
-      },
-      {
-        "name": "Tan/Deep",
-        "type": "Concealer",
-        "_id": "09a205f1-c77b-4673-bf1d-6ee512b6343e"
-      },
-      {
-        "name": "Neutral",
-        "type": "Concealer",
-        "_id": "faafbc7a-f841-4426-b9d8-17df437c4e98"
-      }
-    ],
     "name": "170 - Tan Neutral 2",
     "additionalRecommendation": [],
-    "default": false,
     "backgroundColor": "",
     "resultImage": [
       {
@@ -1030,31 +1046,33 @@
       }
     ],
     "shadeRecommended": "170 - Tan Neutral",
-    "category": "Only",
-    "_id": "398c9b24-ea61-45f4-bcdd-90a75aca6eb6"
+    "_id": "398c9b24-ea61-45f4-bcdd-90a75aca6eb6",
+    "quizzAttributes": {
+      "qualifiers": [
+        {
+          "name": "Tan",
+          "type": "Concealer",
+          "_id": "8555ee59-2b0f-49df-8628-e0a1d95f3b68"
+        },
+        {
+          "name": "Tan/Deep",
+          "type": "Concealer",
+          "_id": "09a205f1-c77b-4673-bf1d-6ee512b6343e"
+        },
+        {
+          "name": "Neutral",
+          "type": "Concealer",
+          "_id": "faafbc7a-f841-4426-b9d8-17df437c4e98"
+        }
+      ],
+      "category": "Only",
+      "default": false
+    }
   },
   {
     "radiantRecommendation": "23 - Tan/Deep Olive",
-    "qualifiers": [
-      {
-        "name": "Deep",
-        "type": "Concealer",
-        "_id": "2718fa5b-1c69-485f-b517-0d6ba025f352"
-      },
-      {
-        "name": "Tan/Deep",
-        "type": "Concealer",
-        "_id": "09a205f1-c77b-4673-bf1d-6ee512b6343e"
-      },
-      {
-        "name": "Olive",
-        "type": "Concealer",
-        "_id": "ec967718-d6c8-43ad-a7a5-eaa409d2d98c"
-      }
-    ],
     "name": "155 - Medium Tan Cool 1",
     "additionalRecommendation": ["165 - Tan Warm"],
-    "default": false,
     "backgroundColor": "",
     "resultImage": [
       {
@@ -1092,31 +1110,33 @@
       }
     ],
     "shadeRecommended": "155 - Medium Tan Cool",
-    "category": "Only",
-    "_id": "cb4d99af-a569-4457-a725-19693bcb633e"
+    "_id": "cb4d99af-a569-4457-a725-19693bcb633e",
+    "quizzAttributes": {
+      "qualifiers": [
+        {
+          "name": "Deep",
+          "type": "Concealer",
+          "_id": "2718fa5b-1c69-485f-b517-0d6ba025f352"
+        },
+        {
+          "name": "Tan/Deep",
+          "type": "Concealer",
+          "_id": "09a205f1-c77b-4673-bf1d-6ee512b6343e"
+        },
+        {
+          "name": "Olive",
+          "type": "Concealer",
+          "_id": "ec967718-d6c8-43ad-a7a5-eaa409d2d98c"
+        }
+      ],
+      "category": "Only",
+      "default": false
+    }
   },
   {
     "radiantRecommendation": "16 - Medium/Tan Warm",
-    "qualifiers": [
-      {
-        "name": "Tan",
-        "type": "Concealer",
-        "_id": "8555ee59-2b0f-49df-8628-e0a1d95f3b68"
-      },
-      {
-        "name": "Medium/Tan",
-        "type": "Concealer",
-        "_id": "6e9f18d9-755e-4ace-bd6a-29b51d2e3e3d"
-      },
-      {
-        "name": "Warm",
-        "type": "Concealer",
-        "_id": "ef430ed9-1386-4056-a54b-494f81a75aa2"
-      }
-    ],
     "name": "145 - Medium Tan Warm 3",
     "additionalRecommendation": [],
-    "default": false,
     "backgroundColor": "",
     "resultImage": [
       {
@@ -1165,31 +1185,33 @@
       }
     ],
     "shadeRecommended": "145 - Medium Tan Warm",
-    "category": "Only",
-    "_id": "d972ec55-e52e-4203-bdc1-6ad9b11aa2bf"
+    "_id": "d972ec55-e52e-4203-bdc1-6ad9b11aa2bf",
+    "quizzAttributes": {
+      "qualifiers": [
+        {
+          "name": "Tan",
+          "type": "Concealer",
+          "_id": "8555ee59-2b0f-49df-8628-e0a1d95f3b68"
+        },
+        {
+          "name": "Medium/Tan",
+          "type": "Concealer",
+          "_id": "6e9f18d9-755e-4ace-bd6a-29b51d2e3e3d"
+        },
+        {
+          "name": "Warm",
+          "type": "Concealer",
+          "_id": "ef430ed9-1386-4056-a54b-494f81a75aa2"
+        }
+      ],
+      "category": "Only",
+      "default": false
+    }
   },
   {
     "radiantRecommendation": "23 - Tan/Deep Olive",
-    "qualifiers": [
-      {
-        "name": "Tan",
-        "type": "Concealer",
-        "_id": "8555ee59-2b0f-49df-8628-e0a1d95f3b68"
-      },
-      {
-        "name": "Tan/Deep",
-        "type": "Concealer",
-        "_id": "09a205f1-c77b-4673-bf1d-6ee512b6343e"
-      },
-      {
-        "name": "Olive",
-        "type": "Concealer",
-        "_id": "ec967718-d6c8-43ad-a7a5-eaa409d2d98c"
-      }
-    ],
     "name": "155 - Medium Tan Cool 2",
     "additionalRecommendation": ["165 - Tan Warm"],
-    "default": false,
     "backgroundColor": "",
     "resultImage": [
       {
@@ -1227,36 +1249,33 @@
       }
     ],
     "shadeRecommended": "155 - Medium Tan Cool",
-    "category": "Only",
-    "_id": "257899d0-5af7-4118-a07c-251778b8c164"
+    "_id": "257899d0-5af7-4118-a07c-251778b8c164",
+    "quizzAttributes": {
+      "qualifiers": [
+        {
+          "name": "Tan",
+          "type": "Concealer",
+          "_id": "8555ee59-2b0f-49df-8628-e0a1d95f3b68"
+        },
+        {
+          "name": "Tan/Deep",
+          "type": "Concealer",
+          "_id": "09a205f1-c77b-4673-bf1d-6ee512b6343e"
+        },
+        {
+          "name": "Olive",
+          "type": "Concealer",
+          "_id": "ec967718-d6c8-43ad-a7a5-eaa409d2d98c"
+        }
+      ],
+      "category": "Only",
+      "default": false
+    }
   },
   {
     "radiantRecommendation": "21 - Tan Neutral",
-    "qualifiers": [
-      {
-        "name": "Tan",
-        "type": "Concealer",
-        "_id": "8555ee59-2b0f-49df-8628-e0a1d95f3b68"
-      },
-      {
-        "name": "Tan",
-        "type": "Concealer",
-        "_id": "8555ee59-2b0f-49df-8628-e0a1d95f3b68"
-      },
-      {
-        "name": "Neutral",
-        "type": "Concealer",
-        "_id": "faafbc7a-f841-4426-b9d8-17df437c4e98"
-      },
-      {
-        "name": "Neutral",
-        "type": "Concealer",
-        "_id": "faafbc7a-f841-4426-b9d8-17df437c4e98"
-      }
-    ],
     "name": "150 - Medium Tan Neutral 1",
     "additionalRecommendation": ["155 - Medium Tan Cool"],
-    "default": false,
     "backgroundColor": "",
     "resultImage": [
       {
@@ -1305,36 +1324,38 @@
       }
     ],
     "shadeRecommended": "150 - Medium Tan Neutral",
-    "category": "Only",
-    "_id": "210b805c-359e-42e7-a39c-a36dd2e93f8e"
+    "_id": "210b805c-359e-42e7-a39c-a36dd2e93f8e",
+    "quizzAttributes": {
+      "qualifiers": [
+        {
+          "name": "Tan",
+          "type": "Concealer",
+          "_id": "8555ee59-2b0f-49df-8628-e0a1d95f3b68"
+        },
+        {
+          "name": "Tan",
+          "type": "Concealer",
+          "_id": "8555ee59-2b0f-49df-8628-e0a1d95f3b68"
+        },
+        {
+          "name": "Neutral",
+          "type": "Concealer",
+          "_id": "faafbc7a-f841-4426-b9d8-17df437c4e98"
+        },
+        {
+          "name": "Neutral",
+          "type": "Concealer",
+          "_id": "faafbc7a-f841-4426-b9d8-17df437c4e98"
+        }
+      ],
+      "category": "Only",
+      "default": false
+    }
   },
   {
     "radiantRecommendation": "20 - Tan Neutral Cool",
-    "qualifiers": [
-      {
-        "name": "Tan",
-        "type": "Concealer",
-        "_id": "8555ee59-2b0f-49df-8628-e0a1d95f3b68"
-      },
-      {
-        "name": "Tan",
-        "type": "Concealer",
-        "_id": "8555ee59-2b0f-49df-8628-e0a1d95f3b68"
-      },
-      {
-        "name": "Neutral",
-        "type": "Concealer",
-        "_id": "faafbc7a-f841-4426-b9d8-17df437c4e98"
-      },
-      {
-        "name": "NeutralCool",
-        "type": "Concealer",
-        "_id": "67706d01-8f43-46f3-b72a-bc5d10357f47"
-      }
-    ],
     "name": "155 - Medium Tan Cool 4",
     "additionalRecommendation": [],
-    "default": false,
     "backgroundColor": "",
     "resultImage": [
       {
@@ -1383,31 +1404,38 @@
       }
     ],
     "shadeRecommended": "155 - Medium Tan Cool",
-    "category": "Only",
-    "_id": "8e6a9eae-fcee-4b18-a194-781516f697c8"
+    "_id": "8e6a9eae-fcee-4b18-a194-781516f697c8",
+    "quizzAttributes": {
+      "qualifiers": [
+        {
+          "name": "Tan",
+          "type": "Concealer",
+          "_id": "8555ee59-2b0f-49df-8628-e0a1d95f3b68"
+        },
+        {
+          "name": "Tan",
+          "type": "Concealer",
+          "_id": "8555ee59-2b0f-49df-8628-e0a1d95f3b68"
+        },
+        {
+          "name": "Neutral",
+          "type": "Concealer",
+          "_id": "faafbc7a-f841-4426-b9d8-17df437c4e98"
+        },
+        {
+          "name": "NeutralCool",
+          "type": "Concealer",
+          "_id": "67706d01-8f43-46f3-b72a-bc5d10357f47"
+        }
+      ],
+      "category": "Only",
+      "default": false
+    }
   },
   {
     "radiantRecommendation": "19 - Tan Warm",
-    "qualifiers": [
-      {
-        "name": "Tan",
-        "type": "Concealer",
-        "_id": "8555ee59-2b0f-49df-8628-e0a1d95f3b68"
-      },
-      {
-        "name": "Tan",
-        "type": "Concealer",
-        "_id": "8555ee59-2b0f-49df-8628-e0a1d95f3b68"
-      },
-      {
-        "name": "Warm",
-        "type": "Concealer",
-        "_id": "ef430ed9-1386-4056-a54b-494f81a75aa2"
-      }
-    ],
     "name": "150 - Medium Tan Neutral 2",
     "additionalRecommendation": [],
-    "default": false,
     "backgroundColor": "",
     "resultImage": [
       {
@@ -1456,31 +1484,33 @@
       }
     ],
     "shadeRecommended": "150 - Medium Tan Neutral",
-    "category": "Only",
-    "_id": "a434dc90-d8cd-44f7-822d-08a367a6d6c8"
+    "_id": "a434dc90-d8cd-44f7-822d-08a367a6d6c8",
+    "quizzAttributes": {
+      "qualifiers": [
+        {
+          "name": "Tan",
+          "type": "Concealer",
+          "_id": "8555ee59-2b0f-49df-8628-e0a1d95f3b68"
+        },
+        {
+          "name": "Tan",
+          "type": "Concealer",
+          "_id": "8555ee59-2b0f-49df-8628-e0a1d95f3b68"
+        },
+        {
+          "name": "Warm",
+          "type": "Concealer",
+          "_id": "ef430ed9-1386-4056-a54b-494f81a75aa2"
+        }
+      ],
+      "category": "Only",
+      "default": false
+    }
   },
   {
     "radiantRecommendation": "18 - Medium/Tan Olive",
-    "qualifiers": [
-      {
-        "name": "Tan",
-        "type": "Concealer",
-        "_id": "8555ee59-2b0f-49df-8628-e0a1d95f3b68"
-      },
-      {
-        "name": "Medium/Tan",
-        "type": "Concealer",
-        "_id": "6e9f18d9-755e-4ace-bd6a-29b51d2e3e3d"
-      },
-      {
-        "name": "Olive",
-        "type": "Concealer",
-        "_id": "ec967718-d6c8-43ad-a7a5-eaa409d2d98c"
-      }
-    ],
     "name": "145 - Medium Tan Warm 1",
     "additionalRecommendation": [],
-    "default": false,
     "backgroundColor": "",
     "resultImage": [
       {
@@ -1529,31 +1559,33 @@
       }
     ],
     "shadeRecommended": "145 - Medium Tan Warm",
-    "category": "Only",
-    "_id": "8f3476a2-d7e4-42ab-b2e2-f662361b72ab"
+    "_id": "8f3476a2-d7e4-42ab-b2e2-f662361b72ab",
+    "quizzAttributes": {
+      "qualifiers": [
+        {
+          "name": "Tan",
+          "type": "Concealer",
+          "_id": "8555ee59-2b0f-49df-8628-e0a1d95f3b68"
+        },
+        {
+          "name": "Medium/Tan",
+          "type": "Concealer",
+          "_id": "6e9f18d9-755e-4ace-bd6a-29b51d2e3e3d"
+        },
+        {
+          "name": "Olive",
+          "type": "Concealer",
+          "_id": "ec967718-d6c8-43ad-a7a5-eaa409d2d98c"
+        }
+      ],
+      "category": "Only",
+      "default": false
+    }
   },
   {
     "radiantRecommendation": "17 - Medium/Tan Neutral",
-    "qualifiers": [
-      {
-        "name": "Tan",
-        "type": "Concealer",
-        "_id": "8555ee59-2b0f-49df-8628-e0a1d95f3b68"
-      },
-      {
-        "name": "Medium/Tan",
-        "type": "Concealer",
-        "_id": "6e9f18d9-755e-4ace-bd6a-29b51d2e3e3d"
-      },
-      {
-        "name": "Neutral",
-        "type": "Concealer",
-        "_id": "faafbc7a-f841-4426-b9d8-17df437c4e98"
-      }
-    ],
     "name": "145 - Medium Tan Warm 2",
     "additionalRecommendation": [],
-    "default": false,
     "backgroundColor": "",
     "resultImage": [
       {
@@ -1602,31 +1634,33 @@
       }
     ],
     "shadeRecommended": "145 - Medium Tan Warm",
-    "category": "Only",
-    "_id": "415aa482-3ba7-4171-bb48-919fb58e51d5"
+    "_id": "415aa482-3ba7-4171-bb48-919fb58e51d5",
+    "quizzAttributes": {
+      "qualifiers": [
+        {
+          "name": "Tan",
+          "type": "Concealer",
+          "_id": "8555ee59-2b0f-49df-8628-e0a1d95f3b68"
+        },
+        {
+          "name": "Medium/Tan",
+          "type": "Concealer",
+          "_id": "6e9f18d9-755e-4ace-bd6a-29b51d2e3e3d"
+        },
+        {
+          "name": "Neutral",
+          "type": "Concealer",
+          "_id": "faafbc7a-f841-4426-b9d8-17df437c4e98"
+        }
+      ],
+      "category": "Only",
+      "default": false
+    }
   },
   {
     "radiantRecommendation": "18 - Medium/Tan Olive",
-    "qualifiers": [
-      {
-        "name": "Medium",
-        "type": "Concealer",
-        "_id": "a2a36b61-8c38-4eb3-87af-2d28f82bae15"
-      },
-      {
-        "name": "Medium/Tan",
-        "type": "Concealer",
-        "_id": "6e9f18d9-755e-4ace-bd6a-29b51d2e3e3d"
-      },
-      {
-        "name": "Olive",
-        "type": "Concealer",
-        "_id": "ec967718-d6c8-43ad-a7a5-eaa409d2d98c"
-      }
-    ],
     "name": "145 - Medium Tan Warm 4",
     "additionalRecommendation": ["150 - Medium Tan Neutral"],
-    "default": false,
     "backgroundColor": "",
     "resultImage": [
       {
@@ -1675,31 +1709,33 @@
       }
     ],
     "shadeRecommended": "145 - Medium Tan Warm",
-    "category": "Only",
-    "_id": "c90bc252-83a2-4805-8969-8a949b93f692"
+    "_id": "c90bc252-83a2-4805-8969-8a949b93f692",
+    "quizzAttributes": {
+      "qualifiers": [
+        {
+          "name": "Medium",
+          "type": "Concealer",
+          "_id": "a2a36b61-8c38-4eb3-87af-2d28f82bae15"
+        },
+        {
+          "name": "Medium/Tan",
+          "type": "Concealer",
+          "_id": "6e9f18d9-755e-4ace-bd6a-29b51d2e3e3d"
+        },
+        {
+          "name": "Olive",
+          "type": "Concealer",
+          "_id": "ec967718-d6c8-43ad-a7a5-eaa409d2d98c"
+        }
+      ],
+      "category": "Only",
+      "default": false
+    }
   },
   {
     "radiantRecommendation": "17 - Medium/Tan Neutral",
-    "qualifiers": [
-      {
-        "name": "Medium",
-        "type": "Concealer",
-        "_id": "a2a36b61-8c38-4eb3-87af-2d28f82bae15"
-      },
-      {
-        "name": "Medium/Tan",
-        "type": "Concealer",
-        "_id": "6e9f18d9-755e-4ace-bd6a-29b51d2e3e3d"
-      },
-      {
-        "name": "Neutral",
-        "type": "Concealer",
-        "_id": "faafbc7a-f841-4426-b9d8-17df437c4e98"
-      }
-    ],
     "name": "145 - Medium Tan Warm 5",
     "additionalRecommendation": ["150 - Medium Tan Neutral"],
-    "default": false,
     "backgroundColor": "",
     "resultImage": [
       {
@@ -1748,31 +1784,33 @@
       }
     ],
     "shadeRecommended": "145 - Medium Tan Warm",
-    "category": "Only",
-    "_id": "10d70d55-ae9b-4bfb-ae9d-1772e6a4cc6c"
+    "_id": "10d70d55-ae9b-4bfb-ae9d-1772e6a4cc6c",
+    "quizzAttributes": {
+      "qualifiers": [
+        {
+          "name": "Medium",
+          "type": "Concealer",
+          "_id": "a2a36b61-8c38-4eb3-87af-2d28f82bae15"
+        },
+        {
+          "name": "Medium/Tan",
+          "type": "Concealer",
+          "_id": "6e9f18d9-755e-4ace-bd6a-29b51d2e3e3d"
+        },
+        {
+          "name": "Neutral",
+          "type": "Concealer",
+          "_id": "faafbc7a-f841-4426-b9d8-17df437c4e98"
+        }
+      ],
+      "category": "Only",
+      "default": false
+    }
   },
   {
     "radiantRecommendation": "16 - Medium/Tan Warm",
-    "qualifiers": [
-      {
-        "name": "Medium",
-        "type": "Concealer",
-        "_id": "a2a36b61-8c38-4eb3-87af-2d28f82bae15"
-      },
-      {
-        "name": "Medium/Tan",
-        "type": "Concealer",
-        "_id": "6e9f18d9-755e-4ace-bd6a-29b51d2e3e3d"
-      },
-      {
-        "name": "Warm",
-        "type": "Concealer",
-        "_id": "ef430ed9-1386-4056-a54b-494f81a75aa2"
-      }
-    ],
     "name": "145 - Medium Tan Warm 6",
     "additionalRecommendation": [],
-    "default": false,
     "backgroundColor": "",
     "resultImage": [
       {
@@ -1810,31 +1848,33 @@
       }
     ],
     "shadeRecommended": "145 - Medium Tan Warm",
-    "category": "Only",
-    "_id": "ee0e659f-45ee-4a90-b69b-f97b9c22f312"
+    "_id": "ee0e659f-45ee-4a90-b69b-f97b9c22f312",
+    "quizzAttributes": {
+      "qualifiers": [
+        {
+          "name": "Medium",
+          "type": "Concealer",
+          "_id": "a2a36b61-8c38-4eb3-87af-2d28f82bae15"
+        },
+        {
+          "name": "Medium/Tan",
+          "type": "Concealer",
+          "_id": "6e9f18d9-755e-4ace-bd6a-29b51d2e3e3d"
+        },
+        {
+          "name": "Warm",
+          "type": "Concealer",
+          "_id": "ef430ed9-1386-4056-a54b-494f81a75aa2"
+        }
+      ],
+      "category": "Only",
+      "default": false
+    }
   },
   {
     "radiantRecommendation": "13 - Medium Cool",
-    "qualifiers": [
-      {
-        "name": "Medium",
-        "type": "Concealer",
-        "_id": "a2a36b61-8c38-4eb3-87af-2d28f82bae15"
-      },
-      {
-        "name": "Medium",
-        "type": "Concealer",
-        "_id": "a2a36b61-8c38-4eb3-87af-2d28f82bae15"
-      },
-      {
-        "name": "Cool",
-        "type": "Concealer",
-        "_id": "4f8b4fe8-33fb-43ba-9449-d31ef6d70486"
-      }
-    ],
     "name": "135 - Medium Neutral 1",
     "additionalRecommendation": [],
-    "default": false,
     "backgroundColor": "",
     "resultImage": [
       {
@@ -1872,36 +1912,33 @@
       }
     ],
     "shadeRecommended": "135 - Medium Neutral",
-    "category": "Only",
-    "_id": "beb7062c-9f27-467a-9c32-e93cb80a007c"
+    "_id": "beb7062c-9f27-467a-9c32-e93cb80a007c",
+    "quizzAttributes": {
+      "qualifiers": [
+        {
+          "name": "Medium",
+          "type": "Concealer",
+          "_id": "a2a36b61-8c38-4eb3-87af-2d28f82bae15"
+        },
+        {
+          "name": "Medium",
+          "type": "Concealer",
+          "_id": "a2a36b61-8c38-4eb3-87af-2d28f82bae15"
+        },
+        {
+          "name": "Cool",
+          "type": "Concealer",
+          "_id": "4f8b4fe8-33fb-43ba-9449-d31ef6d70486"
+        }
+      ],
+      "category": "Only",
+      "default": false
+    }
   },
   {
     "radiantRecommendation": "14 - Medium Neutral",
-    "qualifiers": [
-      {
-        "name": "Medium",
-        "type": "Concealer",
-        "_id": "a2a36b61-8c38-4eb3-87af-2d28f82bae15"
-      },
-      {
-        "name": "Medium",
-        "type": "Concealer",
-        "_id": "a2a36b61-8c38-4eb3-87af-2d28f82bae15"
-      },
-      {
-        "name": "Neutral",
-        "type": "Concealer",
-        "_id": "faafbc7a-f841-4426-b9d8-17df437c4e98"
-      },
-      {
-        "name": "Neutral",
-        "type": "Concealer",
-        "_id": "faafbc7a-f841-4426-b9d8-17df437c4e98"
-      }
-    ],
     "name": "140 - Medium Warm 1",
     "additionalRecommendation": [],
-    "default": false,
     "backgroundColor": "",
     "resultImage": [
       {
@@ -1939,36 +1976,38 @@
       }
     ],
     "shadeRecommended": "140 - Medium Warm",
-    "category": "Only",
-    "_id": "4bb24638-09f6-4be7-b8c7-5d83de3583c6"
+    "_id": "4bb24638-09f6-4be7-b8c7-5d83de3583c6",
+    "quizzAttributes": {
+      "qualifiers": [
+        {
+          "name": "Medium",
+          "type": "Concealer",
+          "_id": "a2a36b61-8c38-4eb3-87af-2d28f82bae15"
+        },
+        {
+          "name": "Medium",
+          "type": "Concealer",
+          "_id": "a2a36b61-8c38-4eb3-87af-2d28f82bae15"
+        },
+        {
+          "name": "Neutral",
+          "type": "Concealer",
+          "_id": "faafbc7a-f841-4426-b9d8-17df437c4e98"
+        },
+        {
+          "name": "Neutral",
+          "type": "Concealer",
+          "_id": "faafbc7a-f841-4426-b9d8-17df437c4e98"
+        }
+      ],
+      "category": "Only",
+      "default": false
+    }
   },
   {
     "radiantRecommendation": "15 - Medium Neutral Cool",
-    "qualifiers": [
-      {
-        "name": "Medium",
-        "type": "Concealer",
-        "_id": "a2a36b61-8c38-4eb3-87af-2d28f82bae15"
-      },
-      {
-        "name": "Medium",
-        "type": "Concealer",
-        "_id": "a2a36b61-8c38-4eb3-87af-2d28f82bae15"
-      },
-      {
-        "name": "Neutral",
-        "type": "Concealer",
-        "_id": "faafbc7a-f841-4426-b9d8-17df437c4e98"
-      },
-      {
-        "name": "NeutralCool",
-        "type": "Concealer",
-        "_id": "67706d01-8f43-46f3-b72a-bc5d10357f47"
-      }
-    ],
     "name": "135 - Medium Neutral 2",
     "additionalRecommendation": [],
-    "default": false,
     "backgroundColor": "",
     "resultImage": [
       {
@@ -2006,31 +2045,38 @@
       }
     ],
     "shadeRecommended": "135 - Medium Neutral",
-    "category": "Only",
-    "_id": "8ddd708b-13e0-4b69-a31d-05dbbd1be918"
+    "_id": "8ddd708b-13e0-4b69-a31d-05dbbd1be918",
+    "quizzAttributes": {
+      "qualifiers": [
+        {
+          "name": "Medium",
+          "type": "Concealer",
+          "_id": "a2a36b61-8c38-4eb3-87af-2d28f82bae15"
+        },
+        {
+          "name": "Medium",
+          "type": "Concealer",
+          "_id": "a2a36b61-8c38-4eb3-87af-2d28f82bae15"
+        },
+        {
+          "name": "Neutral",
+          "type": "Concealer",
+          "_id": "faafbc7a-f841-4426-b9d8-17df437c4e98"
+        },
+        {
+          "name": "NeutralCool",
+          "type": "Concealer",
+          "_id": "67706d01-8f43-46f3-b72a-bc5d10357f47"
+        }
+      ],
+      "category": "Only",
+      "default": false
+    }
   },
   {
     "radiantRecommendation": "12 - Medium Warm",
-    "qualifiers": [
-      {
-        "name": "Medium",
-        "type": "Concealer",
-        "_id": "a2a36b61-8c38-4eb3-87af-2d28f82bae15"
-      },
-      {
-        "name": "Medium",
-        "type": "Concealer",
-        "_id": "a2a36b61-8c38-4eb3-87af-2d28f82bae15"
-      },
-      {
-        "name": "Warm",
-        "type": "Concealer",
-        "_id": "ef430ed9-1386-4056-a54b-494f81a75aa2"
-      }
-    ],
     "name": "140 - Medium Warm 2",
     "additionalRecommendation": [],
-    "default": false,
     "backgroundColor": "",
     "resultImage": [
       {
@@ -2068,31 +2114,33 @@
       }
     ],
     "shadeRecommended": "140 - Medium Warm",
-    "category": "Only",
-    "_id": "72eb5f12-7053-4f48-9b75-ab6c7be864ac"
+    "_id": "72eb5f12-7053-4f48-9b75-ab6c7be864ac",
+    "quizzAttributes": {
+      "qualifiers": [
+        {
+          "name": "Medium",
+          "type": "Concealer",
+          "_id": "a2a36b61-8c38-4eb3-87af-2d28f82bae15"
+        },
+        {
+          "name": "Medium",
+          "type": "Concealer",
+          "_id": "a2a36b61-8c38-4eb3-87af-2d28f82bae15"
+        },
+        {
+          "name": "Warm",
+          "type": "Concealer",
+          "_id": "ef430ed9-1386-4056-a54b-494f81a75aa2"
+        }
+      ],
+      "category": "Only",
+      "default": false
+    }
   },
   {
     "radiantRecommendation": "08 - Light/Medium Cool",
-    "qualifiers": [
-      {
-        "name": "Medium",
-        "type": "Concealer",
-        "_id": "a2a36b61-8c38-4eb3-87af-2d28f82bae15"
-      },
-      {
-        "name": "Light/Medium",
-        "type": "Concealer",
-        "_id": "4a60be60-86d3-4f99-831b-f48d06b8b59b"
-      },
-      {
-        "name": "Cool",
-        "type": "Concealer",
-        "_id": "4f8b4fe8-33fb-43ba-9449-d31ef6d70486"
-      }
-    ],
     "name": "125 - Light Medium Cool 1",
     "additionalRecommendation": [],
-    "default": false,
     "backgroundColor": "",
     "resultImage": [
       {
@@ -2130,31 +2178,33 @@
       }
     ],
     "shadeRecommended": "125 - Light Medium Cool",
-    "category": "Only",
-    "_id": "2d7ecf83-7434-4b65-9c38-44e9ccdaee4d"
+    "_id": "2d7ecf83-7434-4b65-9c38-44e9ccdaee4d",
+    "quizzAttributes": {
+      "qualifiers": [
+        {
+          "name": "Medium",
+          "type": "Concealer",
+          "_id": "a2a36b61-8c38-4eb3-87af-2d28f82bae15"
+        },
+        {
+          "name": "Light/Medium",
+          "type": "Concealer",
+          "_id": "4a60be60-86d3-4f99-831b-f48d06b8b59b"
+        },
+        {
+          "name": "Cool",
+          "type": "Concealer",
+          "_id": "4f8b4fe8-33fb-43ba-9449-d31ef6d70486"
+        }
+      ],
+      "category": "Only",
+      "default": false
+    }
   },
   {
     "radiantRecommendation": "10 - Light/Medium Olive",
-    "qualifiers": [
-      {
-        "name": "Light",
-        "type": "Concealer",
-        "_id": "3baa9dc1-d5cf-4fac-ac70-01e3596045ec"
-      },
-      {
-        "name": "Light/Medium",
-        "type": "Concealer",
-        "_id": "4a60be60-86d3-4f99-831b-f48d06b8b59b"
-      },
-      {
-        "name": "Olive",
-        "type": "Concealer",
-        "_id": "ec967718-d6c8-43ad-a7a5-eaa409d2d98c"
-      }
-    ],
     "name": "130 - Light Medium Warm 3",
     "additionalRecommendation": [],
-    "default": false,
     "backgroundColor": "",
     "resultImage": [
       {
@@ -2192,31 +2242,33 @@
       }
     ],
     "shadeRecommended": "130 - Light Medium Warm",
-    "category": "Only",
-    "_id": "7ae5f5ca-2b0c-4637-bcd3-98f20714606f"
+    "_id": "7ae5f5ca-2b0c-4637-bcd3-98f20714606f",
+    "quizzAttributes": {
+      "qualifiers": [
+        {
+          "name": "Light",
+          "type": "Concealer",
+          "_id": "3baa9dc1-d5cf-4fac-ac70-01e3596045ec"
+        },
+        {
+          "name": "Light/Medium",
+          "type": "Concealer",
+          "_id": "4a60be60-86d3-4f99-831b-f48d06b8b59b"
+        },
+        {
+          "name": "Olive",
+          "type": "Concealer",
+          "_id": "ec967718-d6c8-43ad-a7a5-eaa409d2d98c"
+        }
+      ],
+      "category": "Only",
+      "default": false
+    }
   },
   {
     "radiantRecommendation": "11 - Light/Medium Neutral",
-    "qualifiers": [
-      {
-        "name": "Light",
-        "type": "Concealer",
-        "_id": "3baa9dc1-d5cf-4fac-ac70-01e3596045ec"
-      },
-      {
-        "name": "Light/Medium",
-        "type": "Concealer",
-        "_id": "4a60be60-86d3-4f99-831b-f48d06b8b59b"
-      },
-      {
-        "name": "Neutral",
-        "type": "Concealer",
-        "_id": "faafbc7a-f841-4426-b9d8-17df437c4e98"
-      }
-    ],
     "name": "135 - Medium Neutral 4",
     "additionalRecommendation": [],
-    "default": false,
     "backgroundColor": "",
     "resultImage": [
       {
@@ -2254,31 +2306,33 @@
       }
     ],
     "shadeRecommended": "135 - Medium Neutral",
-    "category": "Only",
-    "_id": "85ae322d-d7bc-4d5c-bfd8-6a6e903d66b2"
+    "_id": "85ae322d-d7bc-4d5c-bfd8-6a6e903d66b2",
+    "quizzAttributes": {
+      "qualifiers": [
+        {
+          "name": "Light",
+          "type": "Concealer",
+          "_id": "3baa9dc1-d5cf-4fac-ac70-01e3596045ec"
+        },
+        {
+          "name": "Light/Medium",
+          "type": "Concealer",
+          "_id": "4a60be60-86d3-4f99-831b-f48d06b8b59b"
+        },
+        {
+          "name": "Neutral",
+          "type": "Concealer",
+          "_id": "faafbc7a-f841-4426-b9d8-17df437c4e98"
+        }
+      ],
+      "category": "Only",
+      "default": false
+    }
   },
   {
     "radiantRecommendation": "09 - Light/Medium Warm",
-    "qualifiers": [
-      {
-        "name": "Light",
-        "type": "Concealer",
-        "_id": "3baa9dc1-d5cf-4fac-ac70-01e3596045ec"
-      },
-      {
-        "name": "Light/Medium",
-        "type": "Concealer",
-        "_id": "4a60be60-86d3-4f99-831b-f48d06b8b59b"
-      },
-      {
-        "name": "Warm",
-        "type": "Concealer",
-        "_id": "ef430ed9-1386-4056-a54b-494f81a75aa2"
-      }
-    ],
     "name": "130 - Light Medium Warm 4",
     "additionalRecommendation": [],
-    "default": false,
     "backgroundColor": "",
     "resultImage": [
       {
@@ -2316,31 +2370,33 @@
       }
     ],
     "shadeRecommended": "130 - Light Medium Warm",
-    "category": "Only",
-    "_id": "fa195605-dda6-4efe-9cec-ef1e6c512b1d"
+    "_id": "fa195605-dda6-4efe-9cec-ef1e6c512b1d",
+    "quizzAttributes": {
+      "qualifiers": [
+        {
+          "name": "Light",
+          "type": "Concealer",
+          "_id": "3baa9dc1-d5cf-4fac-ac70-01e3596045ec"
+        },
+        {
+          "name": "Light/Medium",
+          "type": "Concealer",
+          "_id": "4a60be60-86d3-4f99-831b-f48d06b8b59b"
+        },
+        {
+          "name": "Warm",
+          "type": "Concealer",
+          "_id": "ef430ed9-1386-4056-a54b-494f81a75aa2"
+        }
+      ],
+      "category": "Only",
+      "default": false
+    }
   },
   {
     "radiantRecommendation": "06 - Light Cool",
-    "qualifiers": [
-      {
-        "name": "Light",
-        "type": "Concealer",
-        "_id": "3baa9dc1-d5cf-4fac-ac70-01e3596045ec"
-      },
-      {
-        "name": "Light",
-        "type": "Concealer",
-        "_id": "3baa9dc1-d5cf-4fac-ac70-01e3596045ec"
-      },
-      {
-        "name": "Cool",
-        "type": "Concealer",
-        "_id": "4f8b4fe8-33fb-43ba-9449-d31ef6d70486"
-      }
-    ],
     "name": "125 - Light Medium Cool 3",
     "additionalRecommendation": [],
-    "default": false,
     "backgroundColor": "",
     "resultImage": [
       {
@@ -2378,36 +2434,33 @@
       }
     ],
     "shadeRecommended": "125 - Light Medium Cool",
-    "category": "Only",
-    "_id": "ce26da8a-aa47-477e-b9c2-4b142c22d345"
+    "_id": "ce26da8a-aa47-477e-b9c2-4b142c22d345",
+    "quizzAttributes": {
+      "qualifiers": [
+        {
+          "name": "Light",
+          "type": "Concealer",
+          "_id": "3baa9dc1-d5cf-4fac-ac70-01e3596045ec"
+        },
+        {
+          "name": "Light",
+          "type": "Concealer",
+          "_id": "3baa9dc1-d5cf-4fac-ac70-01e3596045ec"
+        },
+        {
+          "name": "Cool",
+          "type": "Concealer",
+          "_id": "4f8b4fe8-33fb-43ba-9449-d31ef6d70486"
+        }
+      ],
+      "category": "Only",
+      "default": false
+    }
   },
   {
     "radiantRecommendation": "05 - Light Neutral",
-    "qualifiers": [
-      {
-        "name": "Light",
-        "type": "Concealer",
-        "_id": "3baa9dc1-d5cf-4fac-ac70-01e3596045ec"
-      },
-      {
-        "name": "Light",
-        "type": "Concealer",
-        "_id": "3baa9dc1-d5cf-4fac-ac70-01e3596045ec"
-      },
-      {
-        "name": "Neutral",
-        "type": "Concealer",
-        "_id": "faafbc7a-f841-4426-b9d8-17df437c4e98"
-      },
-      {
-        "name": "Neutral",
-        "type": "Concealer",
-        "_id": "faafbc7a-f841-4426-b9d8-17df437c4e98"
-      }
-    ],
     "name": "115 - Light Cool",
     "additionalRecommendation": ["120 - Light Neutral"],
-    "default": false,
     "backgroundColor": "",
     "resultImage": [
       {
@@ -2445,36 +2498,38 @@
       }
     ],
     "shadeRecommended": "115 - Light Cool",
-    "category": "Only",
-    "_id": "caa70621-413b-4115-8da2-506f7bee9802"
+    "_id": "caa70621-413b-4115-8da2-506f7bee9802",
+    "quizzAttributes": {
+      "qualifiers": [
+        {
+          "name": "Light",
+          "type": "Concealer",
+          "_id": "3baa9dc1-d5cf-4fac-ac70-01e3596045ec"
+        },
+        {
+          "name": "Light",
+          "type": "Concealer",
+          "_id": "3baa9dc1-d5cf-4fac-ac70-01e3596045ec"
+        },
+        {
+          "name": "Neutral",
+          "type": "Concealer",
+          "_id": "faafbc7a-f841-4426-b9d8-17df437c4e98"
+        },
+        {
+          "name": "Neutral",
+          "type": "Concealer",
+          "_id": "faafbc7a-f841-4426-b9d8-17df437c4e98"
+        }
+      ],
+      "category": "Only",
+      "default": false
+    }
   },
   {
     "radiantRecommendation": "07 - Light Neutral Warm",
-    "qualifiers": [
-      {
-        "name": "Light",
-        "type": "Concealer",
-        "_id": "3baa9dc1-d5cf-4fac-ac70-01e3596045ec"
-      },
-      {
-        "name": "Light",
-        "type": "Concealer",
-        "_id": "3baa9dc1-d5cf-4fac-ac70-01e3596045ec"
-      },
-      {
-        "name": "Neutral",
-        "type": "Concealer",
-        "_id": "faafbc7a-f841-4426-b9d8-17df437c4e98"
-      },
-      {
-        "name": "NeutralWarm",
-        "type": "Concealer",
-        "_id": "cc83682a-8abb-4101-919c-1833ea89c240"
-      }
-    ],
     "name": "120 - Light Neutral 1",
     "additionalRecommendation": [],
-    "default": false,
     "backgroundColor": "",
     "resultImage": [
       {
@@ -2512,31 +2567,38 @@
       }
     ],
     "shadeRecommended": "120 - Light Neutral",
-    "category": "Only",
-    "_id": "2b31d062-c2a3-4248-a217-4ef011de3acd"
+    "_id": "2b31d062-c2a3-4248-a217-4ef011de3acd",
+    "quizzAttributes": {
+      "qualifiers": [
+        {
+          "name": "Light",
+          "type": "Concealer",
+          "_id": "3baa9dc1-d5cf-4fac-ac70-01e3596045ec"
+        },
+        {
+          "name": "Light",
+          "type": "Concealer",
+          "_id": "3baa9dc1-d5cf-4fac-ac70-01e3596045ec"
+        },
+        {
+          "name": "Neutral",
+          "type": "Concealer",
+          "_id": "faafbc7a-f841-4426-b9d8-17df437c4e98"
+        },
+        {
+          "name": "NeutralWarm",
+          "type": "Concealer",
+          "_id": "cc83682a-8abb-4101-919c-1833ea89c240"
+        }
+      ],
+      "category": "Only",
+      "default": false
+    }
   },
   {
     "radiantRecommendation": "02 - Very Light Cool",
-    "qualifiers": [
-      {
-        "name": "Light",
-        "type": "Concealer",
-        "_id": "3baa9dc1-d5cf-4fac-ac70-01e3596045ec"
-      },
-      {
-        "name": "VeryLight",
-        "type": "Concealer",
-        "_id": "d5aee757-4e21-470b-bc55-0b5c2c7dbdce"
-      },
-      {
-        "name": "Cool",
-        "type": "Concealer",
-        "_id": "4f8b4fe8-33fb-43ba-9449-d31ef6d70486"
-      }
-    ],
     "name": "100 - Very Light Cool",
     "additionalRecommendation": [],
-    "default": false,
     "backgroundColor": "",
     "resultImage": [
       {
@@ -2574,31 +2636,33 @@
       }
     ],
     "shadeRecommended": "100 - Very Light Cool",
-    "category": "Only",
-    "_id": "23152b02-447a-4636-b19e-d69c12d263be"
+    "_id": "23152b02-447a-4636-b19e-d69c12d263be",
+    "quizzAttributes": {
+      "qualifiers": [
+        {
+          "name": "Light",
+          "type": "Concealer",
+          "_id": "3baa9dc1-d5cf-4fac-ac70-01e3596045ec"
+        },
+        {
+          "name": "VeryLight",
+          "type": "Concealer",
+          "_id": "d5aee757-4e21-470b-bc55-0b5c2c7dbdce"
+        },
+        {
+          "name": "Cool",
+          "type": "Concealer",
+          "_id": "4f8b4fe8-33fb-43ba-9449-d31ef6d70486"
+        }
+      ],
+      "category": "Only",
+      "default": false
+    }
   },
   {
     "radiantRecommendation": "01 - Very Light Neutral",
-    "qualifiers": [
-      {
-        "name": "Light",
-        "type": "Concealer",
-        "_id": "3baa9dc1-d5cf-4fac-ac70-01e3596045ec"
-      },
-      {
-        "name": "VeryLight",
-        "type": "Concealer",
-        "_id": "d5aee757-4e21-470b-bc55-0b5c2c7dbdce"
-      },
-      {
-        "name": "Neutral",
-        "type": "Concealer",
-        "_id": "faafbc7a-f841-4426-b9d8-17df437c4e98"
-      }
-    ],
     "name": "105 - Very Light Neutral 1",
     "additionalRecommendation": [],
-    "default": false,
     "backgroundColor": "",
     "resultImage": [
       {
@@ -2636,31 +2700,33 @@
       }
     ],
     "shadeRecommended": "105 - Very Light Neutral",
-    "category": "Only",
-    "_id": "fb535ff9-4ddc-4e8a-8749-0a42530875fa"
+    "_id": "fb535ff9-4ddc-4e8a-8749-0a42530875fa",
+    "quizzAttributes": {
+      "qualifiers": [
+        {
+          "name": "Light",
+          "type": "Concealer",
+          "_id": "3baa9dc1-d5cf-4fac-ac70-01e3596045ec"
+        },
+        {
+          "name": "VeryLight",
+          "type": "Concealer",
+          "_id": "d5aee757-4e21-470b-bc55-0b5c2c7dbdce"
+        },
+        {
+          "name": "Neutral",
+          "type": "Concealer",
+          "_id": "faafbc7a-f841-4426-b9d8-17df437c4e98"
+        }
+      ],
+      "category": "Only",
+      "default": false
+    }
   },
   {
     "radiantRecommendation": "03 - Very Light Warm",
-    "qualifiers": [
-      {
-        "name": "Light",
-        "type": "Concealer",
-        "_id": "3baa9dc1-d5cf-4fac-ac70-01e3596045ec"
-      },
-      {
-        "name": "VeryLight",
-        "type": "Concealer",
-        "_id": "d5aee757-4e21-470b-bc55-0b5c2c7dbdce"
-      },
-      {
-        "name": "Warm",
-        "type": "Concealer",
-        "_id": "ef430ed9-1386-4056-a54b-494f81a75aa2"
-      }
-    ],
     "name": "105 - Very Light Neutral 2",
     "additionalRecommendation": ["110 - Light Warm"],
-    "default": false,
     "backgroundColor": "",
     "resultImage": [
       {
@@ -2709,7 +2775,27 @@
       }
     ],
     "shadeRecommended": "105 - Very Light Neutral",
-    "category": "Only",
-    "_id": "1418b836-7004-4410-b82b-37d6acbdbc03"
+    "_id": "1418b836-7004-4410-b82b-37d6acbdbc03",
+    "quizzAttributes": {
+      "qualifiers": [
+        {
+          "name": "Light",
+          "type": "Concealer",
+          "_id": "3baa9dc1-d5cf-4fac-ac70-01e3596045ec"
+        },
+        {
+          "name": "VeryLight",
+          "type": "Concealer",
+          "_id": "d5aee757-4e21-470b-bc55-0b5c2c7dbdce"
+        },
+        {
+          "name": "Warm",
+          "type": "Concealer",
+          "_id": "ef430ed9-1386-4056-a54b-494f81a75aa2"
+        }
+      ],
+      "category": "Only",
+      "default": false
+    }
   }
 ]
