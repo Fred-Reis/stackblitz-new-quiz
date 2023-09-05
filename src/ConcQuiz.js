@@ -1,58 +1,58 @@
-import React from "react";
-import concProducts from "./concealerResults.json";
-import questions from "./questions.json";
+import React from 'react';
+import concProducts from './concealerResults.json';
+import questions from './questions.json';
 
-import "./style.css";
+import './style.css';
 
-import quizzService from "./quiz.service";
+import quizzService from './quiz.service';
 
-const quizzModel = {
-  quizID: "XYZ",
-  marketAvailability: ["US"],
+const QUIZ_MODEL = {
+  quizID: 'XYZ',
+  marketAvailability: ['US'],
   questionsID: [
-    "ad3f2510-de17-4fbe-bb7f-782f35d59a50",
-    "0229393e-94c8-4ae2-aa8d-8e2b19fad35f",
-    "d4c081e3-2b3d-4147-a2e2-cc7ced96133e",
-    "4a55e608-c3ee-40ba-92c6-f3e716f6d63c",
+    'ad3f2510-de17-4fbe-bb7f-782f35d59a50',
+    '0229393e-94c8-4ae2-aa8d-8e2b19fad35f',
+    'd4c081e3-2b3d-4147-a2e2-cc7ced96133e',
+    '4a55e608-c3ee-40ba-92c6-f3e716f6d63c',
   ],
-  categories: ["Only"],
-  quizType: "skin",
-  resultTypes: ["regular", "advanced"],
+  categories: ['Only'],
+  quizType: 'concealer',
+  resultTypes: ['regular'],
   // {...}
 };
 
 const MOCK_CONC_ANSWERS = [
   [
     {
-      name: "Medium",
-      type: "Concealer",
+      name: 'Medium',
+      type: 'Concealer',
     },
   ],
   [
     {
-      name: "Medium",
-      type: "Concealer",
+      name: 'Medium',
+      type: 'Concealer',
     },
   ],
   [
     {
-      name: "Neutral",
-      type: "Concealer",
+      name: 'Neutral',
+      type: 'Concealer',
     },
   ],
   [
     {
-      name: "Neutral",
-      type: "Concealer",
+      name: 'Neutral',
+      type: 'Concealer',
     },
   ],
 ];
 
 export default function Conc() {
-  const productQualifierKey = "name";
-  const answerQualifierKey = "qualifier";
+  const productQualifierKey = 'name';
+  const answerQualifierKey = 'qualifier';
 
-  const quizz = quizzService(quizzModel);
+  const quizz = quizzService(QUIZ_MODEL);
 
   const foundQuestions = quizz.handleGetQuestionsByID(questions);
 
@@ -79,25 +79,9 @@ export default function Conc() {
     productQualifierKey
   );
 
-  console.log("tiedProducts", tiedProducts);
-  console.log("catProducts", catProducts);
-  // console.log(tiedProducts.map((e) => e.quizzAttributes.qualifiers));
-
-  // concProducts?.map((ele) => {
-  //   const newValue = structuredClone(ele);
-  //   newValue.quizzAttributes = {
-  //     qualifiers: ele.qualifiers,
-  //     category: ele.category,
-  //     default: ele.default,
-  //   };
-
-  //   delete newValue.qualifiers;
-  //   delete newValue.category;
-  //   delete newValue.default;
-
-  //   return newValue;
-  // })
-  // let arr = [];
+  console.log('tiedProducts', tiedProducts);
+  // console.log('catProducts', catProducts);
+  console.log(tiedProducts.map((e) => e.quizzAttributes.qualifiers).flat());
 
   return (
     <div>
@@ -105,3 +89,18 @@ export default function Conc() {
     </div>
   );
 }
+
+// concProducts?.map((ele) => {
+//   const newValue = structuredClone(ele);
+//   newValue.quizzAttributes = {
+//     qualifiers: ele.qualifiers,
+//     category: ele.category,
+//     default: ele.default,
+//   };
+
+//   delete newValue.qualifiers;
+//   delete newValue.category;
+//   delete newValue.default;
+
+//   return newValue;
+// })

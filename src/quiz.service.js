@@ -22,7 +22,11 @@ export default function quizService(_quizModel = {}) {
       )
     );
 
-    return result;
+    return result.sort(
+      (a, b) =>
+        b.quizzAttributes?.qualifiers.length -
+        a.quizzAttributes?.qualifiers.length
+    );
   }
 
   function handleGetRegularResultsByCategory(_products, _answers, _productKey) {
