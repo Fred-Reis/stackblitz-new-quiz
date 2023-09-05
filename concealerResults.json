@@ -1,0 +1,2715 @@
+[
+  {
+    "radiantRecommendation": "10 - Light/Medium Olive",
+    "qualifiers": [
+      {
+        "name": "Medium",
+        "type": "Concealer",
+        "_id": "a2a36b61-8c38-4eb3-87af-2d28f82bae15"
+      },
+      {
+        "name": "Light/Medium",
+        "type": "Concealer",
+        "_id": "4a60be60-86d3-4f99-831b-f48d06b8b59b"
+      },
+      {
+        "name": "Olive",
+        "type": "Concealer",
+        "_id": "ec967718-d6c8-43ad-a7a5-eaa409d2d98c"
+      }
+    ],
+    "name": "130 - Light Medium Warm 1",
+    "additionalRecommendation": [],
+    "default": false,
+    "backgroundColor": "",
+    "resultImage": [
+      {
+        "alt": "",
+        "name": "bron.jpg",
+        "size": 118306,
+        "_type": "image",
+        "width": 1200,
+        "height": 851,
+        "mimeType": "image/jpeg",
+        "storageID": "725bb6f0-9092-4cf5-89a2-1f4063cef73c",
+        "src": "https://f.shgcdn.com/725bb6f0-9092-4cf5-89a2-1f4063cef73c/"
+      },
+      {
+        "alt": "",
+        "name": "batman.jpg",
+        "size": 38710,
+        "_type": "image",
+        "width": 1280,
+        "height": 720,
+        "mimeType": "image/jpeg",
+        "storageID": "c0f15b49-55d7-4bdd-babf-31dbca6ba668",
+        "src": "https://f.shgcdn.com/c0f15b49-55d7-4bdd-babf-31dbca6ba668/"
+      },
+      {
+        "alt": "",
+        "name": "witcher.jpg",
+        "size": 356783,
+        "_type": "image",
+        "width": 1496,
+        "height": 842,
+        "mimeType": "image/jpeg",
+        "storageID": "8a1614a4-c4c4-4143-93c1-d8caa9658918",
+        "src": "https://f.shgcdn.com/8a1614a4-c4c4-4143-93c1-d8caa9658918/"
+      }
+    ],
+    "shadeRecommended": "130 - Light Medium Warm",
+    "category": "Only",
+    "_id": "d2afafcf-37a1-465c-bf51-3a1484455956"
+  },
+  {
+    "radiantRecommendation": "09 - Light/Medium Warm",
+    "qualifiers": [
+      {
+        "name": "Medium",
+        "type": "Concealer",
+        "_id": "a2a36b61-8c38-4eb3-87af-2d28f82bae15"
+      },
+      {
+        "name": "Light/Medium",
+        "type": "Concealer",
+        "_id": "4a60be60-86d3-4f99-831b-f48d06b8b59b"
+      },
+      {
+        "name": "Warm",
+        "type": "Concealer",
+        "_id": "ef430ed9-1386-4056-a54b-494f81a75aa2"
+      }
+    ],
+    "name": "130 - Light Medium Warm 2",
+    "additionalRecommendation": [],
+    "default": false,
+    "backgroundColor": "",
+    "resultImage": [
+      {
+        "alt": "",
+        "name": "witcher.jpg",
+        "size": 356783,
+        "_type": "image",
+        "width": 1496,
+        "height": 842,
+        "mimeType": "image/jpeg",
+        "storageID": "e940ffa4-32a1-45d7-a2f6-7c9a7c47acff",
+        "src": "https://f.shgcdn.com/e940ffa4-32a1-45d7-a2f6-7c9a7c47acff/"
+      },
+      {
+        "alt": "",
+        "name": "batman.jpg",
+        "size": 38710,
+        "_type": "image",
+        "width": 1280,
+        "height": 720,
+        "mimeType": "image/jpeg",
+        "storageID": "1ef176f2-fd3b-4c52-ba83-fcb378145be2",
+        "src": "https://f.shgcdn.com/1ef176f2-fd3b-4c52-ba83-fcb378145be2/"
+      },
+      {
+        "alt": "",
+        "name": "bron.jpg",
+        "size": 118306,
+        "_type": "image",
+        "width": 1200,
+        "height": 851,
+        "mimeType": "image/jpeg",
+        "storageID": "27dcca75-95a9-49b4-8477-07dce6e10fde",
+        "src": "https://f.shgcdn.com/27dcca75-95a9-49b4-8477-07dce6e10fde/"
+      }
+    ],
+    "shadeRecommended": "130 - Light Medium Warm",
+    "category": "Only",
+    "_id": "3049d8aa-7d6d-4f63-a840-a90ea9b9974a"
+  },
+  {
+    "radiantRecommendation": "22 - Tan Cool",
+    "qualifiers": [
+      {
+        "name": "Tan",
+        "type": "Concealer",
+        "_id": "8555ee59-2b0f-49df-8628-e0a1d95f3b68"
+      },
+      {
+        "name": "Tan",
+        "type": "Concealer",
+        "_id": "8555ee59-2b0f-49df-8628-e0a1d95f3b68"
+      },
+      {
+        "name": "Cool",
+        "type": "Concealer",
+        "_id": "4f8b4fe8-33fb-43ba-9449-d31ef6d70486"
+      }
+    ],
+    "name": "155 - Medium Tan Cool 3",
+    "additionalRecommendation": [],
+    "default": false,
+    "backgroundColor": "",
+    "resultImage": [
+      {
+        "alt": "",
+        "name": "batman.jpg",
+        "size": 38710,
+        "_type": "image",
+        "width": 1280,
+        "height": 720,
+        "mimeType": "image/jpeg",
+        "storageID": "fb5b78f6-fb5f-49f0-930d-f51a78d2f3f3",
+        "src": "https://f.shgcdn.com/fb5b78f6-fb5f-49f0-930d-f51a78d2f3f3/"
+      },
+      {
+        "alt": "",
+        "name": "bron.jpg",
+        "size": 118306,
+        "_type": "image",
+        "width": 1200,
+        "height": 851,
+        "mimeType": "image/jpeg",
+        "storageID": "ec3ff913-3e22-4b57-82e5-6e23e8699a38",
+        "src": "https://f.shgcdn.com/ec3ff913-3e22-4b57-82e5-6e23e8699a38/"
+      },
+      {
+        "alt": "",
+        "name": "witcher.jpg",
+        "size": 356783,
+        "_type": "image",
+        "width": 1496,
+        "height": 842,
+        "mimeType": "image/jpeg",
+        "storageID": "e4fdbadc-305f-42ae-8cff-372607972e70",
+        "src": "https://f.shgcdn.com/e4fdbadc-305f-42ae-8cff-372607972e70/"
+      }
+    ],
+    "shadeRecommended": "155 - Medium Tan Cool",
+    "category": "Only",
+    "_id": "dff2cf0a-85bb-411e-8791-6d8f5c89ce48"
+  },
+  {
+    "radiantRecommendation": "08 - Light/Medium Cool",
+    "qualifiers": [
+      {
+        "name": "Light",
+        "type": "Concealer",
+        "_id": "3baa9dc1-d5cf-4fac-ac70-01e3596045ec"
+      },
+      {
+        "name": "Light/Medium",
+        "type": "Concealer",
+        "_id": "4a60be60-86d3-4f99-831b-f48d06b8b59b"
+      },
+      {
+        "name": "Cool",
+        "type": "Concealer",
+        "_id": "4f8b4fe8-33fb-43ba-9449-d31ef6d70486"
+      }
+    ],
+    "name": "125 - Light Medium Cool 2",
+    "additionalRecommendation": [],
+    "default": false,
+    "backgroundColor": "",
+    "resultImage": [
+      {
+        "alt": "",
+        "name": "witcher.jpg",
+        "size": 356783,
+        "_type": "image",
+        "width": 1496,
+        "height": 842,
+        "mimeType": "image/jpeg",
+        "storageID": "2dd46c75-faa3-4587-b202-3beac1bbbd23",
+        "src": "https://f.shgcdn.com/2dd46c75-faa3-4587-b202-3beac1bbbd23/"
+      },
+      {
+        "alt": "",
+        "name": "bron.jpg",
+        "size": 118306,
+        "_type": "image",
+        "width": 1200,
+        "height": 851,
+        "mimeType": "image/jpeg",
+        "storageID": "aa2671ac-c84c-4384-9936-556a4c6bfbe1",
+        "src": "https://f.shgcdn.com/aa2671ac-c84c-4384-9936-556a4c6bfbe1/"
+      },
+      {
+        "alt": "",
+        "name": "batman.jpg",
+        "size": 38710,
+        "_type": "image",
+        "width": 1280,
+        "height": 720,
+        "mimeType": "image/jpeg",
+        "storageID": "b80d7ba8-8d66-4de6-9100-d3372095f074",
+        "src": "https://f.shgcdn.com/b80d7ba8-8d66-4de6-9100-d3372095f074/"
+      }
+    ],
+    "shadeRecommended": "125 - Light Medium Cool",
+    "category": "Only",
+    "_id": "257b3596-31d1-4e89-ae60-4b61968b4280"
+  },
+  {
+    "radiantRecommendation": "11 - Light/Medium Neutral",
+    "qualifiers": [
+      {
+        "name": "Medium",
+        "type": "Concealer",
+        "_id": "a2a36b61-8c38-4eb3-87af-2d28f82bae15"
+      },
+      {
+        "name": "Light/Medium",
+        "type": "Concealer",
+        "_id": "4a60be60-86d3-4f99-831b-f48d06b8b59b"
+      },
+      {
+        "name": "Neutral",
+        "type": "Concealer",
+        "_id": "faafbc7a-f841-4426-b9d8-17df437c4e98"
+      }
+    ],
+    "name": "135 - Medium Neutral 3",
+    "additionalRecommendation": [],
+    "default": false,
+    "backgroundColor": "",
+    "resultImage": [
+      {
+        "alt": "",
+        "name": "batman.jpg",
+        "size": 38710,
+        "_type": "image",
+        "width": 1280,
+        "height": 720,
+        "mimeType": "image/jpeg",
+        "storageID": "304c7ceb-c5b0-4770-aabb-0a60720f2c72",
+        "src": "https://f.shgcdn.com/304c7ceb-c5b0-4770-aabb-0a60720f2c72/"
+      },
+      {
+        "alt": "",
+        "name": "witcher.jpg",
+        "size": 356783,
+        "_type": "image",
+        "width": 1496,
+        "height": 842,
+        "mimeType": "image/jpeg",
+        "storageID": "3271abd8-4ce6-4af4-8a2d-84bc33b13ac3",
+        "src": "https://f.shgcdn.com/3271abd8-4ce6-4af4-8a2d-84bc33b13ac3/"
+      },
+      {
+        "alt": "",
+        "name": "bron.jpg",
+        "size": 118306,
+        "_type": "image",
+        "width": 1200,
+        "height": 851,
+        "mimeType": "image/jpeg",
+        "storageID": "3397d26e-138d-4952-9b07-6a13c64ec4be",
+        "src": "https://f.shgcdn.com/3397d26e-138d-4952-9b07-6a13c64ec4be/"
+      }
+    ],
+    "shadeRecommended": "135 - Medium Neutral",
+    "category": "Only",
+    "_id": "2de28585-be43-4711-85d6-be8d82643c29"
+  },
+  {
+    "radiantRecommendation": "24 - Tan/Deep Cool",
+    "qualifiers": [
+      {
+        "name": "Deep",
+        "type": "Concealer",
+        "_id": "2718fa5b-1c69-485f-b517-0d6ba025f352"
+      },
+      {
+        "name": "Tan/Deep",
+        "type": "Concealer",
+        "_id": "09a205f1-c77b-4673-bf1d-6ee512b6343e"
+      },
+      {
+        "name": "Cool",
+        "type": "Concealer",
+        "_id": "4f8b4fe8-33fb-43ba-9449-d31ef6d70486"
+      }
+    ],
+    "name": "160 - Tan Neutral Cool",
+    "additionalRecommendation": [],
+    "default": false,
+    "backgroundColor": "",
+    "resultImage": [
+      {
+        "alt": "",
+        "name": "batman.jpg",
+        "size": 38710,
+        "_type": "image",
+        "width": 1280,
+        "height": 720,
+        "mimeType": "image/jpeg",
+        "storageID": "91ba6a8f-abaf-4544-ac82-a704692c5da9",
+        "src": "https://f.shgcdn.com/91ba6a8f-abaf-4544-ac82-a704692c5da9/"
+      },
+      {
+        "alt": "",
+        "name": "bron.jpg",
+        "size": 118306,
+        "_type": "image",
+        "width": 1200,
+        "height": 851,
+        "mimeType": "image/jpeg",
+        "storageID": "72cc8077-6ab4-4d00-944f-2d3893ae178e",
+        "src": "https://f.shgcdn.com/72cc8077-6ab4-4d00-944f-2d3893ae178e/"
+      }
+    ],
+    "shadeRecommended": "160 - Tan Neutral Cool",
+    "category": "Only",
+    "_id": "b0297326-a9f0-4848-b963-1201dcf4c536"
+  },
+  {
+    "radiantRecommendation": "04 - Light Warm",
+    "qualifiers": [
+      {
+        "name": "Light",
+        "type": "Concealer",
+        "_id": "3baa9dc1-d5cf-4fac-ac70-01e3596045ec"
+      },
+      {
+        "name": "Light",
+        "type": "Concealer",
+        "_id": "3baa9dc1-d5cf-4fac-ac70-01e3596045ec"
+      },
+      {
+        "name": "Warm",
+        "type": "Concealer",
+        "_id": "ef430ed9-1386-4056-a54b-494f81a75aa2"
+      }
+    ],
+    "name": "120 - Light Neutral 2",
+    "additionalRecommendation": [],
+    "default": false,
+    "backgroundColor": "",
+    "resultImage": [
+      {
+        "alt": "",
+        "name": "batman.jpg",
+        "size": 38710,
+        "_type": "image",
+        "width": 1280,
+        "height": 720,
+        "mimeType": "image/jpeg",
+        "storageID": "57c58803-2f3c-4163-832d-318ce77431af",
+        "src": "https://f.shgcdn.com/57c58803-2f3c-4163-832d-318ce77431af/"
+      },
+      {
+        "alt": "",
+        "name": "bron.jpg",
+        "size": 118306,
+        "_type": "image",
+        "width": 1200,
+        "height": 851,
+        "mimeType": "image/jpeg",
+        "storageID": "a7a66ad5-8f11-41d5-a076-ea7f7e37d270",
+        "src": "https://f.shgcdn.com/a7a66ad5-8f11-41d5-a076-ea7f7e37d270/"
+      },
+      {
+        "alt": "",
+        "name": "witcher.jpg",
+        "size": 356783,
+        "_type": "image",
+        "width": 1496,
+        "height": 842,
+        "mimeType": "image/jpeg",
+        "storageID": "b2578855-d898-422e-86ea-12ec66e2e91d",
+        "src": "https://f.shgcdn.com/b2578855-d898-422e-86ea-12ec66e2e91d/"
+      }
+    ],
+    "shadeRecommended": "120 - Light Neutral",
+    "category": "Only",
+    "_id": "59f84d3b-737e-4d9e-ba12-e01f1b9b7341"
+  },
+  {
+    "qualifiers": [],
+    "name": "185 - Deep Neutral Cool",
+    "additionalRecommendation": [],
+    "default": false,
+    "backgroundColor": "",
+    "resultImage": [
+      {
+        "alt": "",
+        "name": "185_RadiantSkinConcealer_ShadeFinder_Packaging.jpg",
+        "size": 46838,
+        "_type": "image",
+        "width": 586,
+        "height": 566,
+        "mimeType": "image/jpeg",
+        "storageID": "f6f63fcf-86d0-4939-bbb7-9e3f7808abf6",
+        "src": "https://f.shgcdn.com/f6f63fcf-86d0-4939-bbb7-9e3f7808abf6/"
+      },
+      {
+        "alt": "",
+        "name": "185_RadiantSkinConcealer_ShadeFinder_BeforeAndAfter.jpg",
+        "size": 149765,
+        "_type": "image",
+        "width": 586,
+        "height": 566,
+        "mimeType": "image/jpeg",
+        "storageID": "8d1e7a34-8fa0-4585-9e9b-b97c7373b490",
+        "src": "https://f.shgcdn.com/8d1e7a34-8fa0-4585-9e9b-b97c7373b490/"
+      },
+      {
+        "alt": "",
+        "name": "185_RadiantSkinConcealer_ShadeFinder_Model.jpg",
+        "size": 146469,
+        "_type": "image",
+        "width": 586,
+        "height": 566,
+        "mimeType": "image/jpeg",
+        "storageID": "cecd852e-16bd-482c-9596-d9083faf3949",
+        "src": "https://f.shgcdn.com/cecd852e-16bd-482c-9596-d9083faf3949/"
+      },
+      {
+        "alt": "",
+        "name": "160195_RadiantSkinConcealer_ShadeFinder_ArmSwatch.jpg",
+        "size": 45670,
+        "_type": "image",
+        "width": 586,
+        "height": 566,
+        "mimeType": "image/jpeg",
+        "storageID": "75c67f0d-e01c-4eac-a33c-6611f2be2c96",
+        "src": "https://f.shgcdn.com/75c67f0d-e01c-4eac-a33c-6611f2be2c96/"
+      }
+    ],
+    "shadeRecommended": "185 - Deep Neutral Cool",
+    "category": "Only",
+    "_id": "e397703b-0d07-4786-86bc-13bcf6b648d1"
+  },
+  {
+    "qualifiers": [],
+    "name": "110 - Light Warm",
+    "additionalRecommendation": [],
+    "default": false,
+    "backgroundColor": "",
+    "resultImage": [
+      {
+        "alt": "",
+        "name": "110_RadiantSkinConcealer_ShadeFinder_Packaging.jpg",
+        "size": 35277,
+        "_type": "image",
+        "width": 586,
+        "height": 566,
+        "mimeType": "image/jpeg",
+        "storageID": "bf51cd18-c6fe-4ba1-9cc8-4edef197d4d6",
+        "src": "https://f.shgcdn.com/bf51cd18-c6fe-4ba1-9cc8-4edef197d4d6/"
+      },
+      {
+        "alt": "",
+        "name": "110_RadiantSkinConcealer_ShadeFinder_BeforeAndAfter.jpg",
+        "size": 149021,
+        "_type": "image",
+        "width": 586,
+        "height": 566,
+        "mimeType": "image/jpeg",
+        "storageID": "a575ffd9-93a9-4183-a477-9f797fa7cf70",
+        "src": "https://f.shgcdn.com/a575ffd9-93a9-4183-a477-9f797fa7cf70/"
+      },
+      {
+        "alt": "",
+        "name": "110_RadiantSkinConcealer_ShadeFinder_Model.jpg",
+        "size": 142221,
+        "_type": "image",
+        "width": 586,
+        "height": 566,
+        "mimeType": "image/jpeg",
+        "storageID": "8b116485-b9b5-4351-98f9-36c4446f83c2",
+        "src": "https://f.shgcdn.com/8b116485-b9b5-4351-98f9-36c4446f83c2/"
+      },
+      {
+        "alt": "",
+        "name": "100130_RadiantSkinConcealer_ShadeFinder_ArmSwatch.jpg",
+        "size": 34422,
+        "_type": "image",
+        "width": 586,
+        "height": 566,
+        "mimeType": "image/jpeg",
+        "storageID": "fa5c7682-2e61-4ffc-bf55-adf7dd1e5c3a",
+        "src": "https://f.shgcdn.com/fa5c7682-2e61-4ffc-bf55-adf7dd1e5c3a/"
+      }
+    ],
+    "shadeRecommended": "110 - Light Warm",
+    "category": "Only",
+    "_id": "2b46f833-ccc8-4e47-8e9a-59c84585830e"
+  },
+  {
+    "qualifiers": [],
+    "name": "165 - Tan Warm",
+    "additionalRecommendation": [],
+    "default": false,
+    "backgroundColor": "",
+    "resultImage": [
+      {
+        "alt": "",
+        "name": "165_RadiantSkinConcealer_ShadeFinder_Packaging.jpg",
+        "size": 42107,
+        "_type": "image",
+        "width": 586,
+        "height": 566,
+        "mimeType": "image/jpeg",
+        "storageID": "c6250fdf-5d1b-43ac-8185-77ef910781f9",
+        "src": "https://f.shgcdn.com/c6250fdf-5d1b-43ac-8185-77ef910781f9/"
+      },
+      {
+        "alt": "",
+        "name": "165_RadiantSkinConcealer_ShadeFinder_BeforeAndAfter.jpg",
+        "size": 129035,
+        "_type": "image",
+        "width": 586,
+        "height": 566,
+        "mimeType": "image/jpeg",
+        "storageID": "e2776ed0-726f-454e-b2db-353504c4435b",
+        "src": "https://f.shgcdn.com/e2776ed0-726f-454e-b2db-353504c4435b/"
+      },
+      {
+        "alt": "",
+        "name": "165_RadiantSkinConcealer_ShadeFinder_Model.jpg",
+        "size": 145075,
+        "_type": "image",
+        "width": 586,
+        "height": 566,
+        "mimeType": "image/jpeg",
+        "storageID": "1af5b2fd-1825-4658-b5a0-2c9de97c941d",
+        "src": "https://f.shgcdn.com/1af5b2fd-1825-4658-b5a0-2c9de97c941d/"
+      },
+      {
+        "alt": "",
+        "name": "160195_RadiantSkinConcealer_ShadeFinder_ArmSwatch.jpg",
+        "size": 45670,
+        "_type": "image",
+        "width": 586,
+        "height": 566,
+        "mimeType": "image/jpeg",
+        "storageID": "ec50cf14-9e7f-49e2-9676-99addf613f17",
+        "src": "https://f.shgcdn.com/ec50cf14-9e7f-49e2-9676-99addf613f17/"
+      }
+    ],
+    "shadeRecommended": "165 - Tan Warm",
+    "category": "Only",
+    "_id": "7368b55c-bd7a-4944-8470-135109fd1959"
+  },
+  {
+    "radiantRecommendation": "24 - Tan/Deep Cool",
+    "qualifiers": [
+      {
+        "name": "Tan",
+        "type": "Concealer",
+        "_id": "8555ee59-2b0f-49df-8628-e0a1d95f3b68"
+      },
+      {
+        "name": "Tan/Deep",
+        "type": "Concealer",
+        "_id": "09a205f1-c77b-4673-bf1d-6ee512b6343e"
+      },
+      {
+        "name": "Cool",
+        "type": "Concealer",
+        "_id": "4f8b4fe8-33fb-43ba-9449-d31ef6d70486"
+      }
+    ],
+    "name": "160 - Tan Neutral Cool 2",
+    "additionalRecommendation": [],
+    "default": false,
+    "backgroundColor": "",
+    "resultImage": [],
+    "shadeRecommended": "160 - Tan Neutral Cool",
+    "category": "Only",
+    "_id": "8550a7e7-3dfc-47dc-9ea9-48440bd98fad"
+  },
+  {
+    "radiantRecommendation": "25 - Tan/Deep Neutral",
+    "qualifiers": [
+      {
+        "name": "Deep",
+        "type": "Concealer",
+        "_id": "2718fa5b-1c69-485f-b517-0d6ba025f352"
+      },
+      {
+        "name": "Tan/Deep",
+        "type": "Concealer",
+        "_id": "09a205f1-c77b-4673-bf1d-6ee512b6343e"
+      },
+      {
+        "name": "Neutral",
+        "type": "Concealer",
+        "_id": "faafbc7a-f841-4426-b9d8-17df437c4e98"
+      }
+    ],
+    "name": "170 - Tan Neutral 3",
+    "additionalRecommendation": [],
+    "default": false,
+    "backgroundColor": "#38241D",
+    "resultImage": [],
+    "shadeRecommended": "170 - Tan Neutral",
+    "category": "Only",
+    "_id": "f8c38e49-6dcb-41dd-9fa4-eea7d82a7875"
+  },
+  {
+    "radiantRecommendation": "28 - Deep Neutral Cool",
+    "qualifiers": [
+      {
+        "name": "Deep",
+        "type": "Concealer",
+        "_id": "2718fa5b-1c69-485f-b517-0d6ba025f352"
+      },
+      {
+        "name": "Deep",
+        "type": "Concealer",
+        "_id": "2718fa5b-1c69-485f-b517-0d6ba025f352"
+      },
+      {
+        "name": "Neutral",
+        "type": "Concealer",
+        "_id": "faafbc7a-f841-4426-b9d8-17df437c4e98"
+      },
+      {
+        "name": "NeutralCool",
+        "type": "Concealer",
+        "_id": "67706d01-8f43-46f3-b72a-bc5d10357f47"
+      }
+    ],
+    "name": "180 - Tan Deep Neutral",
+    "additionalRecommendation": ["185 - Deep Neutral Cool"],
+    "default": false,
+    "backgroundColor": "#38241D",
+    "resultImage": [
+      {
+        "alt": "",
+        "name": "batman.jpg",
+        "size": 38710,
+        "_type": "image",
+        "width": 1280,
+        "height": 720,
+        "mimeType": "image/jpeg",
+        "storageID": "319b68d8-9a35-408b-b221-145ed021ac4e",
+        "src": "https://f.shgcdn.com/319b68d8-9a35-408b-b221-145ed021ac4e/"
+      },
+      {
+        "alt": "",
+        "name": "bron.jpg",
+        "size": 118306,
+        "_type": "image",
+        "width": 1200,
+        "height": 851,
+        "mimeType": "image/jpeg",
+        "storageID": "f5e7eaa2-6c2c-4037-ab02-f6b8e66e7911",
+        "src": "https://f.shgcdn.com/f5e7eaa2-6c2c-4037-ab02-f6b8e66e7911/"
+      },
+      {
+        "alt": "",
+        "name": "witcher.jpg",
+        "size": 356783,
+        "_type": "image",
+        "width": 1496,
+        "height": 842,
+        "mimeType": "image/jpeg",
+        "storageID": "3bf46306-3764-4d4e-8772-09e784198783",
+        "src": "https://f.shgcdn.com/3bf46306-3764-4d4e-8772-09e784198783/"
+      }
+    ],
+    "shadeRecommended": "180 - Tan Deep Neutral",
+    "category": "Only",
+    "_id": "2a9fd0f7-1614-4f3f-96cb-e2e0c54db1da"
+  },
+  {
+    "radiantRecommendation": "29 - Deep Cool",
+    "qualifiers": [
+      {
+        "name": "Deep",
+        "type": "Concealer",
+        "_id": "2718fa5b-1c69-485f-b517-0d6ba025f352"
+      },
+      {
+        "name": "Deep",
+        "type": "Concealer",
+        "_id": "2718fa5b-1c69-485f-b517-0d6ba025f352"
+      },
+      {
+        "name": "Cool",
+        "type": "Concealer",
+        "_id": "4f8b4fe8-33fb-43ba-9449-d31ef6d70486"
+      }
+    ],
+    "name": "190 - Deep Cool",
+    "additionalRecommendation": [],
+    "default": false,
+    "backgroundColor": "",
+    "resultImage": [
+      {
+        "alt": "",
+        "name": "bron.jpg",
+        "size": 118306,
+        "_type": "image",
+        "width": 1200,
+        "height": 851,
+        "mimeType": "image/jpeg",
+        "storageID": "d3166621-0d1d-4e97-a851-380fcb6bddb8",
+        "src": "https://f.shgcdn.com/d3166621-0d1d-4e97-a851-380fcb6bddb8/"
+      },
+      {
+        "alt": "",
+        "name": "batman.jpg",
+        "size": 38710,
+        "_type": "image",
+        "width": 1280,
+        "height": 720,
+        "mimeType": "image/jpeg",
+        "storageID": "ebde8260-f534-4fcf-9147-d260ac36cbc8",
+        "src": "https://f.shgcdn.com/ebde8260-f534-4fcf-9147-d260ac36cbc8/"
+      },
+      {
+        "alt": "",
+        "name": "witcher.jpg",
+        "size": 356783,
+        "_type": "image",
+        "width": 1496,
+        "height": 842,
+        "mimeType": "image/jpeg",
+        "storageID": "395d049d-2e7d-480d-b6d7-5af7d80d34c2",
+        "src": "https://f.shgcdn.com/395d049d-2e7d-480d-b6d7-5af7d80d34c2/"
+      }
+    ],
+    "shadeRecommended": "190 - Deep Cool",
+    "category": "Only",
+    "_id": "49d706fd-de28-42e3-a691-e0a20022108d"
+  },
+  {
+    "radiantRecommendation": "30 - Deep Neutral",
+    "qualifiers": [
+      {
+        "name": "Deep",
+        "type": "Concealer",
+        "_id": "2718fa5b-1c69-485f-b517-0d6ba025f352"
+      },
+      {
+        "name": "Deep",
+        "type": "Concealer",
+        "_id": "2718fa5b-1c69-485f-b517-0d6ba025f352"
+      },
+      {
+        "name": "Neutral",
+        "type": "Concealer",
+        "_id": "faafbc7a-f841-4426-b9d8-17df437c4e98"
+      },
+      {
+        "name": "Neutral",
+        "type": "Concealer",
+        "_id": "faafbc7a-f841-4426-b9d8-17df437c4e98"
+      }
+    ],
+    "name": "195 - Deep Neutral",
+    "additionalRecommendation": [],
+    "default": false,
+    "backgroundColor": "#38241D",
+    "resultImage": [
+      {
+        "alt": "",
+        "name": "batman.jpg",
+        "size": 38710,
+        "_type": "image",
+        "width": 1280,
+        "height": 720,
+        "mimeType": "image/jpeg",
+        "storageID": "71ca41b9-6066-4808-9e98-b9d5663bb32b",
+        "src": "https://f.shgcdn.com/71ca41b9-6066-4808-9e98-b9d5663bb32b/"
+      },
+      {
+        "alt": "",
+        "name": "witcher.jpg",
+        "size": 356783,
+        "_type": "image",
+        "width": 1496,
+        "height": 842,
+        "mimeType": "image/jpeg",
+        "storageID": "08de8454-6c51-4497-8573-b0f3c0b1ff38",
+        "src": "https://f.shgcdn.com/08de8454-6c51-4497-8573-b0f3c0b1ff38/"
+      },
+      {
+        "alt": "",
+        "name": "bron.jpg",
+        "size": 118306,
+        "_type": "image",
+        "width": 1200,
+        "height": 851,
+        "mimeType": "image/jpeg",
+        "storageID": "3364e62b-532d-44fb-a0bd-6ad4611e72c5",
+        "src": "https://f.shgcdn.com/3364e62b-532d-44fb-a0bd-6ad4611e72c5/"
+      }
+    ],
+    "shadeRecommended": "195 - Deep Neutral",
+    "category": "Only",
+    "_id": "df3d6ff3-0c73-4959-b2fa-bb53c80d2693"
+  },
+  {
+    "radiantRecommendation": "27 - Deep Neutral Warm",
+    "qualifiers": [
+      {
+        "name": "Deep",
+        "type": "Concealer",
+        "_id": "2718fa5b-1c69-485f-b517-0d6ba025f352"
+      },
+      {
+        "name": "Deep",
+        "type": "Concealer",
+        "_id": "2718fa5b-1c69-485f-b517-0d6ba025f352"
+      },
+      {
+        "name": "Neutral",
+        "type": "Concealer",
+        "_id": "faafbc7a-f841-4426-b9d8-17df437c4e98"
+      },
+      {
+        "name": "NeutralWarm",
+        "type": "Concealer",
+        "_id": "cc83682a-8abb-4101-919c-1833ea89c240"
+      }
+    ],
+    "name": "170 - Tan Neutral 1",
+    "additionalRecommendation": ["175 - Tan Deep Warm"],
+    "default": false,
+    "backgroundColor": "",
+    "resultImage": [
+      {
+        "alt": "",
+        "name": "witcher.jpg",
+        "size": 356783,
+        "_type": "image",
+        "width": 1496,
+        "height": 842,
+        "mimeType": "image/jpeg",
+        "storageID": "53d0dcbf-7cd6-4ea9-b2c5-54e96b59a26c",
+        "src": "https://f.shgcdn.com/53d0dcbf-7cd6-4ea9-b2c5-54e96b59a26c/"
+      },
+      {
+        "alt": "",
+        "name": "batman.jpg",
+        "size": 38710,
+        "_type": "image",
+        "width": 1280,
+        "height": 720,
+        "mimeType": "image/jpeg",
+        "storageID": "7b77bb2e-1d91-498d-9bb9-519dbdbb4123",
+        "src": "https://f.shgcdn.com/7b77bb2e-1d91-498d-9bb9-519dbdbb4123/"
+      },
+      {
+        "alt": "",
+        "name": "bron.jpg",
+        "size": 118306,
+        "_type": "image",
+        "width": 1200,
+        "height": 851,
+        "mimeType": "image/jpeg",
+        "storageID": "862984c6-857e-4755-bfb6-bae94d76a99e",
+        "src": "https://f.shgcdn.com/862984c6-857e-4755-bfb6-bae94d76a99e/"
+      }
+    ],
+    "shadeRecommended": "170 - Tan Neutral",
+    "category": "Only",
+    "_id": "bb039a08-d329-46d4-9623-a75a04463e42"
+  },
+  {
+    "radiantRecommendation": "26 - Deep Warm",
+    "qualifiers": [
+      {
+        "name": "Deep",
+        "type": "Concealer",
+        "_id": "2718fa5b-1c69-485f-b517-0d6ba025f352"
+      },
+      {
+        "name": "Deep",
+        "type": "Concealer",
+        "_id": "2718fa5b-1c69-485f-b517-0d6ba025f352"
+      },
+      {
+        "name": "Warm",
+        "type": "Concealer",
+        "_id": "ef430ed9-1386-4056-a54b-494f81a75aa2"
+      }
+    ],
+    "name": "175 - Tan Deep Warm",
+    "additionalRecommendation": [],
+    "default": false,
+    "backgroundColor": "",
+    "resultImage": [
+      {
+        "alt": "",
+        "name": "witcher.jpg",
+        "size": 356783,
+        "_type": "image",
+        "width": 1496,
+        "height": 842,
+        "mimeType": "image/jpeg",
+        "storageID": "03c8cba7-9bf2-4586-92be-e9d9fe647db7",
+        "src": "https://f.shgcdn.com/03c8cba7-9bf2-4586-92be-e9d9fe647db7/"
+      },
+      {
+        "alt": "",
+        "name": "batman.jpg",
+        "size": 38710,
+        "_type": "image",
+        "width": 1280,
+        "height": 720,
+        "mimeType": "image/jpeg",
+        "storageID": "36b258e4-a3bc-4184-935d-6f256cd18536",
+        "src": "https://f.shgcdn.com/36b258e4-a3bc-4184-935d-6f256cd18536/"
+      },
+      {
+        "alt": "",
+        "name": "bron.jpg",
+        "size": 118306,
+        "_type": "image",
+        "width": 1200,
+        "height": 851,
+        "mimeType": "image/jpeg",
+        "storageID": "8695bf41-fcea-4204-ae79-48708fe47bf2",
+        "src": "https://f.shgcdn.com/8695bf41-fcea-4204-ae79-48708fe47bf2/"
+      }
+    ],
+    "shadeRecommended": "175 - Tan Deep Warm",
+    "category": "Only",
+    "_id": "1c1c444b-5c0b-4f0d-84e0-d80c48122399"
+  },
+  {
+    "radiantRecommendation": "25 - Tan/Deep Neutral",
+    "qualifiers": [
+      {
+        "name": "Tan",
+        "type": "Concealer",
+        "_id": "8555ee59-2b0f-49df-8628-e0a1d95f3b68"
+      },
+      {
+        "name": "Tan/Deep",
+        "type": "Concealer",
+        "_id": "09a205f1-c77b-4673-bf1d-6ee512b6343e"
+      },
+      {
+        "name": "Neutral",
+        "type": "Concealer",
+        "_id": "faafbc7a-f841-4426-b9d8-17df437c4e98"
+      }
+    ],
+    "name": "170 - Tan Neutral 2",
+    "additionalRecommendation": [],
+    "default": false,
+    "backgroundColor": "",
+    "resultImage": [
+      {
+        "alt": "",
+        "name": "batman.jpg",
+        "size": 38710,
+        "_type": "image",
+        "width": 1280,
+        "height": 720,
+        "mimeType": "image/jpeg",
+        "storageID": "fff427aa-e94d-4b0c-b224-152f4df5c9c1",
+        "src": "https://f.shgcdn.com/fff427aa-e94d-4b0c-b224-152f4df5c9c1/"
+      },
+      {
+        "alt": "",
+        "name": "witcher.jpg",
+        "size": 356783,
+        "_type": "image",
+        "width": 1496,
+        "height": 842,
+        "mimeType": "image/jpeg",
+        "storageID": "8db850bb-a3d4-47a3-baed-a6efd2a97263",
+        "src": "https://f.shgcdn.com/8db850bb-a3d4-47a3-baed-a6efd2a97263/"
+      },
+      {
+        "alt": "",
+        "name": "bron.jpg",
+        "size": 118306,
+        "_type": "image",
+        "width": 1200,
+        "height": 851,
+        "mimeType": "image/jpeg",
+        "storageID": "2f2cc84d-2f9e-4ba6-99dc-febe968cab16",
+        "src": "https://f.shgcdn.com/2f2cc84d-2f9e-4ba6-99dc-febe968cab16/"
+      }
+    ],
+    "shadeRecommended": "170 - Tan Neutral",
+    "category": "Only",
+    "_id": "398c9b24-ea61-45f4-bcdd-90a75aca6eb6"
+  },
+  {
+    "radiantRecommendation": "23 - Tan/Deep Olive",
+    "qualifiers": [
+      {
+        "name": "Deep",
+        "type": "Concealer",
+        "_id": "2718fa5b-1c69-485f-b517-0d6ba025f352"
+      },
+      {
+        "name": "Tan/Deep",
+        "type": "Concealer",
+        "_id": "09a205f1-c77b-4673-bf1d-6ee512b6343e"
+      },
+      {
+        "name": "Olive",
+        "type": "Concealer",
+        "_id": "ec967718-d6c8-43ad-a7a5-eaa409d2d98c"
+      }
+    ],
+    "name": "155 - Medium Tan Cool 1",
+    "additionalRecommendation": ["165 - Tan Warm"],
+    "default": false,
+    "backgroundColor": "",
+    "resultImage": [
+      {
+        "alt": "",
+        "name": "bron.jpg",
+        "size": 118306,
+        "_type": "image",
+        "width": 1200,
+        "height": 851,
+        "mimeType": "image/jpeg",
+        "storageID": "5bcbfd21-b21e-4da1-ae89-83bb746fe637",
+        "src": "https://f.shgcdn.com/5bcbfd21-b21e-4da1-ae89-83bb746fe637/"
+      },
+      {
+        "alt": "",
+        "name": "witcher.jpg",
+        "size": 356783,
+        "_type": "image",
+        "width": 1496,
+        "height": 842,
+        "mimeType": "image/jpeg",
+        "storageID": "9e7e98cc-cc17-46ee-b18a-37f50691f571",
+        "src": "https://f.shgcdn.com/9e7e98cc-cc17-46ee-b18a-37f50691f571/"
+      },
+      {
+        "alt": "",
+        "name": "batman.jpg",
+        "size": 38710,
+        "_type": "image",
+        "width": 1280,
+        "height": 720,
+        "mimeType": "image/jpeg",
+        "storageID": "cc190b1b-376f-4334-885c-4ffa019fe23e",
+        "src": "https://f.shgcdn.com/cc190b1b-376f-4334-885c-4ffa019fe23e/"
+      }
+    ],
+    "shadeRecommended": "155 - Medium Tan Cool",
+    "category": "Only",
+    "_id": "cb4d99af-a569-4457-a725-19693bcb633e"
+  },
+  {
+    "radiantRecommendation": "16 - Medium/Tan Warm",
+    "qualifiers": [
+      {
+        "name": "Tan",
+        "type": "Concealer",
+        "_id": "8555ee59-2b0f-49df-8628-e0a1d95f3b68"
+      },
+      {
+        "name": "Medium/Tan",
+        "type": "Concealer",
+        "_id": "6e9f18d9-755e-4ace-bd6a-29b51d2e3e3d"
+      },
+      {
+        "name": "Warm",
+        "type": "Concealer",
+        "_id": "ef430ed9-1386-4056-a54b-494f81a75aa2"
+      }
+    ],
+    "name": "145 - Medium Tan Warm 3",
+    "additionalRecommendation": [],
+    "default": false,
+    "backgroundColor": "",
+    "resultImage": [
+      {
+        "alt": "",
+        "name": "witcher.jpg",
+        "size": 356783,
+        "_type": "image",
+        "width": 1496,
+        "height": 842,
+        "mimeType": "image/jpeg",
+        "storageID": "65549076-6b1d-4f0b-9271-b27625f9c879",
+        "src": "https://f.shgcdn.com/65549076-6b1d-4f0b-9271-b27625f9c879/"
+      },
+      {
+        "alt": "",
+        "name": "batman.jpg",
+        "size": 38710,
+        "_type": "image",
+        "width": 1280,
+        "height": 720,
+        "mimeType": "image/jpeg",
+        "storageID": "2f28dd1a-70f0-43ad-80dc-7fb424702074",
+        "src": "https://f.shgcdn.com/2f28dd1a-70f0-43ad-80dc-7fb424702074/"
+      },
+      {
+        "alt": "",
+        "name": "witcher.jpg",
+        "size": 356783,
+        "_type": "image",
+        "width": 1496,
+        "height": 842,
+        "mimeType": "image/jpeg",
+        "storageID": "91f24a65-4105-4226-a1a8-ac6d44ac7f6a",
+        "src": "https://f.shgcdn.com/91f24a65-4105-4226-a1a8-ac6d44ac7f6a/"
+      },
+      {
+        "alt": "",
+        "name": "bron.jpg",
+        "size": 118306,
+        "_type": "image",
+        "width": 1200,
+        "height": 851,
+        "mimeType": "image/jpeg",
+        "storageID": "9ce4909d-e892-4adf-b088-e2f25d7c4bc0",
+        "src": "https://f.shgcdn.com/9ce4909d-e892-4adf-b088-e2f25d7c4bc0/"
+      }
+    ],
+    "shadeRecommended": "145 - Medium Tan Warm",
+    "category": "Only",
+    "_id": "d972ec55-e52e-4203-bdc1-6ad9b11aa2bf"
+  },
+  {
+    "radiantRecommendation": "23 - Tan/Deep Olive",
+    "qualifiers": [
+      {
+        "name": "Tan",
+        "type": "Concealer",
+        "_id": "8555ee59-2b0f-49df-8628-e0a1d95f3b68"
+      },
+      {
+        "name": "Tan/Deep",
+        "type": "Concealer",
+        "_id": "09a205f1-c77b-4673-bf1d-6ee512b6343e"
+      },
+      {
+        "name": "Olive",
+        "type": "Concealer",
+        "_id": "ec967718-d6c8-43ad-a7a5-eaa409d2d98c"
+      }
+    ],
+    "name": "155 - Medium Tan Cool 2",
+    "additionalRecommendation": ["165 - Tan Warm"],
+    "default": false,
+    "backgroundColor": "",
+    "resultImage": [
+      {
+        "alt": "",
+        "name": "witcher.jpg",
+        "size": 356783,
+        "_type": "image",
+        "width": 1496,
+        "height": 842,
+        "mimeType": "image/jpeg",
+        "storageID": "e7a8c221-9b43-47fb-8416-a51caa31172d",
+        "src": "https://f.shgcdn.com/e7a8c221-9b43-47fb-8416-a51caa31172d/"
+      },
+      {
+        "alt": "",
+        "name": "batman.jpg",
+        "size": 38710,
+        "_type": "image",
+        "width": 1280,
+        "height": 720,
+        "mimeType": "image/jpeg",
+        "storageID": "bcd7ae44-cdd3-4a70-adb6-8f54283d0c8a",
+        "src": "https://f.shgcdn.com/bcd7ae44-cdd3-4a70-adb6-8f54283d0c8a/"
+      },
+      {
+        "alt": "",
+        "name": "bron.jpg",
+        "size": 118306,
+        "_type": "image",
+        "width": 1200,
+        "height": 851,
+        "mimeType": "image/jpeg",
+        "storageID": "a3f45fb4-4cae-4c80-bf3b-e7b2e95c13ed",
+        "src": "https://f.shgcdn.com/a3f45fb4-4cae-4c80-bf3b-e7b2e95c13ed/"
+      }
+    ],
+    "shadeRecommended": "155 - Medium Tan Cool",
+    "category": "Only",
+    "_id": "257899d0-5af7-4118-a07c-251778b8c164"
+  },
+  {
+    "radiantRecommendation": "21 - Tan Neutral",
+    "qualifiers": [
+      {
+        "name": "Tan",
+        "type": "Concealer",
+        "_id": "8555ee59-2b0f-49df-8628-e0a1d95f3b68"
+      },
+      {
+        "name": "Tan",
+        "type": "Concealer",
+        "_id": "8555ee59-2b0f-49df-8628-e0a1d95f3b68"
+      },
+      {
+        "name": "Neutral",
+        "type": "Concealer",
+        "_id": "faafbc7a-f841-4426-b9d8-17df437c4e98"
+      },
+      {
+        "name": "Neutral",
+        "type": "Concealer",
+        "_id": "faafbc7a-f841-4426-b9d8-17df437c4e98"
+      }
+    ],
+    "name": "150 - Medium Tan Neutral 1",
+    "additionalRecommendation": ["155 - Medium Tan Cool"],
+    "default": false,
+    "backgroundColor": "",
+    "resultImage": [
+      {
+        "alt": "",
+        "name": "bron.jpg",
+        "size": 118306,
+        "_type": "image",
+        "width": 1200,
+        "height": 851,
+        "mimeType": "image/jpeg",
+        "storageID": "911bd250-bf5a-4485-ab18-559e689791bc",
+        "src": "https://f.shgcdn.com/911bd250-bf5a-4485-ab18-559e689791bc/"
+      },
+      {
+        "alt": "",
+        "name": "witcher.jpg",
+        "size": 356783,
+        "_type": "image",
+        "width": 1496,
+        "height": 842,
+        "mimeType": "image/jpeg",
+        "storageID": "c21587d9-c6cb-4864-9194-7aaddf18f4cd",
+        "src": "https://f.shgcdn.com/c21587d9-c6cb-4864-9194-7aaddf18f4cd/"
+      },
+      {
+        "alt": "",
+        "name": "bron.jpg",
+        "size": 118306,
+        "_type": "image",
+        "width": 1200,
+        "height": 851,
+        "mimeType": "image/jpeg",
+        "storageID": "113902d5-bf3a-4ca8-b2b1-e0cb0f566d3e",
+        "src": "https://f.shgcdn.com/113902d5-bf3a-4ca8-b2b1-e0cb0f566d3e/"
+      },
+      {
+        "alt": "",
+        "name": "batman.jpg",
+        "size": 38710,
+        "_type": "image",
+        "width": 1280,
+        "height": 720,
+        "mimeType": "image/jpeg",
+        "storageID": "b2f48549-8990-4e98-a4a9-5a7e0a66c0cf",
+        "src": "https://f.shgcdn.com/b2f48549-8990-4e98-a4a9-5a7e0a66c0cf/"
+      }
+    ],
+    "shadeRecommended": "150 - Medium Tan Neutral",
+    "category": "Only",
+    "_id": "210b805c-359e-42e7-a39c-a36dd2e93f8e"
+  },
+  {
+    "radiantRecommendation": "20 - Tan Neutral Cool",
+    "qualifiers": [
+      {
+        "name": "Tan",
+        "type": "Concealer",
+        "_id": "8555ee59-2b0f-49df-8628-e0a1d95f3b68"
+      },
+      {
+        "name": "Tan",
+        "type": "Concealer",
+        "_id": "8555ee59-2b0f-49df-8628-e0a1d95f3b68"
+      },
+      {
+        "name": "Neutral",
+        "type": "Concealer",
+        "_id": "faafbc7a-f841-4426-b9d8-17df437c4e98"
+      },
+      {
+        "name": "NeutralCool",
+        "type": "Concealer",
+        "_id": "67706d01-8f43-46f3-b72a-bc5d10357f47"
+      }
+    ],
+    "name": "155 - Medium Tan Cool 4",
+    "additionalRecommendation": [],
+    "default": false,
+    "backgroundColor": "",
+    "resultImage": [
+      {
+        "alt": "",
+        "name": "batman.jpg",
+        "size": 38710,
+        "_type": "image",
+        "width": 1280,
+        "height": 720,
+        "mimeType": "image/jpeg",
+        "storageID": "d1cb4b9a-c7d3-4eb2-bcab-68a6cf874f94",
+        "src": "https://f.shgcdn.com/d1cb4b9a-c7d3-4eb2-bcab-68a6cf874f94/"
+      },
+      {
+        "alt": "",
+        "name": "witcher.jpg",
+        "size": 356783,
+        "_type": "image",
+        "width": 1496,
+        "height": 842,
+        "mimeType": "image/jpeg",
+        "storageID": "627199dd-cc68-4d77-823f-f38ee0beeca1",
+        "src": "https://f.shgcdn.com/627199dd-cc68-4d77-823f-f38ee0beeca1/"
+      },
+      {
+        "alt": "",
+        "name": "batman.jpg",
+        "size": 38710,
+        "_type": "image",
+        "width": 1280,
+        "height": 720,
+        "mimeType": "image/jpeg",
+        "storageID": "cd1f9f1b-098c-48f1-9028-4e447dc153df",
+        "src": "https://f.shgcdn.com/cd1f9f1b-098c-48f1-9028-4e447dc153df/"
+      },
+      {
+        "alt": "",
+        "name": "bron.jpg",
+        "size": 118306,
+        "_type": "image",
+        "width": 1200,
+        "height": 851,
+        "mimeType": "image/jpeg",
+        "storageID": "c0f9cbc3-d1b0-4de1-b380-fee46f1519a8",
+        "src": "https://f.shgcdn.com/c0f9cbc3-d1b0-4de1-b380-fee46f1519a8/"
+      }
+    ],
+    "shadeRecommended": "155 - Medium Tan Cool",
+    "category": "Only",
+    "_id": "8e6a9eae-fcee-4b18-a194-781516f697c8"
+  },
+  {
+    "radiantRecommendation": "19 - Tan Warm",
+    "qualifiers": [
+      {
+        "name": "Tan",
+        "type": "Concealer",
+        "_id": "8555ee59-2b0f-49df-8628-e0a1d95f3b68"
+      },
+      {
+        "name": "Tan",
+        "type": "Concealer",
+        "_id": "8555ee59-2b0f-49df-8628-e0a1d95f3b68"
+      },
+      {
+        "name": "Warm",
+        "type": "Concealer",
+        "_id": "ef430ed9-1386-4056-a54b-494f81a75aa2"
+      }
+    ],
+    "name": "150 - Medium Tan Neutral 2",
+    "additionalRecommendation": [],
+    "default": false,
+    "backgroundColor": "",
+    "resultImage": [
+      {
+        "alt": "",
+        "name": "witcher.jpg",
+        "size": 356783,
+        "_type": "image",
+        "width": 1496,
+        "height": 842,
+        "mimeType": "image/jpeg",
+        "storageID": "8496ff68-23fe-42b3-b17a-65c7a519b110",
+        "src": "https://f.shgcdn.com/8496ff68-23fe-42b3-b17a-65c7a519b110/"
+      },
+      {
+        "alt": "",
+        "name": "bron.jpg",
+        "size": 118306,
+        "_type": "image",
+        "width": 1200,
+        "height": 851,
+        "mimeType": "image/jpeg",
+        "storageID": "a7045f05-04b2-4cc1-a183-c71cf13eeb9a",
+        "src": "https://f.shgcdn.com/a7045f05-04b2-4cc1-a183-c71cf13eeb9a/"
+      },
+      {
+        "alt": "",
+        "name": "bron.jpg",
+        "size": 118306,
+        "_type": "image",
+        "width": 1200,
+        "height": 851,
+        "mimeType": "image/jpeg",
+        "storageID": "dfee5fcb-27c2-4c7c-9ec3-d098095fc46d",
+        "src": "https://f.shgcdn.com/dfee5fcb-27c2-4c7c-9ec3-d098095fc46d/"
+      },
+      {
+        "alt": "",
+        "name": "batman.jpg",
+        "size": 38710,
+        "_type": "image",
+        "width": 1280,
+        "height": 720,
+        "mimeType": "image/jpeg",
+        "storageID": "5332d50f-c71b-4d2e-adfc-fce3a2171a9b",
+        "src": "https://f.shgcdn.com/5332d50f-c71b-4d2e-adfc-fce3a2171a9b/"
+      }
+    ],
+    "shadeRecommended": "150 - Medium Tan Neutral",
+    "category": "Only",
+    "_id": "a434dc90-d8cd-44f7-822d-08a367a6d6c8"
+  },
+  {
+    "radiantRecommendation": "18 - Medium/Tan Olive",
+    "qualifiers": [
+      {
+        "name": "Tan",
+        "type": "Concealer",
+        "_id": "8555ee59-2b0f-49df-8628-e0a1d95f3b68"
+      },
+      {
+        "name": "Medium/Tan",
+        "type": "Concealer",
+        "_id": "6e9f18d9-755e-4ace-bd6a-29b51d2e3e3d"
+      },
+      {
+        "name": "Olive",
+        "type": "Concealer",
+        "_id": "ec967718-d6c8-43ad-a7a5-eaa409d2d98c"
+      }
+    ],
+    "name": "145 - Medium Tan Warm 1",
+    "additionalRecommendation": [],
+    "default": false,
+    "backgroundColor": "",
+    "resultImage": [
+      {
+        "alt": "",
+        "name": "witcher.jpg",
+        "size": 356783,
+        "_type": "image",
+        "width": 1496,
+        "height": 842,
+        "mimeType": "image/jpeg",
+        "storageID": "1b28b6ec-bf2b-4d1f-a7c6-49b7d92f9616",
+        "src": "https://f.shgcdn.com/1b28b6ec-bf2b-4d1f-a7c6-49b7d92f9616/"
+      },
+      {
+        "alt": "",
+        "name": "bron.jpg",
+        "size": 118306,
+        "_type": "image",
+        "width": 1200,
+        "height": 851,
+        "mimeType": "image/jpeg",
+        "storageID": "f895bf3d-6927-4219-9059-fdc09e8210bc",
+        "src": "https://f.shgcdn.com/f895bf3d-6927-4219-9059-fdc09e8210bc/"
+      },
+      {
+        "alt": "",
+        "name": "batman.jpg",
+        "size": 38710,
+        "_type": "image",
+        "width": 1280,
+        "height": 720,
+        "mimeType": "image/jpeg",
+        "storageID": "23cb81b5-25a0-42e9-a197-4f54fafbf6cb",
+        "src": "https://f.shgcdn.com/23cb81b5-25a0-42e9-a197-4f54fafbf6cb/"
+      },
+      {
+        "alt": "",
+        "name": "bron.jpg",
+        "size": 118306,
+        "_type": "image",
+        "width": 1200,
+        "height": 851,
+        "mimeType": "image/jpeg",
+        "storageID": "c3a3ddd4-e6f8-453c-9c8b-a7751340f5a8",
+        "src": "https://f.shgcdn.com/c3a3ddd4-e6f8-453c-9c8b-a7751340f5a8/"
+      }
+    ],
+    "shadeRecommended": "145 - Medium Tan Warm",
+    "category": "Only",
+    "_id": "8f3476a2-d7e4-42ab-b2e2-f662361b72ab"
+  },
+  {
+    "radiantRecommendation": "17 - Medium/Tan Neutral",
+    "qualifiers": [
+      {
+        "name": "Tan",
+        "type": "Concealer",
+        "_id": "8555ee59-2b0f-49df-8628-e0a1d95f3b68"
+      },
+      {
+        "name": "Medium/Tan",
+        "type": "Concealer",
+        "_id": "6e9f18d9-755e-4ace-bd6a-29b51d2e3e3d"
+      },
+      {
+        "name": "Neutral",
+        "type": "Concealer",
+        "_id": "faafbc7a-f841-4426-b9d8-17df437c4e98"
+      }
+    ],
+    "name": "145 - Medium Tan Warm 2",
+    "additionalRecommendation": [],
+    "default": false,
+    "backgroundColor": "",
+    "resultImage": [
+      {
+        "alt": "",
+        "name": "batman.jpg",
+        "size": 38710,
+        "_type": "image",
+        "width": 1280,
+        "height": 720,
+        "mimeType": "image/jpeg",
+        "storageID": "e0d2f77f-5cc1-487d-b646-994ac6a8c0bb",
+        "src": "https://f.shgcdn.com/e0d2f77f-5cc1-487d-b646-994ac6a8c0bb/"
+      },
+      {
+        "alt": "",
+        "name": "bron.jpg",
+        "size": 118306,
+        "_type": "image",
+        "width": 1200,
+        "height": 851,
+        "mimeType": "image/jpeg",
+        "storageID": "223c0551-85b3-4b92-ab15-d7fd2cf67ca9",
+        "src": "https://f.shgcdn.com/223c0551-85b3-4b92-ab15-d7fd2cf67ca9/"
+      },
+      {
+        "alt": "",
+        "name": "batman.jpg",
+        "size": 38710,
+        "_type": "image",
+        "width": 1280,
+        "height": 720,
+        "mimeType": "image/jpeg",
+        "storageID": "613bf1ac-1d1b-4085-83cc-761b3bcf374a",
+        "src": "https://f.shgcdn.com/613bf1ac-1d1b-4085-83cc-761b3bcf374a/"
+      },
+      {
+        "alt": "",
+        "name": "witcher.jpg",
+        "size": 356783,
+        "_type": "image",
+        "width": 1496,
+        "height": 842,
+        "mimeType": "image/jpeg",
+        "storageID": "df1240bb-1d5c-43f5-9137-e7c2df07ea6a",
+        "src": "https://f.shgcdn.com/df1240bb-1d5c-43f5-9137-e7c2df07ea6a/"
+      }
+    ],
+    "shadeRecommended": "145 - Medium Tan Warm",
+    "category": "Only",
+    "_id": "415aa482-3ba7-4171-bb48-919fb58e51d5"
+  },
+  {
+    "radiantRecommendation": "18 - Medium/Tan Olive",
+    "qualifiers": [
+      {
+        "name": "Medium",
+        "type": "Concealer",
+        "_id": "a2a36b61-8c38-4eb3-87af-2d28f82bae15"
+      },
+      {
+        "name": "Medium/Tan",
+        "type": "Concealer",
+        "_id": "6e9f18d9-755e-4ace-bd6a-29b51d2e3e3d"
+      },
+      {
+        "name": "Olive",
+        "type": "Concealer",
+        "_id": "ec967718-d6c8-43ad-a7a5-eaa409d2d98c"
+      }
+    ],
+    "name": "145 - Medium Tan Warm 4",
+    "additionalRecommendation": ["150 - Medium Tan Neutral"],
+    "default": false,
+    "backgroundColor": "",
+    "resultImage": [
+      {
+        "alt": "",
+        "name": "witcher.jpg",
+        "size": 356783,
+        "_type": "image",
+        "width": 1496,
+        "height": 842,
+        "mimeType": "image/jpeg",
+        "storageID": "8590811b-33e4-4778-a75d-5c7ecba9d6dd",
+        "src": "https://f.shgcdn.com/8590811b-33e4-4778-a75d-5c7ecba9d6dd/"
+      },
+      {
+        "alt": "",
+        "name": "batman.jpg",
+        "size": 38710,
+        "_type": "image",
+        "width": 1280,
+        "height": 720,
+        "mimeType": "image/jpeg",
+        "storageID": "88d8153b-6ee9-4fe7-8946-a53cc3ae89fe",
+        "src": "https://f.shgcdn.com/88d8153b-6ee9-4fe7-8946-a53cc3ae89fe/"
+      },
+      {
+        "alt": "",
+        "name": "witcher.jpg",
+        "size": 356783,
+        "_type": "image",
+        "width": 1496,
+        "height": 842,
+        "mimeType": "image/jpeg",
+        "storageID": "b61d67a3-10e1-4f40-8601-95389c85967d",
+        "src": "https://f.shgcdn.com/b61d67a3-10e1-4f40-8601-95389c85967d/"
+      },
+      {
+        "alt": "",
+        "name": "bron.jpg",
+        "size": 118306,
+        "_type": "image",
+        "width": 1200,
+        "height": 851,
+        "mimeType": "image/jpeg",
+        "storageID": "93c5e034-64eb-44d4-b383-0eb193751440",
+        "src": "https://f.shgcdn.com/93c5e034-64eb-44d4-b383-0eb193751440/"
+      }
+    ],
+    "shadeRecommended": "145 - Medium Tan Warm",
+    "category": "Only",
+    "_id": "c90bc252-83a2-4805-8969-8a949b93f692"
+  },
+  {
+    "radiantRecommendation": "17 - Medium/Tan Neutral",
+    "qualifiers": [
+      {
+        "name": "Medium",
+        "type": "Concealer",
+        "_id": "a2a36b61-8c38-4eb3-87af-2d28f82bae15"
+      },
+      {
+        "name": "Medium/Tan",
+        "type": "Concealer",
+        "_id": "6e9f18d9-755e-4ace-bd6a-29b51d2e3e3d"
+      },
+      {
+        "name": "Neutral",
+        "type": "Concealer",
+        "_id": "faafbc7a-f841-4426-b9d8-17df437c4e98"
+      }
+    ],
+    "name": "145 - Medium Tan Warm 5",
+    "additionalRecommendation": ["150 - Medium Tan Neutral"],
+    "default": false,
+    "backgroundColor": "",
+    "resultImage": [
+      {
+        "alt": "",
+        "name": "witcher.jpg",
+        "size": 356783,
+        "_type": "image",
+        "width": 1496,
+        "height": 842,
+        "mimeType": "image/jpeg",
+        "storageID": "32dc54f5-d5f3-468e-9372-b9ddd586a27f",
+        "src": "https://f.shgcdn.com/32dc54f5-d5f3-468e-9372-b9ddd586a27f/"
+      },
+      {
+        "alt": "",
+        "name": "bron.jpg",
+        "size": 118306,
+        "_type": "image",
+        "width": 1200,
+        "height": 851,
+        "mimeType": "image/jpeg",
+        "storageID": "756f4864-aa2a-4bb8-b4df-0ceb524efc3e",
+        "src": "https://f.shgcdn.com/756f4864-aa2a-4bb8-b4df-0ceb524efc3e/"
+      },
+      {
+        "alt": "",
+        "name": "witcher.jpg",
+        "size": 356783,
+        "_type": "image",
+        "width": 1496,
+        "height": 842,
+        "mimeType": "image/jpeg",
+        "storageID": "c149cc25-0def-4e6c-926e-588799eb6977",
+        "src": "https://f.shgcdn.com/c149cc25-0def-4e6c-926e-588799eb6977/"
+      },
+      {
+        "alt": "",
+        "name": "batman.jpg",
+        "size": 38710,
+        "_type": "image",
+        "width": 1280,
+        "height": 720,
+        "mimeType": "image/jpeg",
+        "storageID": "769b26b7-46e3-4ded-b5d4-ebadfd4d8b1b",
+        "src": "https://f.shgcdn.com/769b26b7-46e3-4ded-b5d4-ebadfd4d8b1b/"
+      }
+    ],
+    "shadeRecommended": "145 - Medium Tan Warm",
+    "category": "Only",
+    "_id": "10d70d55-ae9b-4bfb-ae9d-1772e6a4cc6c"
+  },
+  {
+    "radiantRecommendation": "16 - Medium/Tan Warm",
+    "qualifiers": [
+      {
+        "name": "Medium",
+        "type": "Concealer",
+        "_id": "a2a36b61-8c38-4eb3-87af-2d28f82bae15"
+      },
+      {
+        "name": "Medium/Tan",
+        "type": "Concealer",
+        "_id": "6e9f18d9-755e-4ace-bd6a-29b51d2e3e3d"
+      },
+      {
+        "name": "Warm",
+        "type": "Concealer",
+        "_id": "ef430ed9-1386-4056-a54b-494f81a75aa2"
+      }
+    ],
+    "name": "145 - Medium Tan Warm 6",
+    "additionalRecommendation": [],
+    "default": false,
+    "backgroundColor": "",
+    "resultImage": [
+      {
+        "alt": "",
+        "name": "batman.jpg",
+        "size": 38710,
+        "_type": "image",
+        "width": 1280,
+        "height": 720,
+        "mimeType": "image/jpeg",
+        "storageID": "2c64dd0b-1193-47c1-a19a-8ace47d2f810",
+        "src": "https://f.shgcdn.com/2c64dd0b-1193-47c1-a19a-8ace47d2f810/"
+      },
+      {
+        "alt": "",
+        "name": "witcher.jpg",
+        "size": 356783,
+        "_type": "image",
+        "width": 1496,
+        "height": 842,
+        "mimeType": "image/jpeg",
+        "storageID": "fc3e5d08-8f6a-4a1c-8a18-0d8968da2f4c",
+        "src": "https://f.shgcdn.com/fc3e5d08-8f6a-4a1c-8a18-0d8968da2f4c/"
+      },
+      {
+        "alt": "",
+        "name": "bron.jpg",
+        "size": 118306,
+        "_type": "image",
+        "width": 1200,
+        "height": 851,
+        "mimeType": "image/jpeg",
+        "storageID": "b82066ca-b91c-4441-991d-e5e8a22fb936",
+        "src": "https://f.shgcdn.com/b82066ca-b91c-4441-991d-e5e8a22fb936/"
+      }
+    ],
+    "shadeRecommended": "145 - Medium Tan Warm",
+    "category": "Only",
+    "_id": "ee0e659f-45ee-4a90-b69b-f97b9c22f312"
+  },
+  {
+    "radiantRecommendation": "13 - Medium Cool",
+    "qualifiers": [
+      {
+        "name": "Medium",
+        "type": "Concealer",
+        "_id": "a2a36b61-8c38-4eb3-87af-2d28f82bae15"
+      },
+      {
+        "name": "Medium",
+        "type": "Concealer",
+        "_id": "a2a36b61-8c38-4eb3-87af-2d28f82bae15"
+      },
+      {
+        "name": "Cool",
+        "type": "Concealer",
+        "_id": "4f8b4fe8-33fb-43ba-9449-d31ef6d70486"
+      }
+    ],
+    "name": "135 - Medium Neutral 1",
+    "additionalRecommendation": [],
+    "default": false,
+    "backgroundColor": "",
+    "resultImage": [
+      {
+        "alt": "",
+        "name": "batman.jpg",
+        "size": 38710,
+        "_type": "image",
+        "width": 1280,
+        "height": 720,
+        "mimeType": "image/jpeg",
+        "storageID": "0ec1d07e-5068-4625-953e-85dca210bb0c",
+        "src": "https://f.shgcdn.com/0ec1d07e-5068-4625-953e-85dca210bb0c/"
+      },
+      {
+        "alt": "",
+        "name": "witcher.jpg",
+        "size": 356783,
+        "_type": "image",
+        "width": 1496,
+        "height": 842,
+        "mimeType": "image/jpeg",
+        "storageID": "22f8864a-f4b3-43d6-a5e7-d9281e9fd049",
+        "src": "https://f.shgcdn.com/22f8864a-f4b3-43d6-a5e7-d9281e9fd049/"
+      },
+      {
+        "alt": "",
+        "name": "bron.jpg",
+        "size": 118306,
+        "_type": "image",
+        "width": 1200,
+        "height": 851,
+        "mimeType": "image/jpeg",
+        "storageID": "a9dfc4f1-c0c4-4639-958e-69f66ece92d8",
+        "src": "https://f.shgcdn.com/a9dfc4f1-c0c4-4639-958e-69f66ece92d8/"
+      }
+    ],
+    "shadeRecommended": "135 - Medium Neutral",
+    "category": "Only",
+    "_id": "beb7062c-9f27-467a-9c32-e93cb80a007c"
+  },
+  {
+    "radiantRecommendation": "14 - Medium Neutral",
+    "qualifiers": [
+      {
+        "name": "Medium",
+        "type": "Concealer",
+        "_id": "a2a36b61-8c38-4eb3-87af-2d28f82bae15"
+      },
+      {
+        "name": "Medium",
+        "type": "Concealer",
+        "_id": "a2a36b61-8c38-4eb3-87af-2d28f82bae15"
+      },
+      {
+        "name": "Neutral",
+        "type": "Concealer",
+        "_id": "faafbc7a-f841-4426-b9d8-17df437c4e98"
+      },
+      {
+        "name": "Neutral",
+        "type": "Concealer",
+        "_id": "faafbc7a-f841-4426-b9d8-17df437c4e98"
+      }
+    ],
+    "name": "140 - Medium Warm 1",
+    "additionalRecommendation": [],
+    "default": false,
+    "backgroundColor": "",
+    "resultImage": [
+      {
+        "alt": "",
+        "name": "bron.jpg",
+        "size": 118306,
+        "_type": "image",
+        "width": 1200,
+        "height": 851,
+        "mimeType": "image/jpeg",
+        "storageID": "57272087-7d1c-485d-93d9-604475ef4ab8",
+        "src": "https://f.shgcdn.com/57272087-7d1c-485d-93d9-604475ef4ab8/"
+      },
+      {
+        "alt": "",
+        "name": "witcher.jpg",
+        "size": 356783,
+        "_type": "image",
+        "width": 1496,
+        "height": 842,
+        "mimeType": "image/jpeg",
+        "storageID": "f1d70481-5cc6-4f23-adfb-cae903d46a5b",
+        "src": "https://f.shgcdn.com/f1d70481-5cc6-4f23-adfb-cae903d46a5b/"
+      },
+      {
+        "alt": "",
+        "name": "batman.jpg",
+        "size": 38710,
+        "_type": "image",
+        "width": 1280,
+        "height": 720,
+        "mimeType": "image/jpeg",
+        "storageID": "271d83f1-0401-41a5-bbaf-dad70732148f",
+        "src": "https://f.shgcdn.com/271d83f1-0401-41a5-bbaf-dad70732148f/"
+      }
+    ],
+    "shadeRecommended": "140 - Medium Warm",
+    "category": "Only",
+    "_id": "4bb24638-09f6-4be7-b8c7-5d83de3583c6"
+  },
+  {
+    "radiantRecommendation": "15 - Medium Neutral Cool",
+    "qualifiers": [
+      {
+        "name": "Medium",
+        "type": "Concealer",
+        "_id": "a2a36b61-8c38-4eb3-87af-2d28f82bae15"
+      },
+      {
+        "name": "Medium",
+        "type": "Concealer",
+        "_id": "a2a36b61-8c38-4eb3-87af-2d28f82bae15"
+      },
+      {
+        "name": "Neutral",
+        "type": "Concealer",
+        "_id": "faafbc7a-f841-4426-b9d8-17df437c4e98"
+      },
+      {
+        "name": "NeutralCool",
+        "type": "Concealer",
+        "_id": "67706d01-8f43-46f3-b72a-bc5d10357f47"
+      }
+    ],
+    "name": "135 - Medium Neutral 2",
+    "additionalRecommendation": [],
+    "default": false,
+    "backgroundColor": "",
+    "resultImage": [
+      {
+        "alt": "",
+        "name": "witcher.jpg",
+        "size": 356783,
+        "_type": "image",
+        "width": 1496,
+        "height": 842,
+        "mimeType": "image/jpeg",
+        "storageID": "00b34315-8a5b-4442-a989-401ca9f29e8a",
+        "src": "https://f.shgcdn.com/00b34315-8a5b-4442-a989-401ca9f29e8a/"
+      },
+      {
+        "alt": "",
+        "name": "bron.jpg",
+        "size": 118306,
+        "_type": "image",
+        "width": 1200,
+        "height": 851,
+        "mimeType": "image/jpeg",
+        "storageID": "2f1f75f5-1d0e-40ec-b31a-59c3ae1071f9",
+        "src": "https://f.shgcdn.com/2f1f75f5-1d0e-40ec-b31a-59c3ae1071f9/"
+      },
+      {
+        "alt": "",
+        "name": "batman.jpg",
+        "size": 38710,
+        "_type": "image",
+        "width": 1280,
+        "height": 720,
+        "mimeType": "image/jpeg",
+        "storageID": "2c538355-1d19-43c0-97be-b9e9f1b73526",
+        "src": "https://f.shgcdn.com/2c538355-1d19-43c0-97be-b9e9f1b73526/"
+      }
+    ],
+    "shadeRecommended": "135 - Medium Neutral",
+    "category": "Only",
+    "_id": "8ddd708b-13e0-4b69-a31d-05dbbd1be918"
+  },
+  {
+    "radiantRecommendation": "12 - Medium Warm",
+    "qualifiers": [
+      {
+        "name": "Medium",
+        "type": "Concealer",
+        "_id": "a2a36b61-8c38-4eb3-87af-2d28f82bae15"
+      },
+      {
+        "name": "Medium",
+        "type": "Concealer",
+        "_id": "a2a36b61-8c38-4eb3-87af-2d28f82bae15"
+      },
+      {
+        "name": "Warm",
+        "type": "Concealer",
+        "_id": "ef430ed9-1386-4056-a54b-494f81a75aa2"
+      }
+    ],
+    "name": "140 - Medium Warm 2",
+    "additionalRecommendation": [],
+    "default": false,
+    "backgroundColor": "",
+    "resultImage": [
+      {
+        "alt": "",
+        "name": "batman.jpg",
+        "size": 38710,
+        "_type": "image",
+        "width": 1280,
+        "height": 720,
+        "mimeType": "image/jpeg",
+        "storageID": "06a521be-b8a3-4e27-aede-042de3736738",
+        "src": "https://f.shgcdn.com/06a521be-b8a3-4e27-aede-042de3736738/"
+      },
+      {
+        "alt": "",
+        "name": "witcher.jpg",
+        "size": 356783,
+        "_type": "image",
+        "width": 1496,
+        "height": 842,
+        "mimeType": "image/jpeg",
+        "storageID": "b63fcb93-661f-4a43-9535-77fb5f7d7927",
+        "src": "https://f.shgcdn.com/b63fcb93-661f-4a43-9535-77fb5f7d7927/"
+      },
+      {
+        "alt": "",
+        "name": "bron.jpg",
+        "size": 118306,
+        "_type": "image",
+        "width": 1200,
+        "height": 851,
+        "mimeType": "image/jpeg",
+        "storageID": "0aa2662e-06d2-4fc7-92f3-f8cad291cd5a",
+        "src": "https://f.shgcdn.com/0aa2662e-06d2-4fc7-92f3-f8cad291cd5a/"
+      }
+    ],
+    "shadeRecommended": "140 - Medium Warm",
+    "category": "Only",
+    "_id": "72eb5f12-7053-4f48-9b75-ab6c7be864ac"
+  },
+  {
+    "radiantRecommendation": "08 - Light/Medium Cool",
+    "qualifiers": [
+      {
+        "name": "Medium",
+        "type": "Concealer",
+        "_id": "a2a36b61-8c38-4eb3-87af-2d28f82bae15"
+      },
+      {
+        "name": "Light/Medium",
+        "type": "Concealer",
+        "_id": "4a60be60-86d3-4f99-831b-f48d06b8b59b"
+      },
+      {
+        "name": "Cool",
+        "type": "Concealer",
+        "_id": "4f8b4fe8-33fb-43ba-9449-d31ef6d70486"
+      }
+    ],
+    "name": "125 - Light Medium Cool 1",
+    "additionalRecommendation": [],
+    "default": false,
+    "backgroundColor": "",
+    "resultImage": [
+      {
+        "alt": "",
+        "name": "bron.jpg",
+        "size": 118306,
+        "_type": "image",
+        "width": 1200,
+        "height": 851,
+        "mimeType": "image/jpeg",
+        "storageID": "96c79561-7791-4d79-b473-f8f173f89e3d",
+        "src": "https://f.shgcdn.com/96c79561-7791-4d79-b473-f8f173f89e3d/"
+      },
+      {
+        "alt": "",
+        "name": "witcher.jpg",
+        "size": 356783,
+        "_type": "image",
+        "width": 1496,
+        "height": 842,
+        "mimeType": "image/jpeg",
+        "storageID": "d23affa1-876c-49ac-b0ed-4978d16bb2bc",
+        "src": "https://f.shgcdn.com/d23affa1-876c-49ac-b0ed-4978d16bb2bc/"
+      },
+      {
+        "alt": "",
+        "name": "batman.jpg",
+        "size": 38710,
+        "_type": "image",
+        "width": 1280,
+        "height": 720,
+        "mimeType": "image/jpeg",
+        "storageID": "bdabc0c0-9190-42c5-9b71-25df5fd687a8",
+        "src": "https://f.shgcdn.com/bdabc0c0-9190-42c5-9b71-25df5fd687a8/"
+      }
+    ],
+    "shadeRecommended": "125 - Light Medium Cool",
+    "category": "Only",
+    "_id": "2d7ecf83-7434-4b65-9c38-44e9ccdaee4d"
+  },
+  {
+    "radiantRecommendation": "10 - Light/Medium Olive",
+    "qualifiers": [
+      {
+        "name": "Light",
+        "type": "Concealer",
+        "_id": "3baa9dc1-d5cf-4fac-ac70-01e3596045ec"
+      },
+      {
+        "name": "Light/Medium",
+        "type": "Concealer",
+        "_id": "4a60be60-86d3-4f99-831b-f48d06b8b59b"
+      },
+      {
+        "name": "Olive",
+        "type": "Concealer",
+        "_id": "ec967718-d6c8-43ad-a7a5-eaa409d2d98c"
+      }
+    ],
+    "name": "130 - Light Medium Warm 3",
+    "additionalRecommendation": [],
+    "default": false,
+    "backgroundColor": "",
+    "resultImage": [
+      {
+        "alt": "",
+        "name": "batman.jpg",
+        "size": 38710,
+        "_type": "image",
+        "width": 1280,
+        "height": 720,
+        "mimeType": "image/jpeg",
+        "storageID": "1f61cb82-2963-4ec7-81ed-b2f8eadea63a",
+        "src": "https://f.shgcdn.com/1f61cb82-2963-4ec7-81ed-b2f8eadea63a/"
+      },
+      {
+        "alt": "",
+        "name": "bron.jpg",
+        "size": 118306,
+        "_type": "image",
+        "width": 1200,
+        "height": 851,
+        "mimeType": "image/jpeg",
+        "storageID": "4fec8ebe-f298-4fe6-b808-9ff6daed4ab3",
+        "src": "https://f.shgcdn.com/4fec8ebe-f298-4fe6-b808-9ff6daed4ab3/"
+      },
+      {
+        "alt": "",
+        "name": "witcher.jpg",
+        "size": 356783,
+        "_type": "image",
+        "width": 1496,
+        "height": 842,
+        "mimeType": "image/jpeg",
+        "storageID": "a4aea45c-f406-46df-9b8f-c1d8169faec8",
+        "src": "https://f.shgcdn.com/a4aea45c-f406-46df-9b8f-c1d8169faec8/"
+      }
+    ],
+    "shadeRecommended": "130 - Light Medium Warm",
+    "category": "Only",
+    "_id": "7ae5f5ca-2b0c-4637-bcd3-98f20714606f"
+  },
+  {
+    "radiantRecommendation": "11 - Light/Medium Neutral",
+    "qualifiers": [
+      {
+        "name": "Light",
+        "type": "Concealer",
+        "_id": "3baa9dc1-d5cf-4fac-ac70-01e3596045ec"
+      },
+      {
+        "name": "Light/Medium",
+        "type": "Concealer",
+        "_id": "4a60be60-86d3-4f99-831b-f48d06b8b59b"
+      },
+      {
+        "name": "Neutral",
+        "type": "Concealer",
+        "_id": "faafbc7a-f841-4426-b9d8-17df437c4e98"
+      }
+    ],
+    "name": "135 - Medium Neutral 4",
+    "additionalRecommendation": [],
+    "default": false,
+    "backgroundColor": "",
+    "resultImage": [
+      {
+        "alt": "",
+        "name": "witcher.jpg",
+        "size": 356783,
+        "_type": "image",
+        "width": 1496,
+        "height": 842,
+        "mimeType": "image/jpeg",
+        "storageID": "d63da191-9ff5-4964-a008-33299eda458e",
+        "src": "https://f.shgcdn.com/d63da191-9ff5-4964-a008-33299eda458e/"
+      },
+      {
+        "alt": "",
+        "name": "batman.jpg",
+        "size": 38710,
+        "_type": "image",
+        "width": 1280,
+        "height": 720,
+        "mimeType": "image/jpeg",
+        "storageID": "b5c7467c-623f-45fb-bceb-e9202392f68c",
+        "src": "https://f.shgcdn.com/b5c7467c-623f-45fb-bceb-e9202392f68c/"
+      },
+      {
+        "alt": "",
+        "name": "bron.jpg",
+        "size": 118306,
+        "_type": "image",
+        "width": 1200,
+        "height": 851,
+        "mimeType": "image/jpeg",
+        "storageID": "62f36a2d-0d1b-4857-b67d-f0b338dbc166",
+        "src": "https://f.shgcdn.com/62f36a2d-0d1b-4857-b67d-f0b338dbc166/"
+      }
+    ],
+    "shadeRecommended": "135 - Medium Neutral",
+    "category": "Only",
+    "_id": "85ae322d-d7bc-4d5c-bfd8-6a6e903d66b2"
+  },
+  {
+    "radiantRecommendation": "09 - Light/Medium Warm",
+    "qualifiers": [
+      {
+        "name": "Light",
+        "type": "Concealer",
+        "_id": "3baa9dc1-d5cf-4fac-ac70-01e3596045ec"
+      },
+      {
+        "name": "Light/Medium",
+        "type": "Concealer",
+        "_id": "4a60be60-86d3-4f99-831b-f48d06b8b59b"
+      },
+      {
+        "name": "Warm",
+        "type": "Concealer",
+        "_id": "ef430ed9-1386-4056-a54b-494f81a75aa2"
+      }
+    ],
+    "name": "130 - Light Medium Warm 4",
+    "additionalRecommendation": [],
+    "default": false,
+    "backgroundColor": "",
+    "resultImage": [
+      {
+        "alt": "",
+        "name": "bron.jpg",
+        "size": 118306,
+        "_type": "image",
+        "width": 1200,
+        "height": 851,
+        "mimeType": "image/jpeg",
+        "storageID": "19754dec-9c7a-4046-ab41-eb6827a7c6b1",
+        "src": "https://f.shgcdn.com/19754dec-9c7a-4046-ab41-eb6827a7c6b1/"
+      },
+      {
+        "alt": "",
+        "name": "witcher.jpg",
+        "size": 356783,
+        "_type": "image",
+        "width": 1496,
+        "height": 842,
+        "mimeType": "image/jpeg",
+        "storageID": "7fce1c31-b456-49cb-a1d8-74280dc23da8",
+        "src": "https://f.shgcdn.com/7fce1c31-b456-49cb-a1d8-74280dc23da8/"
+      },
+      {
+        "alt": "",
+        "name": "batman.jpg",
+        "size": 38710,
+        "_type": "image",
+        "width": 1280,
+        "height": 720,
+        "mimeType": "image/jpeg",
+        "storageID": "eac24845-c79c-48c9-b4f4-47f6fe5a089f",
+        "src": "https://f.shgcdn.com/eac24845-c79c-48c9-b4f4-47f6fe5a089f/"
+      }
+    ],
+    "shadeRecommended": "130 - Light Medium Warm",
+    "category": "Only",
+    "_id": "fa195605-dda6-4efe-9cec-ef1e6c512b1d"
+  },
+  {
+    "radiantRecommendation": "06 - Light Cool",
+    "qualifiers": [
+      {
+        "name": "Light",
+        "type": "Concealer",
+        "_id": "3baa9dc1-d5cf-4fac-ac70-01e3596045ec"
+      },
+      {
+        "name": "Light",
+        "type": "Concealer",
+        "_id": "3baa9dc1-d5cf-4fac-ac70-01e3596045ec"
+      },
+      {
+        "name": "Cool",
+        "type": "Concealer",
+        "_id": "4f8b4fe8-33fb-43ba-9449-d31ef6d70486"
+      }
+    ],
+    "name": "125 - Light Medium Cool 3",
+    "additionalRecommendation": [],
+    "default": false,
+    "backgroundColor": "",
+    "resultImage": [
+      {
+        "alt": "",
+        "name": "batman.jpg",
+        "size": 38710,
+        "_type": "image",
+        "width": 1280,
+        "height": 720,
+        "mimeType": "image/jpeg",
+        "storageID": "d8912ccc-286d-43b3-9535-07a4fe38a95c",
+        "src": "https://f.shgcdn.com/d8912ccc-286d-43b3-9535-07a4fe38a95c/"
+      },
+      {
+        "alt": "",
+        "name": "witcher.jpg",
+        "size": 356783,
+        "_type": "image",
+        "width": 1496,
+        "height": 842,
+        "mimeType": "image/jpeg",
+        "storageID": "65f56f86-8259-4acb-ae43-0b1eda54754d",
+        "src": "https://f.shgcdn.com/65f56f86-8259-4acb-ae43-0b1eda54754d/"
+      },
+      {
+        "alt": "",
+        "name": "bron.jpg",
+        "size": 118306,
+        "_type": "image",
+        "width": 1200,
+        "height": 851,
+        "mimeType": "image/jpeg",
+        "storageID": "f6051937-9619-4569-bc77-d5baa624ebd6",
+        "src": "https://f.shgcdn.com/f6051937-9619-4569-bc77-d5baa624ebd6/"
+      }
+    ],
+    "shadeRecommended": "125 - Light Medium Cool",
+    "category": "Only",
+    "_id": "ce26da8a-aa47-477e-b9c2-4b142c22d345"
+  },
+  {
+    "radiantRecommendation": "05 - Light Neutral",
+    "qualifiers": [
+      {
+        "name": "Light",
+        "type": "Concealer",
+        "_id": "3baa9dc1-d5cf-4fac-ac70-01e3596045ec"
+      },
+      {
+        "name": "Light",
+        "type": "Concealer",
+        "_id": "3baa9dc1-d5cf-4fac-ac70-01e3596045ec"
+      },
+      {
+        "name": "Neutral",
+        "type": "Concealer",
+        "_id": "faafbc7a-f841-4426-b9d8-17df437c4e98"
+      },
+      {
+        "name": "Neutral",
+        "type": "Concealer",
+        "_id": "faafbc7a-f841-4426-b9d8-17df437c4e98"
+      }
+    ],
+    "name": "115 - Light Cool",
+    "additionalRecommendation": ["120 - Light Neutral"],
+    "default": false,
+    "backgroundColor": "",
+    "resultImage": [
+      {
+        "alt": "",
+        "name": "bron.jpg",
+        "size": 118306,
+        "_type": "image",
+        "width": 1200,
+        "height": 851,
+        "mimeType": "image/jpeg",
+        "storageID": "69025006-b18f-481c-93a5-92c249c9bc7a",
+        "src": "https://f.shgcdn.com/69025006-b18f-481c-93a5-92c249c9bc7a/"
+      },
+      {
+        "alt": "",
+        "name": "batman.jpg",
+        "size": 38710,
+        "_type": "image",
+        "width": 1280,
+        "height": 720,
+        "mimeType": "image/jpeg",
+        "storageID": "9c02f9bd-7e0b-4279-a43d-46e53814f076",
+        "src": "https://f.shgcdn.com/9c02f9bd-7e0b-4279-a43d-46e53814f076/"
+      },
+      {
+        "alt": "",
+        "name": "witcher.jpg",
+        "size": 356783,
+        "_type": "image",
+        "width": 1496,
+        "height": 842,
+        "mimeType": "image/jpeg",
+        "storageID": "7a5339d3-369b-4421-977b-ce25c654097b",
+        "src": "https://f.shgcdn.com/7a5339d3-369b-4421-977b-ce25c654097b/"
+      }
+    ],
+    "shadeRecommended": "115 - Light Cool",
+    "category": "Only",
+    "_id": "caa70621-413b-4115-8da2-506f7bee9802"
+  },
+  {
+    "radiantRecommendation": "07 - Light Neutral Warm",
+    "qualifiers": [
+      {
+        "name": "Light",
+        "type": "Concealer",
+        "_id": "3baa9dc1-d5cf-4fac-ac70-01e3596045ec"
+      },
+      {
+        "name": "Light",
+        "type": "Concealer",
+        "_id": "3baa9dc1-d5cf-4fac-ac70-01e3596045ec"
+      },
+      {
+        "name": "Neutral",
+        "type": "Concealer",
+        "_id": "faafbc7a-f841-4426-b9d8-17df437c4e98"
+      },
+      {
+        "name": "NeutralWarm",
+        "type": "Concealer",
+        "_id": "cc83682a-8abb-4101-919c-1833ea89c240"
+      }
+    ],
+    "name": "120 - Light Neutral 1",
+    "additionalRecommendation": [],
+    "default": false,
+    "backgroundColor": "",
+    "resultImage": [
+      {
+        "alt": "",
+        "name": "witcher.jpg",
+        "size": 356783,
+        "_type": "image",
+        "width": 1496,
+        "height": 842,
+        "mimeType": "image/jpeg",
+        "storageID": "abddb788-20d9-494f-bfbc-39540a83ab94",
+        "src": "https://f.shgcdn.com/abddb788-20d9-494f-bfbc-39540a83ab94/"
+      },
+      {
+        "alt": "",
+        "name": "batman.jpg",
+        "size": 38710,
+        "_type": "image",
+        "width": 1280,
+        "height": 720,
+        "mimeType": "image/jpeg",
+        "storageID": "8cc6f5ac-55d4-47c7-a3fb-727032e4639b",
+        "src": "https://f.shgcdn.com/8cc6f5ac-55d4-47c7-a3fb-727032e4639b/"
+      },
+      {
+        "alt": "",
+        "name": "bron.jpg",
+        "size": 118306,
+        "_type": "image",
+        "width": 1200,
+        "height": 851,
+        "mimeType": "image/jpeg",
+        "storageID": "6458130e-f477-4b5d-a9e0-a5a3d2f0f60b",
+        "src": "https://f.shgcdn.com/6458130e-f477-4b5d-a9e0-a5a3d2f0f60b/"
+      }
+    ],
+    "shadeRecommended": "120 - Light Neutral",
+    "category": "Only",
+    "_id": "2b31d062-c2a3-4248-a217-4ef011de3acd"
+  },
+  {
+    "radiantRecommendation": "02 - Very Light Cool",
+    "qualifiers": [
+      {
+        "name": "Light",
+        "type": "Concealer",
+        "_id": "3baa9dc1-d5cf-4fac-ac70-01e3596045ec"
+      },
+      {
+        "name": "VeryLight",
+        "type": "Concealer",
+        "_id": "d5aee757-4e21-470b-bc55-0b5c2c7dbdce"
+      },
+      {
+        "name": "Cool",
+        "type": "Concealer",
+        "_id": "4f8b4fe8-33fb-43ba-9449-d31ef6d70486"
+      }
+    ],
+    "name": "100 - Very Light Cool",
+    "additionalRecommendation": [],
+    "default": false,
+    "backgroundColor": "",
+    "resultImage": [
+      {
+        "alt": "",
+        "name": "bron.jpg",
+        "size": 118306,
+        "_type": "image",
+        "width": 1200,
+        "height": 851,
+        "mimeType": "image/jpeg",
+        "storageID": "b13ea0ec-dba2-4871-b7c2-b2c0ed7fde40",
+        "src": "https://f.shgcdn.com/b13ea0ec-dba2-4871-b7c2-b2c0ed7fde40/"
+      },
+      {
+        "alt": "",
+        "name": "batman.jpg",
+        "size": 38710,
+        "_type": "image",
+        "width": 1280,
+        "height": 720,
+        "mimeType": "image/jpeg",
+        "storageID": "26c3cf4b-f22c-40d1-99d1-c2fce02116e4",
+        "src": "https://f.shgcdn.com/26c3cf4b-f22c-40d1-99d1-c2fce02116e4/"
+      },
+      {
+        "alt": "",
+        "name": "witcher.jpg",
+        "size": 356783,
+        "_type": "image",
+        "width": 1496,
+        "height": 842,
+        "mimeType": "image/jpeg",
+        "storageID": "a983ba67-909b-4c66-9e03-9c730d496888",
+        "src": "https://f.shgcdn.com/a983ba67-909b-4c66-9e03-9c730d496888/"
+      }
+    ],
+    "shadeRecommended": "100 - Very Light Cool",
+    "category": "Only",
+    "_id": "23152b02-447a-4636-b19e-d69c12d263be"
+  },
+  {
+    "radiantRecommendation": "01 - Very Light Neutral",
+    "qualifiers": [
+      {
+        "name": "Light",
+        "type": "Concealer",
+        "_id": "3baa9dc1-d5cf-4fac-ac70-01e3596045ec"
+      },
+      {
+        "name": "VeryLight",
+        "type": "Concealer",
+        "_id": "d5aee757-4e21-470b-bc55-0b5c2c7dbdce"
+      },
+      {
+        "name": "Neutral",
+        "type": "Concealer",
+        "_id": "faafbc7a-f841-4426-b9d8-17df437c4e98"
+      }
+    ],
+    "name": "105 - Very Light Neutral 1",
+    "additionalRecommendation": [],
+    "default": false,
+    "backgroundColor": "",
+    "resultImage": [
+      {
+        "alt": "",
+        "name": "witcher.jpg",
+        "size": 356783,
+        "_type": "image",
+        "width": 1496,
+        "height": 842,
+        "mimeType": "image/jpeg",
+        "storageID": "e6346419-cbe9-42b0-a608-4b27b2ad50cb",
+        "src": "https://f.shgcdn.com/e6346419-cbe9-42b0-a608-4b27b2ad50cb/"
+      },
+      {
+        "alt": "",
+        "name": "batman.jpg",
+        "size": 38710,
+        "_type": "image",
+        "width": 1280,
+        "height": 720,
+        "mimeType": "image/jpeg",
+        "storageID": "759c9614-e6d6-4a7b-b9f6-821adf8abb03",
+        "src": "https://f.shgcdn.com/759c9614-e6d6-4a7b-b9f6-821adf8abb03/"
+      },
+      {
+        "alt": "",
+        "name": "bron.jpg",
+        "size": 118306,
+        "_type": "image",
+        "width": 1200,
+        "height": 851,
+        "mimeType": "image/jpeg",
+        "storageID": "85eded59-2921-4232-831f-01ef0cc0b41f",
+        "src": "https://f.shgcdn.com/85eded59-2921-4232-831f-01ef0cc0b41f/"
+      }
+    ],
+    "shadeRecommended": "105 - Very Light Neutral",
+    "category": "Only",
+    "_id": "fb535ff9-4ddc-4e8a-8749-0a42530875fa"
+  },
+  {
+    "radiantRecommendation": "03 - Very Light Warm",
+    "qualifiers": [
+      {
+        "name": "Light",
+        "type": "Concealer",
+        "_id": "3baa9dc1-d5cf-4fac-ac70-01e3596045ec"
+      },
+      {
+        "name": "VeryLight",
+        "type": "Concealer",
+        "_id": "d5aee757-4e21-470b-bc55-0b5c2c7dbdce"
+      },
+      {
+        "name": "Warm",
+        "type": "Concealer",
+        "_id": "ef430ed9-1386-4056-a54b-494f81a75aa2"
+      }
+    ],
+    "name": "105 - Very Light Neutral 2",
+    "additionalRecommendation": ["110 - Light Warm"],
+    "default": false,
+    "backgroundColor": "",
+    "resultImage": [
+      {
+        "alt": "",
+        "name": "batman.jpg",
+        "size": 38710,
+        "_type": "image",
+        "width": 1280,
+        "height": 720,
+        "mimeType": "image/jpeg",
+        "storageID": "6e87bd39-75dd-4852-81d4-cf6ee30753cc",
+        "src": "https://f.shgcdn.com/6e87bd39-75dd-4852-81d4-cf6ee30753cc/"
+      },
+      {
+        "alt": "",
+        "name": "witcher.jpg",
+        "size": 356783,
+        "_type": "image",
+        "width": 1496,
+        "height": 842,
+        "mimeType": "image/jpeg",
+        "storageID": "f5f076b6-f005-4a2a-8d18-379deee73493",
+        "src": "https://f.shgcdn.com/f5f076b6-f005-4a2a-8d18-379deee73493/"
+      },
+      {
+        "alt": "",
+        "name": "batman.jpg",
+        "size": 38710,
+        "_type": "image",
+        "width": 1280,
+        "height": 720,
+        "mimeType": "image/jpeg",
+        "storageID": "ecfd8629-277d-4ab7-942a-1a4b1aa3302c",
+        "src": "https://f.shgcdn.com/ecfd8629-277d-4ab7-942a-1a4b1aa3302c/"
+      },
+      {
+        "alt": "",
+        "name": "bron.jpg",
+        "size": 118306,
+        "_type": "image",
+        "width": 1200,
+        "height": 851,
+        "mimeType": "image/jpeg",
+        "storageID": "ae2fc0f4-20a7-488c-b935-4324101e1c48",
+        "src": "https://f.shgcdn.com/ae2fc0f4-20a7-488c-b935-4324101e1c48/"
+      }
+    ],
+    "shadeRecommended": "105 - Very Light Neutral",
+    "category": "Only",
+    "_id": "1418b836-7004-4410-b82b-37d6acbdbc03"
+  }
+]

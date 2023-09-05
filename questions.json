@@ -1,0 +1,532 @@
+[
+  {
+    "questionText": "To start, how does your skin typically feel?",
+    "textBox": [],
+    "questionType": "Feel",
+    "name": "skin-feel",
+    "answers": [
+      {
+        "answerSubCopy": "(stays shiny throughout the day)",
+        "answersQualifiers": [
+          {
+            "type": "skinType",
+            "name": "Oily",
+            "_id": "2528e981-5f47-487d-88df-4a1105c75c30"
+          }
+        ],
+        "questionType": "Feel",
+        "subQuestion": null,
+        "images": [
+          {
+            "alt": "Oily skin",
+            "name": "q2-oily.png",
+            "size": 5037,
+            "_type": "image",
+            "width": 108,
+            "height": 108,
+            "mimeType": "image/png",
+            "storageID": "e1c2ec31-75a6-471d-b7d3-4ade06fb6ea4",
+            "src": "https://f.shgcdn.com/e1c2ec31-75a6-471d-b7d3-4ade06fb6ea4/"
+          }
+        ],
+        "name": "skin-oily",
+        "answerText": "Oily",
+        "_id": "6ca38d4b-5a07-4601-87aa-d20c8aea915f"
+      },
+      {
+        "answerSubCopy": "(tight & dehydrated)",
+        "answersQualifiers": [
+          {
+            "type": "skinType",
+            "name": "Dry",
+            "_id": "e2cdf941-860e-4bc2-9a1c-ac783a306cb3"
+          }
+        ],
+        "questionType": "Feel",
+        "subQuestion": null,
+        "images": [
+          {
+            "alt": "Dry skin",
+            "name": "q2-dry.png",
+            "size": 5778,
+            "_type": "image",
+            "width": 108,
+            "height": 108,
+            "mimeType": "image/png",
+            "storageID": "79e6c526-5d99-47ee-ac91-c161dae6671f",
+            "src": "https://f.shgcdn.com/79e6c526-5d99-47ee-ac91-c161dae6671f/"
+          }
+        ],
+        "name": "skin-dry",
+        "answerText": "Dry",
+        "_id": "6d51af85-de51-406c-924e-df8c328412b5"
+      },
+      {
+        "answerSubCopy": "(some dry areas, others parts oily)",
+        "answersQualifiers": [
+          {
+            "type": "skinType",
+            "name": "Combined",
+            "_id": "39e50c67-cada-4fbb-a561-3ec5477fecd2"
+          }
+        ],
+        "questionType": "Feel",
+        "subQuestion": null,
+        "images": [
+          {
+            "alt": "combination skin",
+            "name": "q2-combination.png",
+            "size": 4075,
+            "_type": "image",
+            "width": 108,
+            "height": 108,
+            "mimeType": "image/png",
+            "storageID": "282512bb-9dd8-40a9-8601-b1db8881799f",
+            "src": "https://f.shgcdn.com/282512bb-9dd8-40a9-8601-b1db8881799f/"
+          }
+        ],
+        "name": "skin-combined",
+        "answerText": "Combination",
+        "_id": "2aa8205c-f486-42e6-8797-15d02c93ea2a"
+      },
+      {
+        "answerSubCopy": "(feeling calm & comfortable)",
+        "answersQualifiers": [
+          {
+            "type": "skinType",
+            "name": "Balanced",
+            "_id": "1c3e7965-b2fa-4453-9883-4ce44b658e82"
+          }
+        ],
+        "questionType": "Feel",
+        "subQuestion": null,
+        "images": [
+          {
+            "alt": "balanced skin",
+            "name": "q2-balanced.png",
+            "size": 3622,
+            "_type": "image",
+            "width": 112,
+            "height": 108,
+            "mimeType": "image/png",
+            "storageID": "9e9575c7-db72-414d-929b-bac14fc011e2",
+            "src": "https://f.shgcdn.com/9e9575c7-db72-414d-929b-bac14fc011e2/"
+          }
+        ],
+        "name": "skin-balanced",
+        "answerText": "Balanced",
+        "_id": "a5f4c92c-59c2-457f-ac87-2e9e1cba14ee"
+      }
+    ],
+    "_id": "ad3f2510-de17-4fbe-bb7f-782f35d59a50"
+  },
+  {
+    "questionText": "Which best represents your skin tone?",
+    "textBox": [],
+    "questionType": "Skin Tone",
+    "name": "skin-tone",
+    "answers": [
+      {
+        "answersQualifiers": [
+          {
+            "type": "skinTone",
+            "name": "Light",
+            "_id": "579d58e1-c6d0-4430-ab72-76f9ad8e4ca9"
+          }
+        ],
+        "questionType": "Skin Tone",
+        "subQuestion": null,
+        "images": [],
+        "name": "tone-light",
+        "answerText": "Fair / Light",
+        "_id": "b5ed6f8e-2238-469b-bb13-1cbab7390be0"
+      },
+      {
+        "answersQualifiers": [
+          {
+            "type": "skinTone",
+            "name": "Medium",
+            "_id": "a77333ef-36aa-409a-a9dd-b0944649de7b"
+          }
+        ],
+        "questionType": "Skin Tone",
+        "subQuestion": null,
+        "images": [],
+        "name": "tone-medium",
+        "answerText": "Medium",
+        "_id": "8af19f7d-a805-4cbc-96e5-53849985e840"
+      },
+      {
+        "answersQualifiers": [
+          {
+            "type": "skinTone",
+            "name": "Medium Deep",
+            "_id": "ddee1787-ff7f-418c-8c31-4a8361cafdc1"
+          }
+        ],
+        "questionType": "Skin Tone",
+        "subQuestion": null,
+        "images": [],
+        "name": "tone-medium-deep",
+        "answerText": "Medium / Deep",
+        "_id": "d950388f-1e00-4fef-b900-367ef55996c5"
+      },
+      {
+        "answersQualifiers": [
+          {
+            "type": "skinTone",
+            "name": "Deep",
+            "_id": "e6f49597-28b3-4bbf-afbc-653c4c818702"
+          }
+        ],
+        "questionType": "Skin Tone",
+        "subQuestion": null,
+        "images": [],
+        "name": "tone-deep",
+        "answerText": "Deep",
+        "_id": "a4bbbe00-6395-4d36-a213-8186ae1128c9"
+      }
+    ],
+    "_id": "0229393e-94c8-4ae2-aa8d-8e2b19fad35f"
+  },
+  {
+    "questionText": "Do you find your skin to be extra sensitive?",
+    "textBox": [
+      [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "bold": true,
+              "text": "Not sure what extra sensitive is?"
+            },
+            {
+              "text": " It's generally more reactive & easily irritated. A certain soap, detergent, fragrance etc., may cause itchiness, redness & dryness. Some may also experience eczema, rosacea & psoriasis. "
+            }
+          ]
+        }
+      ]
+    ],
+    "questionType": "Sensitive",
+    "name": "skin-sensitive",
+    "answers": [
+      {
+        "answersQualifiers": [
+          {
+            "type": "sensitive",
+            "name": "Yes",
+            "_id": "89d0787e-dd6c-4f97-a6b3-633202174592"
+          }
+        ],
+        "questionType": "Sensitive",
+        "subQuestion": null,
+        "images": [],
+        "name": "sensitive-yes",
+        "answerText": "Yes",
+        "_id": "8fd1fe17-687f-4c0c-a50e-597fa886a107"
+      },
+      {
+        "answersQualifiers": [
+          {
+            "type": "sensitive",
+            "name": "No",
+            "_id": "da32d895-7c66-4e0e-8247-412c69e449b3"
+          }
+        ],
+        "questionType": "Sensitive",
+        "subQuestion": null,
+        "images": [],
+        "name": "sensitive-no",
+        "answerText": "No",
+        "_id": "82e6aa20-8491-4042-861a-a9c1bcb99212"
+      }
+    ],
+    "_id": "d4c081e3-2b3d-4147-a2e2-cc7ced96133e"
+  },
+  {
+    "questionText": "What are your skincare goals?",
+    "textBox": [
+      [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "bold": true,
+              "text": "What does your skin need?"
+            },
+            {
+              "text": " Breakouts, bumps, wrinkles, redness, dryness, hyperpigmentation—all normal. If they're a concern, we have solutions. You're beautiful before, & after either way. "
+            }
+          ]
+        }
+      ]
+    ],
+    "multipleChoice": 3,
+    "questionType": "Primary Goals",
+    "name": "skincare-goals",
+    "answers": [
+      {
+        "answersQualifiers": [
+          {
+            "type": "treat&prep",
+            "name": "Clarify acne blemishes",
+            "_id": "c21ac12a-ec23-4b7c-b299-e0eda1c28628"
+          }
+        ],
+        "questionType": "Primary Goal",
+        "subQuestion": {
+          "questionText": "How would you describe your breakouts?",
+          "name": "sub-clarify-acne",
+          "answers": [
+            {
+              "answersQualifiers": [
+                {
+                  "type": "breakouts",
+                  "name": "Breakouts occasional",
+                  "_id": "f274fbb8-2ecc-4d99-bbe9-f70f027d2856"
+                }
+              ],
+              "questionType": "Breakouts",
+              "subQuestion": null,
+              "images": [],
+              "name": "breakouts-occasional",
+              "answerText": "Occasional breakouts",
+              "_id": "50a0b451-325f-4f8f-af11-7d6f71ce07a7"
+            },
+            {
+              "answersQualifiers": [
+                {
+                  "type": "breakouts",
+                  "name": "Breakouts multiple",
+                  "_id": "4a0e667c-1391-41cf-8b64-4728d6453a1b"
+                }
+              ],
+              "questionType": "Breakouts",
+              "subQuestion": null,
+              "images": [],
+              "name": "breakouts-multiple",
+              "answerText": "Multiple breakouts that come & go",
+              "_id": "be2b0668-8818-4a3e-a57e-e88b18e8b851"
+            },
+            {
+              "answersQualifiers": [
+                {
+                  "type": "breakouts",
+                  "name": "Breakouts all time",
+                  "_id": "51c6cf07-335e-4c9c-a288-02c4a9239958"
+                }
+              ],
+              "questionType": "Breakouts",
+              "subQuestion": null,
+              "images": [],
+              "name": "breakouts-all-time",
+              "answerText": "Breakouts all the time",
+              "_id": "a9c7a639-7f70-4267-8413-af3768cfbd45"
+            }
+          ],
+          "_id": "f484c400-296c-4096-bb9b-d0edccaff457"
+        },
+        "images": [],
+        "name": "clarify-acne-blemishes",
+        "answerText": "Clarify acne / blemishes",
+        "_id": "e0909279-4eeb-4d74-9238-19f9e403d26e"
+      },
+      {
+        "answersQualifiers": [
+          {
+            "type": "treat&prep",
+            "name": "Boost overall radiance glow",
+            "_id": "732674c1-d565-45d9-b2a6-083966ebdfaa"
+          }
+        ],
+        "questionType": "Primary Goal",
+        "subQuestion": null,
+        "images": [],
+        "name": "boost-overall-radiance-glow",
+        "answerText": "Boost overall radiance & glow",
+        "_id": "31051df0-36ba-4849-8361-358e993f3ab7"
+      },
+      {
+        "answersQualifiers": [
+          {
+            "type": "treat&prep",
+            "name": "Brighten hyperpigmentation dark spots",
+            "_id": "c5da3f36-5b1f-4af2-a337-bd96283f1969"
+          }
+        ],
+        "questionType": "Primary Goal",
+        "subQuestion": null,
+        "images": [],
+        "name": "brighten-hyperpigmentation-dark-spots",
+        "answerText": "Brighten dark spots & hyperpigmentation",
+        "_id": "f9d260f6-1759-4ec8-87bb-45c4351004be"
+      },
+      {
+        "answersQualifiers": [
+          {
+            "type": "treat&prep",
+            "name": "Smoother skin texture",
+            "_id": "0eeecc5b-583a-4733-803c-77f0b4a81f98"
+          }
+        ],
+        "questionType": "Primary Goal",
+        "subQuestion": null,
+        "images": [],
+        "name": "smoother-skin-texture",
+        "answerText": "Smooth skin texture",
+        "_id": "e88412da-6fb9-4c92-8b7e-0a9a555ca196"
+      },
+      {
+        "answersQualifiers": [
+          {
+            "type": "treat&prep",
+            "name": "Prevent early signs of aging",
+            "_id": "4b9719dc-0ac2-4169-b692-dcb7af852d11"
+          }
+        ],
+        "questionType": "Primary Goal",
+        "subQuestion": null,
+        "images": [],
+        "name": "prevent-early-signs-of-aging",
+        "answerText": "Prevent early signs of aging",
+        "_id": "f17f1a29-bcb5-4639-b6aa-9abbda751e01"
+      },
+      {
+        "answersQualifiers": [
+          {
+            "type": "treat&prep",
+            "name": "Treat reverse signs of aging",
+            "_id": "ff9fafe2-5f2a-42d2-9039-a447850f5844"
+          }
+        ],
+        "questionType": "Primary Goal",
+        "subQuestion": null,
+        "images": [],
+        "name": "treat-reverse-signs-of-aging",
+        "answerText": "Treat & reverse signs of aging",
+        "_id": "42cd7602-e756-4332-bd98-84784779514e"
+      },
+      {
+        "answersQualifiers": [
+          {
+            "type": "treat&prep",
+            "name": "Target under eye area",
+            "_id": "774415ba-6de6-409f-8ab6-a9ffeb346d50"
+          }
+        ],
+        "questionType": "Primary Goal",
+        "subQuestion": {
+          "questionText": "What would you like to address around your eyes?",
+          "name": "sub-under-eye",
+          "answers": [
+            {
+              "answersQualifiers": [
+                {
+                  "type": "treat&prep",
+                  "name": "Dark circles",
+                  "_id": "fbcefd67-6552-436f-a8d8-632bcd26a4fe"
+                }
+              ],
+              "subQuestion": null,
+              "name": "dark-circles",
+              "answerText": "Dark circles",
+              "_id": "7a758495-f03d-41dd-a72b-b61196f0d5ff"
+            },
+            {
+              "answersQualifiers": [
+                {
+                  "type": "treat&prep",
+                  "name": "Dryness",
+                  "_id": "a5ef1114-64db-4075-af13-1c4fb3fe7a9a"
+                }
+              ],
+              "questionType": "Primary Goal",
+              "subQuestion": null,
+              "images": [],
+              "name": "dryness",
+              "answerText": "Dryness",
+              "_id": "f161e9bb-8b7c-41cb-ac44-45363a8260b6"
+            },
+            {
+              "answersQualifiers": [
+                {
+                  "type": "treat&prep",
+                  "name": "Fine lines wrinkles",
+                  "_id": "c0900952-1e84-4621-99e7-43c1f7e74b5d"
+                }
+              ],
+              "subQuestion": null,
+              "name": "fine-lines-wrinkles",
+              "answerText": "Fine lines & wrinkles",
+              "_id": "b2ebe9cf-045f-4693-9352-37c3d148f328"
+            },
+            {
+              "answersQualifiers": [
+                {
+                  "type": "treat&prep",
+                  "name": "Puffiness",
+                  "_id": "bf922a28-8d07-4656-a393-18b470eeee13"
+                }
+              ],
+              "subQuestion": null,
+              "name": "puffiness",
+              "answerText": "Puffiness",
+              "_id": "fbf401d3-28b5-4dcf-823c-15cba7990ce3"
+            }
+          ],
+          "_id": "1c8b3ab5-d512-4d89-9932-5502e88842d2"
+        },
+        "images": [],
+        "name": "target-under-eye-area",
+        "answerText": "Target under-eye area",
+        "_id": "f070bf3f-170b-4588-b6cd-ddd7f71cec00"
+      },
+      {
+        "answersQualifiers": [
+          {
+            "type": "treat&prep",
+            "name": "Protect from sun damage",
+            "_id": "b15d6ad1-4a35-498d-b4d6-5ce25b35b810"
+          }
+        ],
+        "questionType": "Primary Goal",
+        "subQuestion": null,
+        "images": [],
+        "name": "protect-from-sun-damage",
+        "answerText": "Protect from sun damage",
+        "_id": "f99d6d26-c7aa-4b65-b152-d317b03b4f91"
+      },
+      {
+        "answersQualifiers": [
+          {
+            "type": "treat&prep",
+            "name": "Minimize blackheads pores",
+            "_id": "083e100c-ce5c-45ca-880c-0f243b7ddcc1"
+          }
+        ],
+        "questionType": "Primary Goal",
+        "subQuestion": null,
+        "images": [],
+        "name": "minimize-blackheads-pores",
+        "answerText": "Minimize blackheads & pores",
+        "_id": "d0a474ea-bc26-4176-92c7-5f0ffd4a16e1"
+      },
+      {
+        "answersQualifiers": [
+          {
+            "type": "treat&prep",
+            "name": "Improve digestive health",
+            "_id": "3158f560-6a32-41a9-a7f6-12ccb636c56c"
+          }
+        ],
+        "questionType": "Primary Goal",
+        "subQuestion": null,
+        "images": [],
+        "name": "improve-digestive-health",
+        "answerText": "Improve digestive health",
+        "_id": "fae2e82d-7a49-4b76-afed-b6f59ff32ebb"
+      }
+    ],
+    "_id": "4a55e608-c3ee-40ba-92c6-f3e716f6d63c"
+  }
+]
