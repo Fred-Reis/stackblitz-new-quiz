@@ -12,13 +12,15 @@ export default function quizService(_quizModel = {}) {
       e[_key].toLowerCase()
     );
 
+    // console.log(answers.some((el) => el.includes('goal')));
+
     return answers;
   }
 
   function handleGetProductsResultByAnswers(_products, _answers, _productKey) {
     const result = _products.filter((prod) =>
-      handleGetProductQualifiers(prod, _productKey)?.every((key) =>
-        _answers.includes(key)
+      handleGetProductQualifiers(prod, _productKey)?.every(
+        (key) => _answers.includes(key) || key.includes('goal')
       )
     );
 
@@ -32,8 +34,8 @@ export default function quizService(_quizModel = {}) {
   function handleGetRegularResultsByCategory(_products, _answers, _productKey) {
     let objReturn = {};
     const products = _products.filter((prod) =>
-      handleGetProductQualifiers(prod, _productKey)?.every((key) =>
-        _answers.includes(key)
+      handleGetProductQualifiers(prod, _productKey)?.every(
+        (key) => _answers.includes(key) || key.includes('goal')
       )
     );
 

@@ -53,6 +53,13 @@ const MOCK_ANSWERS = [
   ],
   [
     {
+      type: 'treat&prep',
+      qualifier: 'Protect from sun damage',
+      _id: 'c21ac12a-ec23-4b7c-b299-e0eda1c28628',
+    },
+  ],
+  [
+    {
       type: 'breakouts',
       qualifier: 'Breakouts all time',
       _id: '51c6cf07-335e-4c9c-a288-02c4a9239958',
@@ -131,7 +138,7 @@ export default function Skin() {
   //   productQualifierKey
   // );
   // console.log('SKIN', {answersAdvArr});
-  console.log('SKIN', products.length);
+  // console.log('SKIN', products.length);
 
   const tiedProducts = quizz.handleGetProductsResultByAnswers(
     products,
@@ -145,7 +152,7 @@ export default function Skin() {
     productQualifierKey
   );
 
-  // console.log('SKIN', { tiedProducts });
+  console.log('SKIN', { tiedProducts });
   console.log('SKIN', { catProducts });
   // console.log(tiedProducts.map((e) => e.quizzAttributes.qualifiers));aazaz
 
