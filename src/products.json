@@ -7753,5 +7753,27 @@
       "qualifiers": [],
       "default": true
     }
+  },
+  {
+    "name": "Protect from sun damage - No Product - goal 2 reference - Treat & Prep",
+    "quizzAttributes": {
+      "qualifiers": [
+        { "name": "goal-2", "type": "goal" },
+        { "name": "Protect from sun damage", "type": "treat&prep" }
+      ],
+      "category": "treat&prep",
+      "default": false
+    }
+  },
+  {
+    "name": "Target under-eye area - No Product - goal 2 reference - Treat & Prep",
+    "quizzAttributes": {
+      "qualifiers": [
+        { "name": "goal-2", "type": "goal" },
+        { "name": "Target under eye area", "type": "treat&prep" }
+      ],
+      "category": "treat&prep",
+      "default": false
+    }
   }
 ]

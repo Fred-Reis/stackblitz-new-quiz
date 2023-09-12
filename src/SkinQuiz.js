@@ -155,3 +155,107 @@ export default function Skin() {
     </div>
   );
 }
+
+function getResultByGoalReference(arr) {
+  console.group(
+    '%c =======>  QUIZ  <========',
+    'background-color: #38C6D9; color: #fff',
+    'QUIZ'
+  );
+  console.log({ arr });
+  console.log({ multipleChoiceState });
+  console.log({ answerState });
+  // console.log({sqAdvancedResults})
+  // console.log({sqAdvancedResults})
+  console.groupEnd();
+  var idxForReference =
+    arr.length > 1 &&
+    arr.reduce((acc, ele) => {
+      ele.qualifiers.forEach((el) => {
+        el.name.includes('goal') ? (acc = +el.name.split('-')[1]) : null;
+      });
+      return acc;
+    }, '');
+
+  // name of the reference goal
+  var referenceGoal =
+    multipleChoiceState[idxForReference - 1]?.answersQualifiers[0].name;
+
+  // name of the reference qualifier for goal element
+  var referenceQualifier =
+    !![
+      ...arr.filter((ele) =>
+        ele?.qualifiers?.some(
+          (el) => el.name === multipleChoiceState[0]?.answersQualifiers[0]?.name
+        )
+      ),
+    ].find((el) => el.qualifiers.some((e) => e.name.includes('goal'))) &&
+    multipleChoiceState[0]?.answersQualifiers[0].name;
+
+  // check if the reference is at 1st in multipleChoice
+
+  console.log({ referenceQualifier });
+
+  if (
+    multipleChoiceState[0]?.answersQualifiers[0].name === referenceQualifier
+  ) {
+    // check if there's a product for the reference goal and this one doesn't contain goal in its qualifiers return product for the reference goal
+    // console.log('jumping into the #1 if qualifier 1st pos');
+    if (
+      arr.filter((ele) =>
+        ele.qualifiers.some((el) => el.name === referenceGoal)
+      ).length > 0 &&
+      arr
+        .filter((ele) =>
+          ele.qualifiers.some((el) => el.name === referenceGoal)
+        )[0]
+        ?.qualifiers?.some((e) => !e.name.includes('goal'))
+    ) {
+      // console.log(
+      //   'jumping into the #2 if return prod if is okay without goals'
+      // );
+      return arr
+        .filter((ele) => ele.qualifiers.some((el) => el.name === referenceGoal))
+        .filter((el) => !el.qualifiers.some((e) => e.name.includes('goal')));
+      // else return an array of products without goal in their qualifier
+    } else {
+      // console.log('jumping into the else return prod filtered without goal');
+      return arr.filter(
+        (el) => !el.qualifiers.some((e) => e.name.includes('goal'))
+      );
+    }
+    //valition to check if there's a product for 1st position in multipleChoice and this one doesn't contain goal in its qualifiers and return the product for this qualifier
+  } else if (
+    arr.filter((ele) =>
+      ele.qualifiers.some(
+        (el) => el.name === multipleChoiceState[0]?.answersQualifiers[0].name
+      )
+    ).length > 0 &&
+    !!arr
+      .filter((ele) =>
+        ele.qualifiers.some(
+          (el) => el.name === multipleChoiceState[0]?.answersQualifiers[0].name
+        )
+      )[0]
+      ?.qualifiers?.some((e) => !e.name.includes('goal'))
+  ) {
+    // return the product for the qualifier at the first position in multipleChoiceState
+    // console.log(
+    //   'jumping into the else if to return product for 1st position multichoice'
+    // );
+    return arr
+      .filter((ele) =>
+        ele.qualifiers.some(
+          (el) => el.name === multipleChoiceState[0]?.answersQualifiers[0].name
+        )
+      )
+      .filter((el) => !el.qualifiers.some((e) => e.name.includes('goal')));
+  } else {
+    // console.log(
+    //   'jumping into the last else to return prod filtered without goal'
+    // );
+    return arr.filter(
+      (el) => !el.qualifiers.some((e) => e.name.includes('goal'))
+    );
+  }
+}

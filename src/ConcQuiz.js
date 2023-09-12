@@ -90,17 +90,52 @@ export default function Conc() {
   );
 }
 
-// concProducts?.map((ele) => {
-//   const newValue = structuredClone(ele);
-//   newValue.quizzAttributes = {
-//     qualifiers: ele.qualifiers,
-//     category: ele.category,
-//     default: ele.default,
-//   };
+const test = [
+  {
+    name: 'Protect from sun damage - No Product - goal 2 reference - Treat & Prep',
+    default: false,
+    category: 'treat&prep',
+    qualifiers: [
+      {
+        name: 'goal-2',
+        type: 'goal',
+      },
+      {
+        name: 'Protect from sun damage',
+        type: 'treat&prep',
+      },
+    ],
+    productRecommended: null,
+  },
+  {
+    name: 'Target under-eye area - No Product - goal 2 reference - Treat & Prep',
+    default: false,
+    category: 'treat&prep',
+    qualifiers: [
+      {
+        name: 'goal-2',
+        type: 'goal',
+      },
+      {
+        name: 'Target under eye area',
+        type: 'treat&prep',
+      },
+    ],
+    productRecommended: null,
+  },
+]?.map((ele) => {
+  const newValue = structuredClone(ele);
+  newValue.quizzAttributes = {
+    qualifiers: ele.qualifiers,
+    category: ele.category,
+    default: ele.default,
+  };
 
-//   delete newValue.qualifiers;
-//   delete newValue.category;
-//   delete newValue.default;
+  delete newValue.qualifiers;
+  delete newValue.category;
+  delete newValue.default;
 
-//   return newValue;
-// })
+  return newValue;
+});
+
+// console.log(JSON.stringify(test))
