@@ -82,15 +82,6 @@ export default function quizService(_quizModel = {}) {
     return handleGetAnswersQualifiers(_answers, key);
   }
 
-  function handleGetAdvancedResults(_answers = []) {
-    // Bind advanced results based on answers qualifiersand results
-    return console.log(
-      '_answers, quiz marketAvailability',
-      _answers,
-      _quizModel.marketAvailability
-    );
-  }
-
   function getResultByGoalReference(_arr, _productKey, _multipleChoice) {
     var idxForReference = handleGetProductQualifiers(_arr[0], _productKey)
       .find((el) => el.includes('goal'))
@@ -110,6 +101,15 @@ export default function quizService(_quizModel = {}) {
         !handleGetProductQualifiers(res, _productKey).some((e) =>
           e.includes('goal')
         )
+    );
+  }
+
+  function handleGetAdvancedResults(_answers = []) {
+    // Bind advanced results based on answers qualifiersand results
+    return console.log(
+      '_answers, quiz marketAvailability',
+      _answers,
+      _quizModel.marketAvailability
     );
   }
 
