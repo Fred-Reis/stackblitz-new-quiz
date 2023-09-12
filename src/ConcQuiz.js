@@ -65,7 +65,7 @@ export default function Conc() {
     MOCK_CONC_ANSWERS,
     productQualifierKey
   );
-  console.log({ answersArr });
+  console.log('CONC', { answersArr });
 
   const tiedProducts = quizz.handleGetProductsResultByAnswers(
     concProducts,
@@ -79,9 +79,12 @@ export default function Conc() {
     productQualifierKey
   );
 
-  console.log('tiedProducts', tiedProducts);
-  // console.log('catProducts', catProducts);
-  console.log(tiedProducts.map((e) => e.quizzAttributes.qualifiers).flat());
+  // console.log('CONC', { tiedProducts });
+  console.log('CONC', { catProducts });
+  // console.log(
+  //   'CONC',
+  //   tiedProducts.map((e) => e.quizzAttributes.qualifiers).flat()
+  // );
 
   return (
     <div>

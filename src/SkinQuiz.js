@@ -97,8 +97,8 @@ const MOCK_ANSWERS_ADV = [
     },
     {
       type: 'treat&prep',
-      name: 'Minimize blackheads pores',
-      _id: '083e100c-ce5c-45ca-880c-0f243b7ddcc1',
+      name: 'Protect from sun damage',
+      _id: 'b15d6ad1-4a35-498d-b4d6-5ce25b35b810',
     },
     {
       type: 'treat&prep',
@@ -115,6 +115,114 @@ const MOCK_ANSWERS_ADV = [
   ],
 ];
 
+const MOCK_MULTIPLE = [
+  {
+    answersQualifiers: [
+      {
+        type: 'treat&prep',
+        name: 'Target under eye area',
+        _id: '774415ba-6de6-409f-8ab6-a9ffeb346d50',
+      },
+    ],
+    questionType: 'Primary Goal',
+    subQuestion: {
+      questionText: 'What would you like to address around your eyes?',
+      name: 'sub-under-eye',
+      answers: [
+        {
+          answersQualifiers: [
+            {
+              type: 'treat&prep',
+              name: 'Dark circles',
+              _id: 'fbcefd67-6552-436f-a8d8-632bcd26a4fe',
+            },
+          ],
+          subQuestion: null,
+          name: 'dark-circles',
+          answerText: 'Dark circles',
+          _id: '7a758495-f03d-41dd-a72b-b61196f0d5ff',
+        },
+        {
+          answersQualifiers: [
+            {
+              type: 'treat&prep',
+              name: 'Dryness',
+              _id: 'a5ef1114-64db-4075-af13-1c4fb3fe7a9a',
+            },
+          ],
+          questionType: 'Primary Goal',
+          subQuestion: null,
+          images: [],
+          name: 'dryness',
+          answerText: 'Dryness',
+          _id: 'f161e9bb-8b7c-41cb-ac44-45363a8260b6',
+        },
+        {
+          answersQualifiers: [
+            {
+              type: 'treat&prep',
+              name: 'Fine lines wrinkles',
+              _id: 'c0900952-1e84-4621-99e7-43c1f7e74b5d',
+            },
+          ],
+          subQuestion: null,
+          name: 'fine-lines-wrinkles',
+          answerText: 'Fine lines & wrinkles',
+          _id: 'b2ebe9cf-045f-4693-9352-37c3d148f328',
+        },
+        {
+          answersQualifiers: [
+            {
+              type: 'treat&prep',
+              name: 'Puffiness',
+              _id: 'bf922a28-8d07-4656-a393-18b470eeee13',
+            },
+          ],
+          subQuestion: null,
+          name: 'puffiness',
+          answerText: 'Puffiness',
+          _id: 'fbf401d3-28b5-4dcf-823c-15cba7990ce3',
+        },
+      ],
+      _id: '1c8b3ab5-d512-4d89-9932-5502e88842d2',
+    },
+    images: [],
+    name: 'target-under-eye-area',
+    answerText: 'Target under-eye area',
+    _id: 'f070bf3f-170b-4588-b6cd-ddd7f71cec00',
+  },
+  {
+    answersQualifiers: [
+      {
+        type: 'treat&prep',
+        name: 'Protect from sun damage',
+        _id: 'b15d6ad1-4a35-498d-b4d6-5ce25b35b810',
+      },
+    ],
+    questionType: 'Primary Goal',
+    subQuestion: null,
+    images: [],
+    name: 'protect-from-sun-damage',
+    answerText: 'Protect from sun damage',
+    _id: 'f99d6d26-c7aa-4b65-b152-d317b03b4f91',
+  },
+  {
+    answersQualifiers: [
+      {
+        type: 'treat&prep',
+        name: 'Improve digestive health',
+        _id: '3158f560-6a32-41a9-a7f6-12ccb636c56c',
+      },
+    ],
+    questionType: 'Primary Goal',
+    subQuestion: null,
+    images: [],
+    name: 'improve-digestive-health',
+    answerText: 'Improve digestive health',
+    _id: 'fae2e82d-7a49-4b76-afed-b6f59ff32ebb',
+  },
+];
+
 export default function Skin() {
   const productQualifierKey = 'name';
   const answerQualifierKey = 'qualifier';
@@ -129,15 +237,15 @@ export default function Skin() {
   // quizz.handleGetUserAnswers([]);
 
   const answersArr = quizz.handleGetUserAnswers(
-    MOCK_ANSWERS,
-    answerQualifierKey
+    MOCK_ANSWERS_ADV,
+    productQualifierKey
   );
 
-  // const answersAdvArr = quizz.handleGetUserAnswers(
-  //   MOCK_ANSWERS_ADV,
-  //   productQualifierKey
-  // );
-  // console.log('SKIN', {answersAdvArr});
+  const answersAdvArr = quizz.handleGetUserAnswers(
+    MOCK_ANSWERS_ADV,
+    productQualifierKey
+  );
+  console.log('SKIN', { answersAdvArr });
   // console.log('SKIN', products.length);
 
   const tiedProducts = quizz.handleGetProductsResultByAnswers(
@@ -149,7 +257,8 @@ export default function Skin() {
   const catProducts = quizz.handleGetRegularResultsByCategory(
     products,
     answersArr,
-    productQualifierKey
+    productQualifierKey,
+    MOCK_MULTIPLE
   );
 
   console.log('SKIN', { tiedProducts });
@@ -161,108 +270,4 @@ export default function Skin() {
       <h1>Welcome to Skin quiz!</h1>
     </div>
   );
-}
-
-function getResultByGoalReference(arr) {
-  console.group(
-    '%c =======>  QUIZ  <========',
-    'background-color: #38C6D9; color: #fff',
-    'QUIZ'
-  );
-  console.log({ arr });
-  console.log({ multipleChoiceState });
-  console.log({ answerState });
-  // console.log({sqAdvancedResults})
-  // console.log({sqAdvancedResults})
-  console.groupEnd();
-  var idxForReference =
-    arr.length > 1 &&
-    arr.reduce((acc, ele) => {
-      ele.qualifiers.forEach((el) => {
-        el.name.includes('goal') ? (acc = +el.name.split('-')[1]) : null;
-      });
-      return acc;
-    }, '');
-
-  // name of the reference goal
-  var referenceGoal =
-    multipleChoiceState[idxForReference - 1]?.answersQualifiers[0].name;
-
-  // name of the reference qualifier for goal element
-  var referenceQualifier =
-    !![
-      ...arr.filter((ele) =>
-        ele?.qualifiers?.some(
-          (el) => el.name === multipleChoiceState[0]?.answersQualifiers[0]?.name
-        )
-      ),
-    ].find((el) => el.qualifiers.some((e) => e.name.includes('goal'))) &&
-    multipleChoiceState[0]?.answersQualifiers[0].name;
-
-  // check if the reference is at 1st in multipleChoice
-
-  console.log({ referenceQualifier });
-
-  if (
-    multipleChoiceState[0]?.answersQualifiers[0].name === referenceQualifier
-  ) {
-    // check if there's a product for the reference goal and this one doesn't contain goal in its qualifiers return product for the reference goal
-    // console.log('jumping into the #1 if qualifier 1st pos');
-    if (
-      arr.filter((ele) =>
-        ele.qualifiers.some((el) => el.name === referenceGoal)
-      ).length > 0 &&
-      arr
-        .filter((ele) =>
-          ele.qualifiers.some((el) => el.name === referenceGoal)
-        )[0]
-        ?.qualifiers?.some((e) => !e.name.includes('goal'))
-    ) {
-      // console.log(
-      //   'jumping into the #2 if return prod if is okay without goals'
-      // );
-      return arr
-        .filter((ele) => ele.qualifiers.some((el) => el.name === referenceGoal))
-        .filter((el) => !el.qualifiers.some((e) => e.name.includes('goal')));
-      // else return an array of products without goal in their qualifier
-    } else {
-      // console.log('jumping into the else return prod filtered without goal');
-      return arr.filter(
-        (el) => !el.qualifiers.some((e) => e.name.includes('goal'))
-      );
-    }
-    //valition to check if there's a product for 1st position in multipleChoice and this one doesn't contain goal in its qualifiers and return the product for this qualifier
-  } else if (
-    arr.filter((ele) =>
-      ele.qualifiers.some(
-        (el) => el.name === multipleChoiceState[0]?.answersQualifiers[0].name
-      )
-    ).length > 0 &&
-    !!arr
-      .filter((ele) =>
-        ele.qualifiers.some(
-          (el) => el.name === multipleChoiceState[0]?.answersQualifiers[0].name
-        )
-      )[0]
-      ?.qualifiers?.some((e) => !e.name.includes('goal'))
-  ) {
-    // return the product for the qualifier at the first position in multipleChoiceState
-    // console.log(
-    //   'jumping into the else if to return product for 1st position multichoice'
-    // );
-    return arr
-      .filter((ele) =>
-        ele.qualifiers.some(
-          (el) => el.name === multipleChoiceState[0]?.answersQualifiers[0].name
-        )
-      )
-      .filter((el) => !el.qualifiers.some((e) => e.name.includes('goal')));
-  } else {
-    // console.log(
-    //   'jumping into the last else to return prod filtered without goal'
-    // );
-    return arr.filter(
-      (el) => !el.qualifiers.some((e) => e.name.includes('goal'))
-    );
-  }
 }
