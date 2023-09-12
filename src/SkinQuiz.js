@@ -60,6 +60,54 @@ const MOCK_ANSWERS = [
   ],
 ];
 
+const MOCK_ANSWERS_ADV = [
+  [
+    {
+      type: 'skinType',
+      name: 'Oily',
+      _id: '2528e981-5f47-487d-88df-4a1105c75c30',
+    },
+  ],
+  [
+    {
+      type: 'skinTone',
+      name: 'Deep',
+      _id: 'e6f49597-28b3-4bbf-afbc-653c4c818702',
+    },
+  ],
+  [
+    {
+      type: 'sensitive',
+      name: 'No',
+      _id: 'da32d895-7c66-4e0e-8247-412c69e449b3',
+    },
+  ],
+  [
+    {
+      type: 'treat&prep',
+      name: 'Target under eye area',
+      _id: '774415ba-6de6-409f-8ab6-a9ffeb346d50',
+    },
+    {
+      type: 'treat&prep',
+      name: 'Minimize blackheads pores',
+      _id: '083e100c-ce5c-45ca-880c-0f243b7ddcc1',
+    },
+    {
+      type: 'treat&prep',
+      name: 'Improve digestive health',
+      _id: '3158f560-6a32-41a9-a7f6-12ccb636c56c',
+    },
+  ],
+  [
+    {
+      type: 'treat&prep',
+      name: 'Puffiness',
+      _id: 'bf922a28-8d07-4656-a393-18b470eeee13',
+    },
+  ],
+];
+
 export default function Skin() {
   const productQualifierKey = 'name';
   const answerQualifierKey = 'qualifier';
@@ -68,7 +116,7 @@ export default function Skin() {
 
   const foundQuestions = quizz.handleGetQuestionsByID(questions);
 
-  console.log({ foundQuestions });
+  // console.log('SKIN', { foundQuestions });
 
   // quizz.handleGetRegularResults([]);
   // quizz.handleGetUserAnswers([]);
@@ -77,7 +125,13 @@ export default function Skin() {
     MOCK_ANSWERS,
     answerQualifierKey
   );
-  // console.log(answersArr);
+
+  // const answersAdvArr = quizz.handleGetUserAnswers(
+  //   MOCK_ANSWERS_ADV,
+  //   productQualifierKey
+  // );
+  // console.log('SKIN', {answersAdvArr});
+  console.log('SKIN', products.length);
 
   const tiedProducts = quizz.handleGetProductsResultByAnswers(
     products,
@@ -91,9 +145,9 @@ export default function Skin() {
     productQualifierKey
   );
 
-  console.log('tiedProducts', tiedProducts);
-  console.log('catProducts', catProducts);
-  // console.log(tiedProducts.map((e) => e.quizzAttributes.qualifiers));
+  // console.log('SKIN', { tiedProducts });
+  console.log('SKIN', { catProducts });
+  // console.log(tiedProducts.map((e) => e.quizzAttributes.qualifiers));aazaz
 
   return (
     <div>
