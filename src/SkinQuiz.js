@@ -1,6 +1,7 @@
 import React, { useEffect } from 'react';
 import products from './products.json';
 import concProducts from './concealerResults.json';
+import advProducts from './advancedProducts.json';
 import questions from './questions.json';
 
 import './style.css';
@@ -26,42 +27,42 @@ const MOCK_ANSWERS = [
   [
     {
       type: 'skinType',
-      qualifier: 'Dry',
+      name: 'Dry',
       _id: 'e2cdf941-860e-4bc2-9a1c-ac783a306cb3',
     },
   ],
   [
     {
       type: 'skinTone',
-      qualifier: 'Light',
+      name: 'Light',
       _id: '579d58e1-c6d0-4430-ab72-76f9ad8e4ca9',
     },
   ],
   [
     {
       type: 'sensitive',
-      qualifier: 'No',
+      name: 'No',
       _id: 'da32d895-7c66-4e0e-8247-412c69e449b3',
     },
   ],
   [
     {
       type: 'treat&prep',
-      qualifier: 'Clarify acne blemishes',
+      name: 'Clarify acne blemishes',
       _id: 'c21ac12a-ec23-4b7c-b299-e0eda1c28628',
     },
   ],
   [
     {
       type: 'treat&prep',
-      qualifier: 'Protect from sun damage',
+      name: 'Protect from sun damage',
       _id: 'c21ac12a-ec23-4b7c-b299-e0eda1c28628',
     },
   ],
   [
     {
       type: 'breakouts',
-      qualifier: 'Breakouts all time',
+      name: 'Breakouts all time',
       _id: '51c6cf07-335e-4c9c-a288-02c4a9239958',
     },
   ],
@@ -231,13 +232,8 @@ export default function Skin() {
 
   const foundQuestions = quizz.handleGetQuestionsByID(questions);
 
-  // console.log('SKIN', { foundQuestions });
-
-  // quizz.handleGetRegularResults([]);
-  // quizz.handleGetUserAnswers([]);
-
   const answersArr = quizz.handleGetUserAnswers(
-    MOCK_ANSWERS_ADV,
+    MOCK_ANSWERS,
     productQualifierKey
   );
 
@@ -245,8 +241,6 @@ export default function Skin() {
     MOCK_ANSWERS_ADV,
     productQualifierKey
   );
-  console.log('SKIN', { answersAdvArr });
-  // console.log('SKIN', products.length);
 
   const tiedProducts = quizz.handleGetProductsResultByAnswers(
     products,
@@ -261,7 +255,15 @@ export default function Skin() {
     MOCK_MULTIPLE
   );
 
-  console.log('SKIN', { tiedProducts });
+  const advRoutine = quizz.handleGetAdvancedResults(
+    advProducts,
+    answersAdvArr,
+    products,
+    catProducts,
+    MOCK_MULTIPLE
+  );
+
+  console.log('SKIN', { advRoutine });
   console.log('SKIN', { catProducts });
   // console.log(tiedProducts.map((e) => e.quizzAttributes.qualifiers));aazaz
 
@@ -271,3 +273,25 @@ export default function Skin() {
     </div>
   );
 }
+
+const test = advProducts?.map((ele) => {
+  const newValue = { ...structuredClone(ele?.productRecommended) };
+  newValue.quizzAttributes = {
+    qualifiers: ele.qualifiers,
+    category: ele.category,
+    default: ele.default,
+    priorityOrder: ele.priorityOrder,
+  };
+
+  delete newValue.qualifiers;
+  delete newValue.priorityOrder;
+  delete newValue.category;
+  delete newValue.default;
+  delete newValue.productRecommended;
+  delete newValue.metafields;
+
+  return newValue;
+});
+
+console.log({ test });
+// console.log(JSON.stringify(test));

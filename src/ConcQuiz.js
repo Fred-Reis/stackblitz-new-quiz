@@ -56,11 +56,6 @@ export default function Conc() {
 
   const foundQuestions = quizz.handleGetQuestionsByID(questions);
 
-  // console.log({ foundQuestions });
-
-  // quizz.handleGetRegularResults([]);
-  // quizz.handleGetUserAnswers([]);
-
   const answersArr = quizz.handleGetUserAnswers(
     MOCK_CONC_ANSWERS,
     productQualifierKey
@@ -81,10 +76,6 @@ export default function Conc() {
 
   // console.log('CONC', { tiedProducts });
   console.log('CONC', { catProducts });
-  // console.log(
-  //   'CONC',
-  //   tiedProducts.map((e) => e.quizzAttributes.qualifiers).flat()
-  // );
 
   return (
     <div>
@@ -92,53 +83,3 @@ export default function Conc() {
     </div>
   );
 }
-
-// const test = [
-//   {
-//     name: 'Protect from sun damage - No Product - goal 2 reference - Treat & Prep',
-//     default: false,
-//     category: 'treat&prep',
-//     qualifiers: [
-//       {
-//         name: 'goal-2',
-//         type: 'goal',
-//       },
-//       {
-//         name: 'Protect from sun damage',
-//         type: 'treat&prep',
-//       },
-//     ],
-//     productRecommended: null,
-//   },
-//   {
-//     name: 'Target under-eye area - No Product - goal 2 reference - Treat & Prep',
-//     default: false,
-//     category: 'treat&prep',
-//     qualifiers: [
-//       {
-//         name: 'goal-2',
-//         type: 'goal',
-//       },
-//       {
-//         name: 'Target under eye area',
-//         type: 'treat&prep',
-//       },
-//     ],
-//     productRecommended: null,
-//   },
-// ]?.map((ele) => {
-//   const newValue = structuredClone(ele);
-//   newValue.quizzAttributes = {
-//     qualifiers: ele.qualifiers,
-//     category: ele.category,
-//     default: ele.default,
-//   };
-
-//   delete newValue.qualifiers;
-//   delete newValue.category;
-//   delete newValue.default;
-
-//   return newValue;
-// });
-
-// console.log(JSON.stringify(test))
