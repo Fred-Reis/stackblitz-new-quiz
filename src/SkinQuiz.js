@@ -1,7 +1,8 @@
 import React, { useEffect } from 'react';
 import products from './products.json';
 import concProducts from './concealerResults.json';
-import advProducts from './advancedProducts.json';
+// import advProducts from './advancedProducts.json';
+import advProducts from './newAdv.json';
 import questions from './questions.json';
 
 import './style.css';
@@ -274,24 +275,24 @@ export default function Skin() {
   );
 }
 
-const test = advProducts?.map((ele) => {
-  const newValue = { ...structuredClone(ele?.productRecommended) };
-  newValue.quizzAttributes = {
-    qualifiers: ele.qualifiers,
-    category: ele.category,
-    default: ele.default,
-    priorityOrder: ele.priorityOrder,
-  };
+// const test = advProducts?.map((ele) => {
+//   const newValue = { ...structuredClone(ele?.productRecommended) };
+//   newValue.quizzAttributes = {
+//     qualifiers: ele.qualifiers,
+//     category: ele.category,
+//     default: ele.default,
+//     priorityOrder: ele.priorityOrder,
+//   };
 
-  delete newValue.qualifiers;
-  delete newValue.priorityOrder;
-  delete newValue.category;
-  delete newValue.default;
-  delete newValue.productRecommended;
-  delete newValue.metafields;
+//   delete newValue.qualifiers;
+//   delete newValue.priorityOrder;
+//   delete newValue.category;
+//   delete newValue.default;
+//   delete newValue.productRecommended;
+//   delete newValue.metafields;
 
-  return newValue;
-});
+//   return newValue;
+// });
 
-console.log({ test });
+// console.log({ test });
 // console.log(JSON.stringify(test));

@@ -1,0 +1,290 @@
+[
+  {
+    "externalId": 6988509806765,
+    "name": "calming vitamin b serum",
+    "storefrontId": "Z2lkOi8vc2hvcGlmeS9Qcm9kdWN0LzY5ODg1MDk4MDY3NjU=",
+    "availableForSale": true,
+    "maxPrice": 48,
+    "createdAt": "2021-10-02T09:13:06Z",
+    "minPrice": 48,
+    "slug": "sensitive-skin-treatment-drops-calming-vitamin-b-serum",
+    "updatedAt": "2023-03-22T15:32:58Z",
+    "type": "Core",
+    "thumbnail": {
+      "name": "tulaskincare-pdp-sensitiveskintreatmentdrops_01-min_95e51163-fc4d-4f43-9a98-c1504825387f.jpg",
+      "size": 34856,
+      "_type": "image",
+      "width": 1024,
+      "height": 1272,
+      "mimeType": "image/jpeg",
+      "storageID": "d7de2d2b-9716-458f-9892-d77c3c3f3eb5",
+      "src": "https://f.shgcdn.com/d7de2d2b-9716-458f-9892-d77c3c3f3eb5/"
+    },
+    "variants": [
+      {
+        "name": "Default Title",
+        "price": 48,
+        "externalId": 40872234320045,
+        "sku": "1044",
+        "storefrontId": "Z2lkOi8vc2hvcGlmeS9Qcm9kdWN0VmFyaWFudC80MDg3MjIzNDMyMDA0NQ==",
+        "media": [],
+        "_id": "64429f1e-6f97-4dbf-9430-b62ac96a389e"
+      }
+    ],
+    "_id": "da58e035-1cbf-4d15-bce9-163952dbd251",
+    "quizzAttributes": {
+      "qualifiers": [
+        {
+          "type": "sensitive",
+          "name": "Yes",
+          "_id": "89d0787e-dd6c-4f97-a6b3-633202174592"
+        }
+      ],
+      "category": "",
+      "default": false,
+      "priorityOrder": 1
+    }
+  },
+  {
+    "externalId": 6988512329901,
+    "name": "14 Days of Balanced Beauty Gummy Vitamins (28 count)",
+    "storefrontId": "Z2lkOi8vc2hvcGlmeS9Qcm9kdWN0LzY5ODg1MTIzMjk5MDE=",
+    "availableForSale": true,
+    "maxPrice": 16,
+    "createdAt": "2021-10-02T09:13:14Z",
+    "minPrice": 16,
+    "slug": "balanced-berry-and-bright-14-days-of-balanced-beauty-gummy-vitamins",
+    "updatedAt": "2023-03-22T15:33:03Z",
+    "type": "Core",
+    "thumbnail": {
+      "name": "pdp-advent-calendar_01-min.jpg",
+      "size": 62970,
+      "_type": "image",
+      "width": 1024,
+      "height": 1272,
+      "mimeType": "image/jpeg",
+      "storageID": "d40cb061-424b-4552-8e7b-9f9126492dd8",
+      "src": "https://f.shgcdn.com/d40cb061-424b-4552-8e7b-9f9126492dd8/"
+    },
+    "variants": [
+      {
+        "name": "Default Title",
+        "price": 16,
+        "externalId": 40872237400237,
+        "sku": "3064",
+        "originalPrice": 28,
+        "storefrontId": "Z2lkOi8vc2hvcGlmeS9Qcm9kdWN0VmFyaWFudC80MDg3MjIzNzQwMDIzNw==",
+        "media": [],
+        "_id": "4f2ce34b-7559-496f-ad32-a7f6ed34f4bc"
+      }
+    ],
+    "_id": "9e86bbd3-cd5e-4150-a66a-337ed733cec6",
+    "quizzAttributes": {
+      "qualifiers": [],
+      "category": "",
+      "default": false,
+      "priorityOrder": 5
+    }
+  },
+  {
+    "externalId": 6988513869997,
+    "name": "luminizing & moisturizing primer (non-tinted)",
+    "storefrontId": "Z2lkOi8vc2hvcGlmeS9Qcm9kdWN0LzY5ODg1MTM4Njk5OTc=",
+    "availableForSale": true,
+    "maxPrice": 36,
+    "createdAt": "2021-10-02T09:13:20Z",
+    "minPrice": 26.6,
+    "slug": "first-light-untinted-moisturizing-primer",
+    "updatedAt": "2023-08-15T15:20:36Z",
+    "type": "",
+    "thumbnail": {
+      "name": "default_component_firstlight.jpg",
+      "size": 42751,
+      "_type": "image",
+      "width": 1024,
+      "height": 1272,
+      "mimeType": "image/jpeg",
+      "storageID": "2fdcaa77-e2bb-408a-93a9-a8f9a35b5c48",
+      "src": "https://f.shgcdn.com/2fdcaa77-e2bb-408a-93a9-a8f9a35b5c48/"
+    },
+    "variants": [
+      {
+        "name": "Regular - 1 oz",
+        "price": 26.6,
+        "externalId": 40872239497389,
+        "sku": "1066",
+        "originalPrice": 38,
+        "storefrontId": "Z2lkOi8vc2hvcGlmeS9Qcm9kdWN0VmFyaWFudC80MDg3MjIzOTQ5NzM4OQ==",
+        "media": [],
+        "_id": "8e8e1f2d-0ad6-4d40-8e2a-2da49c8046de"
+      },
+      {
+        "name": "Supersize - 2 oz",
+        "price": 36,
+        "externalId": 40872239562925,
+        "sku": "1071D",
+        "originalPrice": 60,
+        "storefrontId": "Z2lkOi8vc2hvcGlmeS9Qcm9kdWN0VmFyaWFudC80MDg3MjIzOTU2MjkyNQ==",
+        "media": [],
+        "_id": "c3501cd6-3b12-43f9-8630-dc0b4117e299"
+      }
+    ],
+    "_id": "e3c2a786-f4d5-4f1f-bf1e-f6ac97ddf3a1",
+    "quizzAttributes": {
+      "qualifiers": [],
+      "category": "",
+      "default": false,
+      "priorityOrder": 2
+    }
+  },
+  {
+    "externalId": 6988511609005,
+    "name": "smoothing primer gel",
+    "storefrontId": "Z2lkOi8vc2hvcGlmeS9Qcm9kdWN0LzY5ODg1MTE2MDkwMDU=",
+    "availableForSale": true,
+    "maxPrice": 23.8,
+    "createdAt": "2021-10-02T09:13:12Z",
+    "minPrice": 23.8,
+    "slug": "smoothing-primer-gel",
+    "updatedAt": "2023-03-22T15:33:01Z",
+    "type": "Core",
+    "thumbnail": {
+      "name": "tula-skincare-pdp-brightenup-yuzuprimer_01_NEW-min.jpg",
+      "size": 38218,
+      "_type": "image",
+      "width": 1024,
+      "height": 1272,
+      "mimeType": "image/jpeg",
+      "storageID": "16b1280a-d837-4127-ba9f-56395e80f7a6",
+      "src": "https://f.shgcdn.com/16b1280a-d837-4127-ba9f-56395e80f7a6/"
+    },
+    "variants": [
+      {
+        "name": "Default Title",
+        "price": 23.8,
+        "externalId": 40872236351661,
+        "sku": "1033",
+        "originalPrice": 34,
+        "storefrontId": "Z2lkOi8vc2hvcGlmeS9Qcm9kdWN0VmFyaWFudC80MDg3MjIzNjM1MTY2MQ==",
+        "media": [],
+        "_id": "d90b1032-96d2-4285-bca3-09360884a667"
+      }
+    ],
+    "_id": "9f6e9731-50d2-467f-b7e5-be26b7a16b8b",
+    "quizzAttributes": {
+      "qualifiers": [],
+      "category": "",
+      "default": false,
+      "priorityOrder": 8
+    }
+  },
+  {
+    "externalId": 6988510429357,
+    "name": "nourishing & brightening hydrogel mask",
+    "storefrontId": "Z2lkOi8vc2hvcGlmeS9Qcm9kdWN0LzY5ODg1MTA0MjkzNTc=",
+    "availableForSale": true,
+    "maxPrice": 28,
+    "createdAt": "2021-10-02T09:13:07Z",
+    "minPrice": 28,
+    "slug": "nourishing-brightening-cosmic-hydrogel-mask",
+    "updatedAt": "2023-03-22T15:32:59Z",
+    "type": "Core",
+    "thumbnail": {
+      "name": "pdp-star-bright_2021_NoBadge_01.jpg",
+      "size": 119573,
+      "_type": "image",
+      "width": 1024,
+      "height": 1272,
+      "mimeType": "image/jpeg",
+      "storageID": "16a53c6f-044f-415d-b3eb-772863244fae",
+      "src": "https://f.shgcdn.com/16a53c6f-044f-415d-b3eb-772863244fae/"
+    },
+    "variants": [
+      {
+        "name": "Default Title",
+        "price": 28,
+        "externalId": 40872234844333,
+        "sku": "1030-4",
+        "storefrontId": "Z2lkOi8vc2hvcGlmeS9Qcm9kdWN0VmFyaWFudC80MDg3MjIzNDg0NDMzMw==",
+        "media": [],
+        "_id": "87870c58-e08a-40af-b376-3b94fcd04269"
+      }
+    ],
+    "_id": "c941be11-2aa8-45be-8c0f-f930d3ea1ef3",
+    "quizzAttributes": {
+      "qualifiers": [],
+      "category": "",
+      "default": false,
+      "priorityOrder": 7
+    }
+  },
+  {
+    "quizzAttributes": {
+      "qualifiers": [
+        {
+          "type": "goal",
+          "name": "goal-2",
+          "_id": "ab59371d-3375-4bb1-9bb7-b560403e2da3"
+        }
+      ],
+      "category": "",
+      "default": false,
+      "priorityOrder": 3
+    }
+  },
+  {
+    "externalId": 6988514590893,
+    "name": "pro-glycolic 10% resurfacing toner",
+    "storefrontId": "Z2lkOi8vc2hvcGlmeS9Qcm9kdWN0LzY5ODg1MTQ1OTA4OTM=",
+    "availableForSale": true,
+    "maxPrice": 32.2,
+    "createdAt": "2021-10-02T09:13:22Z",
+    "minPrice": 32.2,
+    "slug": "pro-glycolic-10-ph-resurfacing-gel",
+    "updatedAt": "2023-03-22T15:33:07Z",
+    "type": "Core",
+    "thumbnail": {
+      "name": "tulaskincare-pdp-GetToned_01_NEW.jpg",
+      "size": 46532,
+      "_type": "image",
+      "width": 1024,
+      "height": 1272,
+      "mimeType": "image/jpeg",
+      "storageID": "ec3ba790-b3f6-424c-ade3-5aa55a05ffa7",
+      "src": "https://f.shgcdn.com/ec3ba790-b3f6-424c-ade3-5aa55a05ffa7/"
+    },
+    "variants": [
+      {
+        "name": "Default Title",
+        "price": 32.2,
+        "externalId": 40872240906413,
+        "sku": "1015C",
+        "originalPrice": 46,
+        "storefrontId": "Z2lkOi8vc2hvcGlmeS9Qcm9kdWN0VmFyaWFudC80MDg3MjI0MDkwNjQxMw==",
+        "media": [],
+        "_id": "383e01ef-f5cd-46fd-8242-94bbc13fea21"
+      }
+    ],
+    "_id": "5eddc7b8-9090-4ffd-9705-7ce3a0464238",
+    "quizzAttributes": {
+      "qualifiers": [],
+      "category": "",
+      "default": false,
+      "priorityOrder": 6
+    }
+  },
+  {
+    "quizzAttributes": {
+      "qualifiers": [
+        {
+          "type": "goal",
+          "name": "goal-3",
+          "_id": "668aa6e6-1280-4fc7-b45b-5ff5c41ed5c5"
+        }
+      ],
+      "category": "",
+      "default": false,
+      "priorityOrder": 4
+    }
+  }
+]
