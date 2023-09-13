@@ -112,36 +112,47 @@ export default function quizService(_quizModel = {}) {
     multipleChoiceState
   ) {
     let arrResult = [];
-
+    console.log({ coreRoutine });
     advancedArr.forEach((adv) => {
       // check if there’re any goal reference in advanced qualifiers array
-      if (adv.qualifiers?.some((e) => e.name.includes('goal'))) {
+      if (
+        adv?.quizzAttributes?.qualifiers?.some((e) => e.name.includes('goal'))
+      ) {
         let refIdx = '';
 
         // routine to get the goal number
-        adv.qualifiers.forEach((e) =>
+        adv.quizzAttributes.qualifiers.forEach((e) =>
           e.name.includes('goal') ? (refIdx = +e.name.split('-')[1]) : null
         );
 
+        console.log({ refIdx });
         // get the goal qualifier
         var referenceGoal =
           multipleChoiceState[refIdx - 1]?.answersQualifiers[0].name;
 
+        console.log(referenceGoal.toLowerCase());
         // validation to check if there’re products for the reference qualifier without goal reference in its qualifiers and which cover all answers
         if (
           results.filter((ele) =>
-            ele.qualifiers?.some((el) => el.name === referenceGoal)
+            ele.quizzAttributes.qualifiers?.some(
+              (el) => el.name.toLowerCase() === referenceGoal.toLowerCase()
+            )
           ).length > 0 &&
           results
             .filter((ele) =>
-              ele.qualifiers?.some((el) => el.name === referenceGoal)
+              ele.qualifiers?.some(
+                (el) => el.name.toLowerCase() === referenceGoal.toLowerCase()
+              )
             )[0]
             ?.qualifiers?.some((e) => !e.name.includes('goal'))
         ) {
+          console.log('TRUE');
           // get the product for the reference goal without goal in its qualifiers
           var returnObj = results
             .filter((ele) =>
-              ele.qualifiers?.some((el) => el.name === referenceGoal)
+              ele.qualifiers?.some(
+                (el) => el.name.toLowerCase() === referenceGoal.toLowerCase()
+              )
             )
             .filter(
               (el) => !el.qualifiers?.some((e) => e.name.includes('goal'))
@@ -166,10 +177,10 @@ export default function quizService(_quizModel = {}) {
     arrResult = arrResult.reduce((acc, ele) => {
       ![
         ...Object.keys(coreRoutine).map(
-          (item) => coreRoutine[item][0]?.productRecommended?.externalId
+          (item) => coreRoutine[item][0]?.externalId
         ),
-      ].includes(ele?.productRecommended?.externalId) &&
-      ele.qualifiers
+      ].includes(ele?.externalId) &&
+      ele.quizzAttributes.qualifiers
         .map((el) => el.name.toLowerCase())
         .every((item) => answers.includes(item.toLowerCase()))
         ? acc.push(ele)
@@ -178,7 +189,10 @@ export default function quizService(_quizModel = {}) {
     }, []);
 
     // ordering by priorityOrder
-    arrResult = arrResult.sort((a, b) => a.priorityOrder - b.priorityOrder);
+    arrResult = arrResult.sort(
+      (a, b) =>
+        a.quizzAttributes.priorityOrder - b.quizzAttributes.priorityOrder
+    );
 
     // function to remove duplicated products
     function uniq(data, key) {
@@ -186,7 +200,7 @@ export default function quizService(_quizModel = {}) {
     }
 
     // return arrResult;
-    return uniq(arrResult, (it) => it.productRecommended?.externalId);
+    return uniq(arrResult, (it) => it?.externalId);
   }
 
   return {
