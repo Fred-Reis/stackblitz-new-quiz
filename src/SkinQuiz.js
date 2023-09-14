@@ -1,6 +1,5 @@
-import React, { useEffect } from 'react';
+import React from 'react';
 import products from './products.json';
-import concProducts from './concealerResults.json';
 // import advProducts from './advancedProducts.json';
 import advProducts from './newAdv.json';
 import questions from './questions.json';
@@ -265,8 +264,15 @@ export default function Skin() {
     productQualifierKey
   );
 
-  console.log('SKIN', { advRoutine });
-  console.log('SKIN', { catProducts });
+  // console.log('SKIN', { advRoutine });
+  // console.log('SKIN', { catProducts });
+  let p = [];
+  const nP = products.reduce((acc, curr) => {
+    if (acc.includes(curr.externalId)) p = [...p, curr.externalId];
+    else acc.push(curr.externalId);
+    return acc;
+  }, []);
+  console.log('SKIN', { nP, p });
 
   return (
     <div>
