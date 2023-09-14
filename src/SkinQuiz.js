@@ -261,12 +261,12 @@ export default function Skin() {
     answersAdvArr,
     products,
     catProducts,
-    MOCK_MULTIPLE
+    MOCK_MULTIPLE,
+    productQualifierKey
   );
 
   console.log('SKIN', { advRoutine });
   console.log('SKIN', { catProducts });
-  // console.log(tiedProducts.map((e) => e.quizzAttributes.qualifiers));aazaz
 
   return (
     <div>
@@ -275,24 +275,24 @@ export default function Skin() {
   );
 }
 
-// const test = advProducts?.map((ele) => {
-//   const newValue = { ...structuredClone(ele?.productRecommended) };
-//   newValue.quizzAttributes = {
-//     qualifiers: ele.qualifiers,
-//     category: ele.category,
-//     default: ele.default,
-//     priorityOrder: ele.priorityOrder,
-//   };
+function convertProduct(_arr) {
+  return _arr?.map((ele) => {
+    const newValue = { ...structuredClone(ele?.productRecommended) };
 
-//   delete newValue.qualifiers;
-//   delete newValue.priorityOrder;
-//   delete newValue.category;
-//   delete newValue.default;
-//   delete newValue.productRecommended;
-//   delete newValue.metafields;
+    newValue.quizzAttributes = {
+      qualifiers: ele.qualifiers,
+      category: ele.category,
+      default: ele.default,
+      priorityOrder: ele.priorityOrder,
+    };
 
-//   return newValue;
-// });
+    delete newValue.qualifiers;
+    delete newValue.priorityOrder;
+    delete newValue.category;
+    delete newValue.default;
+    delete newValue.productRecommended;
+    delete newValue.metafields;
 
-// console.log({ test });
-// console.log(JSON.stringify(test));
+    return newValue;
+  });
+}
