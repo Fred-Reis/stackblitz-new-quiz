@@ -265,7 +265,8 @@ export default function Skin() {
   );
 
   // console.log('SKIN', { advRoutine });
-  // console.log('SKIN', { catProducts });
+  console.log('SKIN', { catProducts });
+  // console.log('SKIN', { tiedProducts });
   let p = [];
   const nP = products.reduce((acc, curr) => {
     if (acc.includes(curr.externalId)) p = [...p, curr.externalId];

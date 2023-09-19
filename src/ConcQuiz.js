@@ -74,8 +74,8 @@ export default function Conc() {
     productQualifierKey
   );
 
-  // console.log('CONC', { tiedProducts });
-  console.log('CONC', { catProducts });
+  console.log('CONC', { tiedProducts });
+  // console.log('CONC', { catProducts });
 
   return (
     <div>
