@@ -265,15 +265,8 @@ export default function Skin() {
   );
 
   // console.log('SKIN', { advRoutine });
-  console.log('SKIN', { catProducts });
+  // console.log('SKIN', { catProducts });
   // console.log('SKIN', { tiedProducts });
-  let p = [];
-  const nP = products.reduce((acc, curr) => {
-    if (acc.includes(curr.externalId)) p = [...p, curr.externalId];
-    else acc.push(curr.externalId);
-    return acc;
-  }, []);
-  console.log('SKIN', { nP, p });
 
   return (
     <div>
@@ -303,3 +296,25 @@ function convertProduct(_arr) {
     return newValue;
   });
 }
+
+function convert(_name) {
+  let name = _name.replaceAll(' - ', '-');
+  name = name.toLowerCase();
+  name = name.replaceAll(' ', '-');
+  return name;
+}
+
+let p = [];
+const nP = products.reduce((acc, curr) => {
+  if (acc.includes(curr.externalId)) p = [...p, curr.externalId];
+  else acc.push(curr.externalId);
+  return acc;
+}, []);
+
+let str = `
+Dryness - No Care - No Age - night
+`;
+
+// console.log(convert(str).trim());
+
+// console.log('SKIN', { nP, p });
